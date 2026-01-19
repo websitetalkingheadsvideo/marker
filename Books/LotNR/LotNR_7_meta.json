@@ -1,0 +1,762 @@
+{
+  "table_of_contents": [
+    {
+      "title": "media",
+      "heading_level": null,
+      "page_id": 100,
+      "polygon": [
+        [
+          64.125,
+          535.9468002319336
+        ],
+        [
+          93.11911010742188,
+          535.9468002319336
+        ],
+        [
+          93.11911010742188,
+          549.9468002319336
+        ],
+        [
+          64.125,
+          549.9468002319336
+        ]
+      ]
+    },
+    {
+      "title": "OCCULT",
+      "heading_level": null,
+      "page_id": 101,
+      "polygon": [
+        [
+          81.84375,
+          185.09765625
+        ],
+        [
+          115.5,
+          185.09765625
+        ],
+        [
+          115.5,
+          192.75
+        ],
+        [
+          81.84375,
+          192.75
+        ]
+      ]
+    },
+    {
+      "title": "Dofice",
+      "heading_level": null,
+      "page_id": 101,
+      "polygon": [
+        [
+          82.4765625,
+          438.75
+        ],
+        [
+          114.0,
+          438.75
+        ],
+        [
+          114.0,
+          447.0
+        ],
+        [
+          82.4765625,
+          447.0
+        ]
+      ]
+    },
+    {
+      "title": "politiCal",
+      "heading_level": null,
+      "page_id": 102,
+      "polygon": [
+        [
+          64.80000305175781,
+          166.66683959960938
+        ],
+        [
+          107.45790100097656,
+          166.66683959960938
+        ],
+        [
+          107.45790100097656,
+          180.66683959960938
+        ],
+        [
+          64.80000305175781,
+          180.66683959960938
+        ]
+      ]
+    },
+    {
+      "title": "street",
+      "heading_level": null,
+      "page_id": 102,
+      "polygon": [
+        [
+          64.546875,
+          380.1068115234375
+        ],
+        [
+          94.92220306396484,
+          380.1068115234375
+        ],
+        [
+          94.92220306396484,
+          394.10679626464844
+        ],
+        [
+          64.546875,
+          394.10679626464844
+        ]
+      ]
+    },
+    {
+      "title": "underworld",
+      "heading_level": null,
+      "page_id": 103,
+      "polygon": [
+        [
+          82.80000305175781,
+          279.8196105957031
+        ],
+        [
+          138.9958953857422,
+          279.8196105957031
+        ],
+        [
+          138.9958953857422,
+          293.8196105957031
+        ],
+        [
+          82.80000305175781,
+          293.8196105957031
+        ]
+      ]
+    },
+    {
+      "title": "university",
+      "heading_level": null,
+      "page_id": 103,
+      "polygon": [
+        [
+          82.265625,
+          485.2595977783203
+        ],
+        [
+          130.52859497070312,
+          485.2595977783203
+        ],
+        [
+          130.52859497070312,
+          499.2595977783203
+        ],
+        [
+          82.265625,
+          499.2595977783203
+        ]
+      ]
+    },
+    {
+      "title": "Mentor",
+      "heading_level": null,
+      "page_id": 104,
+      "polygon": [
+        [
+          54.0,
+          172.5
+        ],
+        [
+          99.75,
+          172.5
+        ],
+        [
+          99.75,
+          181.6171875
+        ],
+        [
+          54.0,
+          181.6171875
+        ]
+      ]
+    },
+    {
+      "title": "RESOURCES",
+      "heading_level": null,
+      "page_id": 104,
+      "polygon": [
+        [
+          53.578125,
+          540.73828125
+        ],
+        [
+          110.953125,
+          540.73828125
+        ],
+        [
+          110.953125,
+          547.69921875
+        ],
+        [
+          53.578125,
+          547.69921875
+        ]
+      ]
+    },
+    {
+      "title": "RETAINERS",
+      "heading_level": null,
+      "page_id": 105,
+      "polygon": [
+        [
+          71.9296875,
+          293.30859375
+        ],
+        [
+          128.25,
+          293.30859375
+        ],
+        [
+          128.25,
+          301.53515625
+        ],
+        [
+          71.9296875,
+          301.53515625
+        ]
+      ]
+    },
+    {
+      "title": "WILLDOWER",
+      "heading_level": null,
+      "page_id": 107,
+      "polygon": [
+        [
+          71.0859375,
+          461.3203125
+        ],
+        [
+          156.0,
+          461.3203125
+        ],
+        [
+          156.0,
+          475.5
+        ],
+        [
+          71.0859375,
+          475.2421875
+        ]
+      ]
+    },
+    {
+      "title": "VIRTUE TRAITS",
+      "heading_level": null,
+      "page_id": 108,
+      "polygon": [
+        [
+          52.9453125,
+          338.23828125
+        ],
+        [
+          157.5,
+          338.23828125
+        ],
+        [
+          157.5,
+          350.26171875
+        ],
+        [
+          52.9453125,
+          350.26171875
+        ]
+      ]
+    },
+    {
+      "title": "VIRTUE TESTS",
+      "heading_level": null,
+      "page_id": 108,
+      "polygon": [
+        [
+          52.9453125,
+          476.82421875
+        ],
+        [
+          126.7734375,
+          476.82421875
+        ],
+        [
+          126.7734375,
+          486.0
+        ],
+        [
+          52.9453125,
+          486.0
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 100,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          115
+        ],
+        [
+          "TableCell",
+          76
+        ],
+        [
+          "Line",
+          54
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 101,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          70
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "Span",
+          13
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 102,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          112
+        ],
+        [
+          "TableCell",
+          82
+        ],
+        [
+          "Line",
+          55
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 103,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          115
+        ],
+        [
+          "TableCell",
+          68
+        ],
+        [
+          "Line",
+          54
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 104,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          55
+        ],
+        [
+          "Span",
+          34
+        ],
+        [
+          "TableCell",
+          26
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 105,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          47
+        ],
+        [
+          "Span",
+          21
+        ],
+        [
+          "TableCell",
+          14
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 106,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          63
+        ],
+        [
+          "Span",
+          20
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 107,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          60
+        ],
+        [
+          "Span",
+          8
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 108,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          66
+        ],
+        [
+          "Span",
+          16
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 109,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          64
+        ],
+        [
+          "Span",
+          24
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\LotNR"
+}

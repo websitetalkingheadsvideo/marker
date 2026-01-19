@@ -1,0 +1,800 @@
+{
+  "table_of_contents": [
+    {
+      "title": "MORALITY TRAITS",
+      "heading_level": null,
+      "page_id": 70,
+      "polygon": [
+        [
+          64.5,
+          211.359375
+        ],
+        [
+          137.25,
+          211.359375
+        ],
+        [
+          137.25,
+          219.75
+        ],
+        [
+          64.5,
+          219.75
+        ]
+      ]
+    },
+    {
+      "title": "NEGATIVE TRAITS",
+      "heading_level": null,
+      "page_id": 70,
+      "polygon": [
+        [
+          64.5,
+          392.34375
+        ],
+        [
+          135.75,
+          392.34375
+        ],
+        [
+          135.75,
+          402.75
+        ],
+        [
+          64.5,
+          402.75
+        ]
+      ]
+    },
+    {
+      "title": "BACKGROUNDS",
+      "heading_level": null,
+      "page_id": 70,
+      "polygon": [
+        [
+          183.0,
+          438.75
+        ],
+        [
+          242.25,
+          438.75
+        ],
+        [
+          242.25,
+          447.08203125
+        ],
+        [
+          183.0,
+          447.08203125
+        ]
+      ]
+    },
+    {
+      "title": "step Five: spark oF liFe",
+      "heading_level": null,
+      "page_id": 72,
+      "polygon": [
+        [
+          54.0,
+          303.7978515625
+        ],
+        [
+          186.02980041503906,
+          303.7978515625
+        ],
+        [
+          186.02980041503906,
+          321.7978515625
+        ],
+        [
+          54.0,
+          321.7978515625
+        ]
+      ]
+    },
+    {
+      "title": "derangements",
+      "heading_level": null,
+      "page_id": 72,
+      "polygon": [
+        [
+          178.875,
+          540.4795989990234
+        ],
+        [
+          244.759521484375,
+          540.4795989990234
+        ],
+        [
+          244.759521484375,
+          554.4795989990234
+        ],
+        [
+          178.875,
+          554.4795989990234
+        ]
+      ]
+    },
+    {
+      "title": "arChetypes",
+      "heading_level": null,
+      "page_id": 73,
+      "polygon": [
+        [
+          71.71875,
+          165.73651123046875
+        ],
+        [
+          159.964599609375,
+          165.73651123046875
+        ],
+        [
+          159.964599609375,
+          189.73651123046875
+        ],
+        [
+          71.71875,
+          189.73651123046875
+        ]
+      ]
+    },
+    {
+      "title": "morality paths",
+      "heading_level": null,
+      "page_id": 74,
+      "polygon": [
+        [
+          54.0,
+          376.616455078125
+        ],
+        [
+          175.32998657226562,
+          376.616455078125
+        ],
+        [
+          175.32998657226562,
+          400.61643981933594
+        ],
+        [
+          54.0,
+          400.61643981933594
+        ]
+      ]
+    },
+    {
+      "title": "humanity",
+      "heading_level": null,
+      "page_id": 75,
+      "polygon": [
+        [
+          71.71875,
+          422.51866149902344
+        ],
+        [
+          129.09375,
+          422.51866149902344
+        ],
+        [
+          129.09375,
+          440.51866149902344
+        ],
+        [
+          71.71875,
+          440.51866149902344
+        ]
+      ]
+    },
+    {
+      "title": "the path oF Blood",
+      "heading_level": null,
+      "page_id": 76,
+      "polygon": [
+        [
+          52.734375,
+          368.4886779785156
+        ],
+        [
+          161.4199981689453,
+          368.4886779785156
+        ],
+        [
+          161.4199981689453,
+          386.4886779785156
+        ],
+        [
+          52.734375,
+          386.4886779785156
+        ]
+      ]
+    },
+    {
+      "title": "the path oF Bones",
+      "heading_level": null,
+      "page_id": 77,
+      "polygon": [
+        [
+          71.9296875,
+          290.9786682128906
+        ],
+        [
+          178.0970001220703,
+          290.9786682128906
+        ],
+        [
+          178.0970001220703,
+          308.9786682128906
+        ],
+        [
+          71.9296875,
+          308.9786682128906
+        ]
+      ]
+    },
+    {
+      "title": "the path oF metamorphosis",
+      "heading_level": null,
+      "page_id": 77,
+      "polygon": [
+        [
+          70.875,
+          441.2986602783203
+        ],
+        [
+          232.7431182861328,
+          441.2986602783203
+        ],
+        [
+          232.7431182861328,
+          459.2986602783203
+        ],
+        [
+          70.875,
+          459.2986602783203
+        ]
+      ]
+    },
+    {
+      "title": "THE DATH OF NIGHT",
+      "heading_level": null,
+      "page_id": 78,
+      "polygon": [
+        [
+          54.0,
+          285.71484375
+        ],
+        [
+          161.25,
+          285.71484375
+        ],
+        [
+          161.25,
+          296.47265625
+        ],
+        [
+          54.0,
+          296.47265625
+        ]
+      ]
+    },
+    {
+      "title": "THE DATH OF DARADOX",
+      "heading_level": null,
+      "page_id": 78,
+      "polygon": [
+        [
+          52.3125,
+          421.453125
+        ],
+        [
+          175.5,
+          421.453125
+        ],
+        [
+          175.5,
+          434.109375
+        ],
+        [
+          52.3125,
+          434.109375
+        ]
+      ]
+    },
+    {
+      "title": "the path oF typhon",
+      "heading_level": null,
+      "page_id": 79,
+      "polygon": [
+        [
+          71.71875,
+          189.3594970703125
+        ],
+        [
+          187.26451110839844,
+          189.3594970703125
+        ],
+        [
+          187.26451110839844,
+          207.3594970703125
+        ],
+        [
+          71.71875,
+          207.3594970703125
+        ]
+      ]
+    },
+    {
+      "title": "attriButes (Bidding traits) The Traits that describe your character's innate capabilities are called At-",
+      "heading_level": null,
+      "page_id": 79,
+      "polygon": [
+        [
+          70.03125,
+          515.42578125
+        ],
+        [
+          378.01007080078125,
+          515.42578125
+        ],
+        [
+          378.01007080078125,
+          548.8859252929688
+        ],
+        [
+          70.03125,
+          548.8859252929688
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 70,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          68
+        ],
+        [
+          "Span",
+          31
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 71,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          98
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 72,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          150
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "ListItem",
+          12
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 73,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          106
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 74,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          98
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "ListItem",
+          19
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 75,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          108
+        ],
+        [
+          "Line",
+          53
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 76,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          97
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "TableCell",
+          41
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 77,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          114
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "TableCell",
+          28
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 78,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          51
+        ],
+        [
+          "TableCell",
+          14
+        ],
+        [
+          "Span",
+          11
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 79,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          107
+        ],
+        [
+          "Line",
+          44
+        ],
+        [
+          "TableCell",
+          34
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\LotNR"
+}

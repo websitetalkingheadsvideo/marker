@@ -1,0 +1,1261 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Aegis",
+      "heading_level": null,
+      "page_id": 150,
+      "polygon": [
+        [
+          70.453125,
+          138.26953125
+        ],
+        [
+          93.75,
+          138.26953125
+        ],
+        [
+          93.75,
+          146.49609375
+        ],
+        [
+          70.453125,
+          146.49609375
+        ]
+      ]
+    },
+    {
+      "title": "Melpominee",
+      "heading_level": null,
+      "page_id": 150,
+      "polygon": [
+        [
+          54.0,
+          286.03125
+        ],
+        [
+          126.0,
+          286.03125
+        ],
+        [
+          126.0,
+          296.25
+        ],
+        [
+          54.0,
+          296.25
+        ]
+      ]
+    },
+    {
+      "title": "The Missing Voice",
+      "heading_level": null,
+      "page_id": 150,
+      "polygon": [
+        [
+          70.875,
+          493.59375
+        ],
+        [
+          147.0,
+          493.59375
+        ],
+        [
+          147.0,
+          503.71875
+        ],
+        [
+          70.875,
+          503.71875
+        ]
+      ]
+    },
+    {
+      "title": "Madrigal",
+      "heading_level": null,
+      "page_id": 151,
+      "polygon": [
+        [
+          89.4375,
+          155.98828125
+        ],
+        [
+          126.30999755859375,
+          155.98828125
+        ],
+        [
+          126.30999755859375,
+          166.16815185546875
+        ],
+        [
+          89.4375,
+          166.16815185546875
+        ]
+      ]
+    },
+    {
+      "title": "Siren's Beckoning",
+      "heading_level": null,
+      "page_id": 151,
+      "polygon": [
+        [
+          89.6484375,
+          316.40625
+        ],
+        [
+          163.4765625,
+          316.40625
+        ],
+        [
+          163.4765625,
+          327.9281311035156
+        ],
+        [
+          89.6484375,
+          327.9281311035156
+        ]
+      ]
+    },
+    {
+      "title": "Virtuosa",
+      "heading_level": null,
+      "page_id": 151,
+      "polygon": [
+        [
+          87.328125,
+          438.2481384277344
+        ],
+        [
+          124.98999786376953,
+          438.2481384277344
+        ],
+        [
+          124.98999786376953,
+          448.2481384277344
+        ],
+        [
+          87.328125,
+          448.2481384277344
+        ]
+      ]
+    },
+    {
+      "title": "neCromanCy",
+      "heading_level": null,
+      "page_id": 151,
+      "polygon": [
+        [
+          70.875,
+          556.6786575317383
+        ],
+        [
+          141.91539001464844,
+          556.6786575317383
+        ],
+        [
+          141.91539001464844,
+          574.6786575317383
+        ],
+        [
+          70.875,
+          574.6786575317383
+        ]
+      ]
+    },
+    {
+      "title": "the sepulChre path",
+      "heading_level": null,
+      "page_id": 152,
+      "polygon": [
+        [
+          54.0,
+          258.27874755859375
+        ],
+        [
+          171.64437866210938,
+          258.27874755859375
+        ],
+        [
+          171.64437866210938,
+          276.27874755859375
+        ],
+        [
+          54.0,
+          276.27874755859375
+        ]
+      ]
+    },
+    {
+      "title": "Insight",
+      "heading_level": null,
+      "page_id": 152,
+      "polygon": [
+        [
+          70.6640625,
+          372.09375
+        ],
+        [
+          100.36000061035156,
+          372.09375
+        ],
+        [
+          100.36000061035156,
+          382.6482238769531
+        ],
+        [
+          70.6640625,
+          382.6482238769531
+        ]
+      ]
+    },
+    {
+      "title": "Summon Soul",
+      "heading_level": null,
+      "page_id": 152,
+      "polygon": [
+        [
+          70.453125,
+          469.86328125
+        ],
+        [
+          130.359375,
+          469.86328125
+        ],
+        [
+          130.359375,
+          480.5682067871094
+        ],
+        [
+          70.453125,
+          480.5682067871094
+        ]
+      ]
+    },
+    {
+      "title": "Compel Soul",
+      "heading_level": null,
+      "page_id": 153,
+      "polygon": [
+        [
+          87.9609375,
+          141.43359375
+        ],
+        [
+          143.2265625,
+          141.43359375
+        ],
+        [
+          143.2265625,
+          151.4483642578125
+        ],
+        [
+          87.9609375,
+          151.4483642578125
+        ]
+      ]
+    },
+    {
+      "title": "Haunting",
+      "heading_level": null,
+      "page_id": 153,
+      "polygon": [
+        [
+          89.4375,
+          281.6015625
+        ],
+        [
+          129.9375,
+          281.6015625
+        ],
+        [
+          129.9375,
+          292.4083557128906
+        ],
+        [
+          89.4375,
+          292.4083557128906
+        ]
+      ]
+    },
+    {
+      "title": "Torment",
+      "heading_level": null,
+      "page_id": 153,
+      "polygon": [
+        [
+          88.8046875,
+          413.1283264160156
+        ],
+        [
+          125.93000030517578,
+          413.1283264160156
+        ],
+        [
+          125.93000030517578,
+          423.1283264160156
+        ],
+        [
+          88.8046875,
+          423.1283264160156
+        ]
+      ]
+    },
+    {
+      "title": "the ash path",
+      "heading_level": null,
+      "page_id": 153,
+      "polygon": [
+        [
+          70.6640625,
+          510.75885009765625
+        ],
+        [
+          151.19329833984375,
+          510.75885009765625
+        ],
+        [
+          151.19329833984375,
+          528.7588500976562
+        ],
+        [
+          70.6640625,
+          528.7588500976562
+        ]
+      ]
+    },
+    {
+      "title": "Shroudsight",
+      "heading_level": null,
+      "page_id": 154,
+      "polygon": [
+        [
+          70.2421875,
+          88.91015625
+        ],
+        [
+          121.19999694824219,
+          88.91015625
+        ],
+        [
+          121.19999694824219,
+          99.048095703125
+        ],
+        [
+          70.2421875,
+          99.048095703125
+        ]
+      ]
+    },
+    {
+      "title": "Lifeless Tongues",
+      "heading_level": null,
+      "page_id": 154,
+      "polygon": [
+        [
+          71.296875,
+          183.36813354492188
+        ],
+        [
+          137.5699920654297,
+          183.36813354492188
+        ],
+        [
+          137.5699920654297,
+          193.36813354492188
+        ],
+        [
+          71.296875,
+          193.36813354492188
+        ]
+      ]
+    },
+    {
+      "title": "Dead Hand",
+      "heading_level": null,
+      "page_id": 154,
+      "polygon": [
+        [
+          71.71875,
+          279.703125
+        ],
+        [
+          119.8125,
+          279.703125
+        ],
+        [
+          119.8125,
+          290.088134765625
+        ],
+        [
+          71.71875,
+          290.088134765625
+        ]
+      ]
+    },
+    {
+      "title": "Ex Nihilo",
+      "heading_level": null,
+      "page_id": 154,
+      "polygon": [
+        [
+          70.875,
+          419.23828125
+        ],
+        [
+          111.375,
+          419.23828125
+        ],
+        [
+          111.375,
+          429.6082305908203
+        ],
+        [
+          70.875,
+          429.6082305908203
+        ]
+      ]
+    },
+    {
+      "title": "Shroud Mastery",
+      "heading_level": null,
+      "page_id": 155,
+      "polygon": [
+        [
+          88.59375,
+          131.94140625
+        ],
+        [
+          154.82000732421875,
+          131.94140625
+        ],
+        [
+          154.82000732421875,
+          142.48822021484375
+        ],
+        [
+          88.59375,
+          142.48822021484375
+        ]
+      ]
+    },
+    {
+      "title": "the Bone path",
+      "heading_level": null,
+      "page_id": 155,
+      "polygon": [
+        [
+          71.5078125,
+          325.15875244140625
+        ],
+        [
+          159.027099609375,
+          325.15875244140625
+        ],
+        [
+          159.027099609375,
+          343.15875244140625
+        ],
+        [
+          71.5078125,
+          343.15875244140625
+        ]
+      ]
+    },
+    {
+      "title": "Tremens",
+      "heading_level": null,
+      "page_id": 155,
+      "polygon": [
+        [
+          87.75,
+          418.7282409667969
+        ],
+        [
+          125.47999572753906,
+          418.7282409667969
+        ],
+        [
+          125.47999572753906,
+          428.7282409667969
+        ],
+        [
+          87.75,
+          428.7282409667969
+        ]
+      ]
+    },
+    {
+      "title": "Apprentice's Brooms",
+      "heading_level": null,
+      "page_id": 155,
+      "polygon": [
+        [
+          88.8046875,
+          525.55078125
+        ],
+        [
+          176.1328125,
+          525.55078125
+        ],
+        [
+          176.1328125,
+          537.57421875
+        ],
+        [
+          88.8046875,
+          537.57421875
+        ]
+      ]
+    },
+    {
+      "title": "Shambling Hordes",
+      "heading_level": null,
+      "page_id": 156,
+      "polygon": [
+        [
+          69.609375,
+          120.234375
+        ],
+        [
+          147.5699920654297,
+          120.234375
+        ],
+        [
+          147.5699920654297,
+          130.359375
+        ],
+        [
+          69.609375,
+          130.359375
+        ]
+      ]
+    },
+    {
+      "title": "Soul Stealing",
+      "heading_level": null,
+      "page_id": 156,
+      "polygon": [
+        [
+          72.00000762939453,
+          263.56640625
+        ],
+        [
+          124.875,
+          263.56640625
+        ],
+        [
+          124.875,
+          274.5682067871094
+        ],
+        [
+          72.00000762939453,
+          274.5682067871094
+        ]
+      ]
+    },
+    {
+      "title": "Daemonic Possession",
+      "heading_level": null,
+      "page_id": 156,
+      "polygon": [
+        [
+          69.8203125,
+          371.14453125
+        ],
+        [
+          158.08001708984375,
+          371.14453125
+        ],
+        [
+          158.08001708984375,
+          381.2883605957031
+        ],
+        [
+          69.8203125,
+          381.2883605957031
+        ]
+      ]
+    },
+    {
+      "title": "neCromantiC rituals",
+      "heading_level": null,
+      "page_id": 156,
+      "polygon": [
+        [
+          54.0,
+          500.11875915527344
+        ],
+        [
+          173.98460388183594,
+          500.11875915527344
+        ],
+        [
+          173.98460388183594,
+          518.1187591552734
+        ],
+        [
+          54.0,
+          518.1187591552734
+        ]
+      ]
+    },
+    {
+      "title": "Call of the Hungry Dead",
+      "heading_level": null,
+      "page_id": 157,
+      "polygon": [
+        [
+          89.015625,
+          141.75
+        ],
+        [
+          191.109375,
+          141.75
+        ],
+        [
+          191.109375,
+          152.48822021484375
+        ],
+        [
+          89.015625,
+          152.48822021484375
+        ]
+      ]
+    },
+    {
+      "title": "Eyes of the Grave",
+      "heading_level": null,
+      "page_id": 157,
+      "polygon": [
+        [
+          89.015625,
+          205.34765625
+        ],
+        [
+          159.9499969482422,
+          205.34765625
+        ],
+        [
+          159.9499969482422,
+          215.36825561523438
+        ],
+        [
+          89.015625,
+          215.36825561523438
+        ]
+      ]
+    },
+    {
+      "title": "Spirit Beacon",
+      "heading_level": null,
+      "page_id": 157,
+      "polygon": [
+        [
+          88.3828125,
+          328.74609375
+        ],
+        [
+          145.3000030517578,
+          328.74609375
+        ],
+        [
+          145.3000030517578,
+          339.688232421875
+        ],
+        [
+          88.3828125,
+          339.688232421875
+        ]
+      ]
+    },
+    {
+      "title": "Cadaver's Touch",
+      "heading_level": null,
+      "page_id": 157,
+      "polygon": [
+        [
+          88.59375,
+          414.96824645996094
+        ],
+        [
+          156.69000244140625,
+          414.96824645996094
+        ],
+        [
+          156.69000244140625,
+          424.96824645996094
+        ],
+        [
+          88.59375,
+          424.96824645996094
+        ]
+      ]
+    },
+    {
+      "title": "Call On the Shadow's Grace",
+      "heading_level": null,
+      "page_id": 157,
+      "polygon": [
+        [
+          89.015625,
+          523.01953125
+        ],
+        [
+          204.609375,
+          523.01953125
+        ],
+        [
+          204.609375,
+          533.2882537841797
+        ],
+        [
+          89.015625,
+          533.2882537841797
+        ]
+      ]
+    },
+    {
+      "title": "Ritual of the Unearthed Fetter",
+      "heading_level": null,
+      "page_id": 158,
+      "polygon": [
+        [
+          72.0,
+          107.26171875
+        ],
+        [
+          196.38998413085938,
+          107.26171875
+        ],
+        [
+          196.38998413085938,
+          118.648193359375
+        ],
+        [
+          72.0,
+          118.648193359375
+        ]
+      ]
+    },
+    {
+      "title": "Grasp the Ghostly",
+      "heading_level": null,
+      "page_id": 158,
+      "polygon": [
+        [
+          70.6640625,
+          269.89453125
+        ],
+        [
+          145.48001098632812,
+          269.89453125
+        ],
+        [
+          145.48001098632812,
+          280.5681457519531
+        ],
+        [
+          70.6640625,
+          280.5681457519531
+        ]
+      ]
+    },
+    {
+      "title": "oBeah",
+      "heading_level": null,
+      "page_id": 158,
+      "polygon": [
+        [
+          54.0,
+          388.9986572265625
+        ],
+        [
+          90.5885009765625,
+          388.9986572265625
+        ],
+        [
+          90.5885009765625,
+          406.9986572265625
+        ],
+        [
+          54.0,
+          406.9986572265625
+        ]
+      ]
+    },
+    {
+      "title": "Sense Vitality",
+      "heading_level": null,
+      "page_id": 158,
+      "polygon": [
+        [
+          70.03125,
+          546.4081344604492
+        ],
+        [
+          127.40625,
+          546.4081344604492
+        ],
+        [
+          127.40625,
+          556.4081344604492
+        ],
+        [
+          70.03125,
+          556.4081344604492
+        ]
+      ]
+    },
+    {
+      "title": "Anesthetic Touch",
+      "heading_level": null,
+      "page_id": 159,
+      "polygon": [
+        [
+          88.59375,
+          203.6883544921875
+        ],
+        [
+          161.2100067138672,
+          203.6883544921875
+        ],
+        [
+          161.2100067138672,
+          213.6883544921875
+        ],
+        [
+          88.59375,
+          213.6883544921875
+        ]
+      ]
+    },
+    {
+      "title": "Corpore Sano",
+      "heading_level": null,
+      "page_id": 159,
+      "polygon": [
+        [
+          87.75,
+          378.421875
+        ],
+        [
+          146.8125,
+          378.421875
+        ],
+        [
+          146.8125,
+          388.88836669921875
+        ],
+        [
+          87.75,
+          388.88836669921875
+        ]
+      ]
+    },
+    {
+      "title": "Mens Sana",
+      "heading_level": null,
+      "page_id": 159,
+      "polygon": [
+        [
+          87.1171875,
+          507.83203125
+        ],
+        [
+          133.9453125,
+          507.83203125
+        ],
+        [
+          133.9453125,
+          518.0083312988281
+        ],
+        [
+          87.1171875,
+          518.0083312988281
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 150,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          64
+        ],
+        [
+          "Span",
+          29
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 151,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          126
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 152,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          134
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 153,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          122
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 154,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          109
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 155,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          117
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 156,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          121
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 157,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          109
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 158,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          115
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 159,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          107
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\LotNR"
+}

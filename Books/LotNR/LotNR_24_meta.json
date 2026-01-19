@@ -1,0 +1,213 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Index",
+      "heading_level": null,
+      "page_id": 270,
+      "polygon": [
+        [
+          170.859375,
+          53.0989990234375
+        ],
+        [
+          242.578125,
+          53.0989990234375
+        ],
+        [
+          242.578125,
+          83.0989990234375
+        ],
+        [
+          170.859375,
+          83.0989990234375
+        ]
+      ]
+    },
+    {
+      "title": "Mind's Eye Theatre Land Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe Softhe",
+      "heading_level": null,
+      "page_id": 272,
+      "polygon": [
+        [
+          35.4375,
+          29.7421875
+        ],
+        [
+          394.875,
+          29.7421875
+        ],
+        [
+          394.875,
+          249.9609375
+        ],
+        [
+          35.4375,
+          249.9609375
+        ]
+      ]
+    },
+    {
+      "title": "it's a new night",
+      "heading_level": null,
+      "page_id": 272,
+      "polygon": [
+        [
+          127.5,
+          308.49609375
+        ],
+        [
+          319.78125,
+          308.49609375
+        ],
+        [
+          319.78125,
+          331.91015625
+        ],
+        [
+          127.5,
+          331.91015625
+        ]
+      ]
+    },
+    {
+      "title": "The Rules Have changed",
+      "heading_level": null,
+      "page_id": 272,
+      "polygon": [
+        [
+          75.0,
+          387.28125
+        ],
+        [
+          372.9375,
+          387.28125
+        ],
+        [
+          372.9375,
+          412.59375
+        ],
+        [
+          75.0,
+          412.59375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 270,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          239
+        ],
+        [
+          "Line",
+          120
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 271,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          175
+        ],
+        [
+          "TableCell",
+          102
+        ],
+        [
+          "Line",
+          88
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 272,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          22
+        ],
+        [
+          "Span",
+          8
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\LotNR"
+}

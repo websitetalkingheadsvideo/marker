@@ -1,0 +1,602 @@
+{
+  "table_of_contents": [
+    {
+      "title": "COURAGE",
+      "heading_level": null,
+      "page_id": 110,
+      "polygon": [
+        [
+          63.75,
+          312.92578125
+        ],
+        [
+          103.5,
+          312.92578125
+        ],
+        [
+          103.5,
+          322.41796875
+        ],
+        [
+          63.75,
+          322.41796875
+        ]
+      ]
+    },
+    {
+      "title": "morality traits",
+      "heading_level": null,
+      "page_id": 111,
+      "polygon": [
+        [
+          72.0,
+          192.13641357421875
+        ],
+        [
+          195.21890258789062,
+          192.13641357421875
+        ],
+        [
+          195.21890258789062,
+          216.13641357421875
+        ],
+        [
+          72.0,
+          216.13641357421875
+        ]
+      ]
+    },
+    {
+      "title": "DERANGEMENTS",
+      "heading_level": null,
+      "page_id": 112,
+      "polygon": [
+        [
+          54.0,
+          175.2890625
+        ],
+        [
+          165.0,
+          175.2890625
+        ],
+        [
+          165.0,
+          189.2109375
+        ],
+        [
+          54.0,
+          189.2109375
+        ]
+      ]
+    },
+    {
+      "title": "NEGATIVE TRAITS",
+      "heading_level": null,
+      "page_id": 112,
+      "polygon": [
+        [
+          54.0,
+          258.8203125
+        ],
+        [
+          174.75,
+          258.8203125
+        ],
+        [
+          174.75,
+          272.7421875
+        ],
+        [
+          54.0,
+          272.7421875
+        ]
+      ]
+    },
+    {
+      "title": "MERITS AND FLAWS",
+      "heading_level": null,
+      "page_id": 112,
+      "polygon": [
+        [
+          54.0,
+          363.234375
+        ],
+        [
+          184.5,
+          363.234375
+        ],
+        [
+          184.5,
+          375.890625
+        ],
+        [
+          54.0,
+          375.890625
+        ]
+      ]
+    },
+    {
+      "title": "PHYSICAL MERITS AND FLAWS",
+      "heading_level": null,
+      "page_id": 112,
+      "polygon": [
+        [
+          54.0,
+          517.0078125
+        ],
+        [
+          204.75,
+          517.0078125
+        ],
+        [
+          204.75,
+          530.9296875
+        ],
+        [
+          54.0,
+          530.9296875
+        ]
+      ]
+    },
+    {
+      "title": "MENTAL MERITS AND FLAWS",
+      "heading_level": null,
+      "page_id": 116,
+      "polygon": [
+        [
+          54.0,
+          141.1171875
+        ],
+        [
+          198.0,
+          141.1171875
+        ],
+        [
+          198.0,
+          151.2421875
+        ],
+        [
+          54.0,
+          151.2421875
+        ]
+      ]
+    },
+    {
+      "title": "Social Merits and flaws",
+      "heading_level": null,
+      "page_id": 118,
+      "polygon": [
+        [
+          52.734375,
+          406.265625
+        ],
+        [
+          190.265625,
+          406.265625
+        ],
+        [
+          190.265625,
+          418.921875
+        ],
+        [
+          52.734375,
+          418.921875
+        ]
+      ]
+    },
+    {
+      "title": "SUPERNATURAL MERITS AND FLAWS",
+      "heading_level": null,
+      "page_id": 119,
+      "polygon": [
+        [
+          71.71875,
+          522.703125
+        ],
+        [
+          251.25,
+          522.703125
+        ],
+        [
+          251.25,
+          535.359375
+        ],
+        [
+          71.71875,
+          535.359375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 110,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          51
+        ],
+        [
+          "Span",
+          18
+        ],
+        [
+          "TableCell",
+          16
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 111,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          111
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "TableCell",
+          14
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 112,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          65
+        ],
+        [
+          "Span",
+          17
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 113,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          110
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "Text",
+          20
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 114,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          70
+        ],
+        [
+          "Span",
+          30
+        ],
+        [
+          "Text",
+          18
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 115,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          69
+        ],
+        [
+          "Span",
+          36
+        ],
+        [
+          "Text",
+          18
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 116,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          69
+        ],
+        [
+          "Span",
+          26
+        ],
+        [
+          "Text",
+          17
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 117,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          70
+        ],
+        [
+          "Span",
+          29
+        ],
+        [
+          "Text",
+          19
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 118,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          69
+        ],
+        [
+          "Span",
+          34
+        ],
+        [
+          "Text",
+          17
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 119,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          68
+        ],
+        [
+          "Span",
+          27
+        ],
+        [
+          "Text",
+          16
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\LotNR"
+}

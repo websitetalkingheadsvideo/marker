@@ -1,0 +1,965 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Scourge",
+      "heading_level": null,
+      "page_id": 220,
+      "polygon": [
+        [
+          71.25,
+          87.0
+        ],
+        [
+          105.0,
+          87.0
+        ],
+        [
+          105.0,
+          96.1875
+        ],
+        [
+          71.25,
+          96.1875
+        ]
+      ]
+    },
+    {
+      "title": "Drestation",
+      "heading_level": null,
+      "page_id": 220,
+      "polygon": [
+        [
+          54.0,
+          234.140625
+        ],
+        [
+          117.75,
+          234.140625
+        ],
+        [
+          117.75,
+          244.265625
+        ],
+        [
+          54.0,
+          244.265625
+        ]
+      ]
+    },
+    {
+      "title": "GIVING THE DEVIL HIS DUE: REPAYING DRESTATION DEBTS",
+      "heading_level": null,
+      "page_id": 220,
+      "polygon": [
+        [
+          64.5,
+          492.64453125
+        ],
+        [
+          302.25,
+          492.64453125
+        ],
+        [
+          302.25,
+          504.66796875
+        ],
+        [
+          64.5,
+          504.66796875
+        ]
+      ]
+    },
+    {
+      "title": "CAMARILLA JUSTICE",
+      "heading_level": null,
+      "page_id": 221,
+      "polygon": [
+        [
+          71.71875,
+          202.18359375
+        ],
+        [
+          172.5,
+          202.18359375
+        ],
+        [
+          172.5,
+          212.94140625
+        ],
+        [
+          71.71875,
+          212.94140625
+        ]
+      ]
+    },
+    {
+      "title": "THE SABBAT",
+      "heading_level": null,
+      "page_id": 221,
+      "polygon": [
+        [
+          71.0859375,
+          505.30078125
+        ],
+        [
+          156.0,
+          505.30078125
+        ],
+        [
+          156.0,
+          517.32421875
+        ],
+        [
+          71.0859375,
+          517.32421875
+        ]
+      ]
+    },
+    {
+      "title": "SABBAT STATUS TRAITS",
+      "heading_level": null,
+      "page_id": 221,
+      "polygon": [
+        [
+          70.875,
+          519.5390625
+        ],
+        [
+          189.0,
+          519.5390625
+        ],
+        [
+          189.0,
+          529.5
+        ],
+        [
+          70.875,
+          529.5
+        ]
+      ]
+    },
+    {
+      "title": "SABBAT STATIONS",
+      "heading_level": null,
+      "page_id": 222,
+      "polygon": [
+        [
+          54.0,
+          120.55078125
+        ],
+        [
+          143.25,
+          120.55078125
+        ],
+        [
+          143.25,
+          129.0
+        ],
+        [
+          54.0,
+          129.0
+        ]
+      ]
+    },
+    {
+      "title": "GAINING AND LOSING SABBAT STATUS",
+      "heading_level": null,
+      "page_id": 222,
+      "polygon": [
+        [
+          64.5,
+          218.00390625
+        ],
+        [
+          211.5,
+          218.00390625
+        ],
+        [
+          211.5,
+          227.49609375
+        ],
+        [
+          64.5,
+          227.49609375
+        ]
+      ]
+    },
+    {
+      "title": "SABBAT BITUALS",
+      "heading_level": null,
+      "page_id": 222,
+      "polygon": [
+        [
+          53.15625,
+          406.5
+        ],
+        [
+          137.25,
+          406.5
+        ],
+        [
+          137.25,
+          414.75
+        ],
+        [
+          53.15625,
+          414.75
+        ]
+      ]
+    },
+    {
+      "title": "Using Rituals in a Game Setting",
+      "heading_level": null,
+      "page_id": 222,
+      "polygon": [
+        [
+          64.125,
+          419.25
+        ],
+        [
+          205.5,
+          419.25
+        ],
+        [
+          205.5,
+          429.99609375
+        ],
+        [
+          64.125,
+          429.99609375
+        ]
+      ]
+    },
+    {
+      "title": "KINDS OF RITUALS",
+      "heading_level": null,
+      "page_id": 222,
+      "polygon": [
+        [
+          64.3359375,
+          474.0
+        ],
+        [
+          136.5,
+          474.0
+        ],
+        [
+          136.5,
+          481.88671875
+        ],
+        [
+          64.3359375,
+          481.88671875
+        ]
+      ]
+    },
+    {
+      "title": "Auctoritas Ritae",
+      "heading_level": null,
+      "page_id": 222,
+      "polygon": [
+        [
+          63.75,
+          538.20703125
+        ],
+        [
+          140.25,
+          538.20703125
+        ],
+        [
+          140.25,
+          546.75
+        ],
+        [
+          63.75,
+          546.75
+        ]
+      ]
+    },
+    {
+      "title": "The Creation Rites",
+      "heading_level": null,
+      "page_id": 222,
+      "polygon": [
+        [
+          70.2421875,
+          573.0
+        ],
+        [
+          150.0,
+          573.0
+        ],
+        [
+          150.0,
+          580.60546875
+        ],
+        [
+          70.2421875,
+          580.60546875
+        ]
+      ]
+    },
+    {
+      "title": "Games of Instinct",
+      "heading_level": null,
+      "page_id": 223,
+      "polygon": [
+        [
+          87.9609375,
+          140.16796875
+        ],
+        [
+          162.0,
+          140.16796875
+        ],
+        [
+          162.0,
+          148.39453125
+        ],
+        [
+          87.9609375,
+          148.39453125
+        ]
+      ]
+    },
+    {
+      "title": "EXPANDED RULES FOR AUCTORITAS RITAE",
+      "heading_level": null,
+      "page_id": 224,
+      "polygon": [
+        [
+          54.0,
+          129.7265625
+        ],
+        [
+          264.75,
+          129.7265625
+        ],
+        [
+          264.75,
+          140.25
+        ],
+        [
+          54.0,
+          140.25
+        ]
+      ]
+    },
+    {
+      "title": "CREATION RITES",
+      "heading_level": null,
+      "page_id": 224,
+      "polygon": [
+        [
+          63.703125,
+          144.0
+        ],
+        [
+          130.5,
+          144.0
+        ],
+        [
+          130.5,
+          151.55859375
+        ],
+        [
+          63.703125,
+          151.55859375
+        ]
+      ]
+    },
+    {
+      "title": "After the Emergence",
+      "heading_level": null,
+      "page_id": 224,
+      "polygon": [
+        [
+          70.453125,
+          421.5
+        ],
+        [
+          156.75,
+          421.5
+        ],
+        [
+          156.75,
+          431.89453125
+        ],
+        [
+          70.453125,
+          431.89453125
+        ]
+      ]
+    },
+    {
+      "title": "Vaulderie and Vinculum",
+      "heading_level": null,
+      "page_id": 224,
+      "polygon": [
+        [
+          53.578125,
+          497.70703125
+        ],
+        [
+          191.25,
+          497.70703125
+        ],
+        [
+          191.25,
+          506.25
+        ],
+        [
+          53.578125,
+          506.25
+        ]
+      ]
+    },
+    {
+      "title": "Vaulderie Rules",
+      "heading_level": null,
+      "page_id": 224,
+      "polygon": [
+        [
+          70.875,
+          552.75
+        ],
+        [
+          136.5,
+          552.75
+        ],
+        [
+          136.5,
+          560.35546875
+        ],
+        [
+          70.875,
+          560.35546875
+        ]
+      ]
+    },
+    {
+      "title": "A Clarification of the Heightened Bond",
+      "heading_level": null,
+      "page_id": 225,
+      "polygon": [
+        [
+          89.4375,
+          150.29296875
+        ],
+        [
+          251.92999267578125,
+          150.29296875
+        ],
+        [
+          251.92999267578125,
+          161.28817749023438
+        ],
+        [
+          89.4375,
+          161.28817749023438
+        ]
+      ]
+    },
+    {
+      "title": "Monomacy, Punishment and Vinculum",
+      "heading_level": null,
+      "page_id": 225,
+      "polygon": [
+        [
+          88.171875,
+          365.44921875
+        ],
+        [
+          252.1899871826172,
+          365.44921875
+        ],
+        [
+          252.1899871826172,
+          376.4881896972656
+        ],
+        [
+          88.171875,
+          376.4881896972656
+        ]
+      ]
+    },
+    {
+      "title": "monomaCy",
+      "heading_level": null,
+      "page_id": 225,
+      "polygon": [
+        [
+          81.0,
+          494.02671813964844
+        ],
+        [
+          130.78125,
+          494.02671813964844
+        ],
+        [
+          130.78125,
+          508.02671813964844
+        ],
+        [
+          81.0,
+          508.02671813964844
+        ]
+      ]
+    },
+    {
+      "title": "CHAPTER SIX:\nSTORYTELLING",
+      "heading_level": null,
+      "page_id": 228,
+      "polygon": [
+        [
+          71.71875,
+          74.0390625
+        ],
+        [
+          338.34375,
+          74.0390625
+        ],
+        [
+          338.34375,
+          227.1796875
+        ],
+        [
+          71.71875,
+          227.1796875
+        ]
+      ]
+    },
+    {
+      "title": "are you a storyteller?",
+      "heading_level": null,
+      "page_id": 228,
+      "polygon": [
+        [
+          51.890625,
+          258.56268310546875
+        ],
+        [
+          229.0778045654297,
+          258.56268310546875
+        ],
+        [
+          229.0778045654297,
+          282.5626525878906
+        ],
+        [
+          51.890625,
+          282.5626525878906
+        ]
+      ]
+    },
+    {
+      "title": "taking up the mantle",
+      "heading_level": null,
+      "page_id": 228,
+      "polygon": [
+        [
+          53.578125,
+          394.46485900878906
+        ],
+        [
+          181.78720092773438,
+          394.46485900878906
+        ],
+        [
+          181.78720092773438,
+          412.46485900878906
+        ],
+        [
+          53.578125,
+          412.46485900878906
+        ]
+      ]
+    },
+    {
+      "title": "BUILDING STORIES",
+      "heading_level": null,
+      "page_id": 229,
+      "polygon": [
+        [
+          72.0,
+          340.76953125
+        ],
+        [
+          167.2734375,
+          340.76953125
+        ],
+        [
+          167.2734375,
+          352.79296875
+        ],
+        [
+          72.0,
+          352.79296875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 220,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          52
+        ],
+        [
+          "Span",
+          50
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 221,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          64
+        ],
+        [
+          "Span",
+          17
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 222,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          65
+        ],
+        [
+          "Span",
+          30
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "Picture",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 223,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          77
+        ],
+        [
+          "Span",
+          34
+        ],
+        [
+          "Text",
+          25
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 224,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          64
+        ],
+        [
+          "Span",
+          22
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 225,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          105
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 226,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 227,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          79
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "Text",
+          8
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 228,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          69
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 229,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          60
+        ],
+        [
+          "Span",
+          8
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\LotNR"
+}

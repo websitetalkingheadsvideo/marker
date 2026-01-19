@@ -1,0 +1,858 @@
+{
+  "table_of_contents": [
+    {
+      "title": "soCial traits",
+      "heading_level": null,
+      "page_id": 82,
+      "polygon": [
+        [
+          54.0,
+          113.638671875
+        ],
+        [
+          129.3291015625,
+          113.638671875
+        ],
+        [
+          129.3291015625,
+          131.638671875
+        ],
+        [
+          54.0,
+          131.638671875
+        ]
+      ]
+    },
+    {
+      "title": "mental traits",
+      "heading_level": null,
+      "page_id": 83,
+      "polygon": [
+        [
+          70.453125,
+          504.7186584472656
+        ],
+        [
+          154.62449645996094,
+          504.7186584472656
+        ],
+        [
+          154.62449645996094,
+          522.7186584472656
+        ],
+        [
+          70.453125,
+          522.7186584472656
+        ]
+      ]
+    },
+    {
+      "title": "aBilities",
+      "heading_level": null,
+      "page_id": 85,
+      "polygon": [
+        [
+          71.296875,
+          383.17645263671875
+        ],
+        [
+          139.40139770507812,
+          383.17645263671875
+        ],
+        [
+          139.40139770507812,
+          407.1764373779297
+        ],
+        [
+          71.296875,
+          407.1764373779297
+        ]
+      ]
+    },
+    {
+      "title": "FoCusing aBilities",
+      "heading_level": null,
+      "page_id": 86,
+      "polygon": [
+        [
+          53.15625,
+          213.95867919921875
+        ],
+        [
+          157.11349487304688,
+          213.95867919921875
+        ],
+        [
+          157.11349487304688,
+          231.95867919921875
+        ],
+        [
+          53.15625,
+          231.95867919921875
+        ]
+      ]
+    },
+    {
+      "title": "aBility speCializations",
+      "heading_level": null,
+      "page_id": 86,
+      "polygon": [
+        [
+          54.0,
+          281.3986511230469
+        ],
+        [
+          185.203125,
+          281.3986511230469
+        ],
+        [
+          185.203125,
+          299.3986511230469
+        ],
+        [
+          54.0,
+          299.3986511230469
+        ]
+      ]
+    },
+    {
+      "title": "Academics",
+      "heading_level": null,
+      "page_id": 87,
+      "polygon": [
+        [
+          88.3828125,
+          105.99609375
+        ],
+        [
+          133.5,
+          105.99609375
+        ],
+        [
+          133.5,
+          114.75
+        ],
+        [
+          88.3828125,
+          114.75
+        ]
+      ]
+    },
+    {
+      "title": "Animal Ken",
+      "heading_level": null,
+      "page_id": 87,
+      "polygon": [
+        [
+          87.75,
+          231.609375
+        ],
+        [
+          141.0,
+          231.609375
+        ],
+        [
+          141.0,
+          240.0
+        ],
+        [
+          87.75,
+          240.0
+        ]
+      ]
+    },
+    {
+      "title": "Athletics",
+      "heading_level": null,
+      "page_id": 87,
+      "polygon": [
+        [
+          87.75,
+          345.83203125
+        ],
+        [
+          126.0,
+          345.83203125
+        ],
+        [
+          126.0,
+          354.75
+        ],
+        [
+          87.75,
+          354.75
+        ]
+      ]
+    },
+    {
+      "title": "Awareness",
+      "heading_level": null,
+      "page_id": 87,
+      "polygon": [
+        [
+          87.5390625,
+          421.76953125
+        ],
+        [
+          131.8359375,
+          421.76953125
+        ],
+        [
+          131.8359375,
+          428.73046875
+        ],
+        [
+          87.5390625,
+          428.73046875
+        ]
+      ]
+    },
+    {
+      "title": "Brawl",
+      "heading_level": null,
+      "page_id": 87,
+      "polygon": [
+        [
+          89.015625,
+          505.30078125
+        ],
+        [
+          114.328125,
+          505.30078125
+        ],
+        [
+          114.328125,
+          512.26171875
+        ],
+        [
+          89.015625,
+          512.26171875
+        ]
+      ]
+    },
+    {
+      "title": "Crafts",
+      "heading_level": null,
+      "page_id": 88,
+      "polygon": [
+        [
+          71.296875,
+          118.65234375
+        ],
+        [
+          95.765625,
+          118.65234375
+        ],
+        [
+          95.765625,
+          126.87890625
+        ],
+        [
+          71.296875,
+          126.87890625
+        ]
+      ]
+    },
+    {
+      "title": "Dodge",
+      "heading_level": null,
+      "page_id": 88,
+      "polygon": [
+        [
+          71.25,
+          274.0078125
+        ],
+        [
+          99.0,
+          274.0078125
+        ],
+        [
+          99.0,
+          283.5
+        ],
+        [
+          71.25,
+          283.5
+        ]
+      ]
+    },
+    {
+      "title": "Drive",
+      "heading_level": null,
+      "page_id": 88,
+      "polygon": [
+        [
+          72.140625,
+          338.23828125
+        ],
+        [
+          94.078125,
+          338.23828125
+        ],
+        [
+          94.078125,
+          345.19921875
+        ],
+        [
+          72.140625,
+          345.19921875
+        ]
+      ]
+    },
+    {
+      "title": "Empathy",
+      "heading_level": null,
+      "page_id": 88,
+      "polygon": [
+        [
+          71.296875,
+          423.3515625
+        ],
+        [
+          108.421875,
+          423.3515625
+        ],
+        [
+          108.421875,
+          432.2109375
+        ],
+        [
+          71.296875,
+          432.2109375
+        ]
+      ]
+    },
+    {
+      "title": "Etiquette",
+      "heading_level": null,
+      "page_id": 88,
+      "polygon": [
+        [
+          71.25,
+          506.8828125
+        ],
+        [
+          109.5,
+          506.8828125
+        ],
+        [
+          109.5,
+          515.7421875
+        ],
+        [
+          71.25,
+          515.7421875
+        ]
+      ]
+    },
+    {
+      "title": "Finance",
+      "heading_level": null,
+      "page_id": 89,
+      "polygon": [
+        [
+          88.8046875,
+          138.5859375
+        ],
+        [
+          123.0,
+          138.5859375
+        ],
+        [
+          123.0,
+          146.25
+        ],
+        [
+          88.8046875,
+          146.25
+        ]
+      ]
+    },
+    {
+      "title": "Firearms",
+      "heading_level": null,
+      "page_id": 89,
+      "polygon": [
+        [
+          87.9609375,
+          243.0
+        ],
+        [
+          126.0,
+          243.0
+        ],
+        [
+          126.0,
+          250.59375
+        ],
+        [
+          87.9609375,
+          250.59375
+        ]
+      ]
+    },
+    {
+      "title": "Hobby/Professional/Expert Ability",
+      "heading_level": null,
+      "page_id": 89,
+      "polygon": [
+        [
+          88.59375,
+          326.53125
+        ],
+        [
+          233.25,
+          326.53125
+        ],
+        [
+          233.25,
+          336.75
+        ],
+        [
+          88.59375,
+          336.75
+        ]
+      ]
+    },
+    {
+      "title": "Intimidation",
+      "heading_level": null,
+      "page_id": 89,
+      "polygon": [
+        [
+          89.25,
+          411.64453125
+        ],
+        [
+          142.5,
+          411.64453125
+        ],
+        [
+          142.5,
+          420.0
+        ],
+        [
+          89.25,
+          420.0
+        ]
+      ]
+    },
+    {
+      "title": "Investigation",
+      "heading_level": null,
+      "page_id": 89,
+      "polygon": [
+        [
+          87.9609375,
+          477.0
+        ],
+        [
+          142.5,
+          477.0
+        ],
+        [
+          142.5,
+          484.5
+        ],
+        [
+          87.9609375,
+          484.5
+        ]
+      ]
+    },
+    {
+      "title": "Law",
+      "heading_level": null,
+      "page_id": 89,
+      "polygon": [
+        [
+          88.8046875,
+          540.73828125
+        ],
+        [
+          106.9453125,
+          540.73828125
+        ],
+        [
+          106.9453125,
+          547.69921875
+        ],
+        [
+          88.8046875,
+          547.69921875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 80,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          73
+        ],
+        [
+          "Span",
+          47
+        ],
+        [
+          "Text",
+          23
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 81,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          142
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "Text",
+          33
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 82,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          155
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "Text",
+          32
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 83,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          153
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "Text",
+          29
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 84,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          133
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "Text",
+          29
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 85,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          117
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "Text",
+          23
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 86,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          136
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 87,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          66
+        ],
+        [
+          "Span",
+          22
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 88,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          66
+        ],
+        [
+          "Span",
+          41
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 89,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          69
+        ],
+        [
+          "Span",
+          42
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\LotNR"
+}

@@ -1,0 +1,1008 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Aggravated Wounds",
+      "heading_level": null,
+      "page_id": 200,
+      "polygon": [
+        [
+          63.75,
+          149.25
+        ],
+        [
+          153.0,
+          148.5
+        ],
+        [
+          153.0,
+          159.15234375
+        ],
+        [
+          63.75,
+          159.15234375
+        ]
+      ]
+    },
+    {
+      "title": "Sunlight",
+      "heading_level": null,
+      "page_id": 200,
+      "polygon": [
+        [
+          70.03125,
+          210.41015625
+        ],
+        [
+          107.25,
+          210.41015625
+        ],
+        [
+          107.25,
+          219.90234375
+        ],
+        [
+          70.03125,
+          219.90234375
+        ]
+      ]
+    },
+    {
+      "title": "Fire",
+      "heading_level": null,
+      "page_id": 200,
+      "polygon": [
+        [
+          71.25,
+          272.109375
+        ],
+        [
+          89.25,
+          272.109375
+        ],
+        [
+          89.25,
+          279.703125
+        ],
+        [
+          71.25,
+          279.703125
+        ]
+      ]
+    },
+    {
+      "title": "\u0421\u043e\u043c\u0432\u0430\u0442",
+      "heading_level": null,
+      "page_id": 200,
+      "polygon": [
+        [
+          54.0,
+          345.83203125
+        ],
+        [
+          111.0,
+          345.83203125
+        ],
+        [
+          111.0,
+          357.85546875
+        ],
+        [
+          54.0,
+          357.85546875
+        ]
+      ]
+    },
+    {
+      "title": "Surprise",
+      "heading_level": null,
+      "page_id": 200,
+      "polygon": [
+        [
+          54.0,
+          472.7109375
+        ],
+        [
+          103.78125,
+          472.7109375
+        ],
+        [
+          103.78125,
+          484.1015625
+        ],
+        [
+          54.0,
+          484.1015625
+        ]
+      ]
+    },
+    {
+      "title": "Three Step Rule",
+      "heading_level": null,
+      "page_id": 201,
+      "polygon": [
+        [
+          89.015625,
+          65.49609375
+        ],
+        [
+          156.75,
+          65.49609375
+        ],
+        [
+          156.75,
+          75.0
+        ],
+        [
+          89.015625,
+          75.0
+        ]
+      ]
+    },
+    {
+      "title": "FAIR ESCADE",
+      "heading_level": null,
+      "page_id": 201,
+      "polygon": [
+        [
+          72.0,
+          129.41015625
+        ],
+        [
+          137.25,
+          129.41015625
+        ],
+        [
+          137.25,
+          139.5
+        ],
+        [
+          72.0,
+          139.5
+        ]
+      ]
+    },
+    {
+      "title": "Weapons",
+      "heading_level": null,
+      "page_id": 201,
+      "polygon": [
+        [
+          71.296875,
+          414.4921875
+        ],
+        [
+          123.75,
+          414.4921875
+        ],
+        [
+          123.75,
+          425.8828125
+        ],
+        [
+          71.296875,
+          425.8828125
+        ]
+      ]
+    },
+    {
+      "title": "Concealability",
+      "heading_level": null,
+      "page_id": 202,
+      "polygon": [
+        [
+          70.03125,
+          105.99609375
+        ],
+        [
+          129.82000732421875,
+          105.99609375
+        ],
+        [
+          129.82000732421875,
+          116.64813232421875
+        ],
+        [
+          70.03125,
+          116.64813232421875
+        ]
+      ]
+    },
+    {
+      "title": "Availability",
+      "heading_level": null,
+      "page_id": 202,
+      "polygon": [
+        [
+          69.609375,
+          168.64453125
+        ],
+        [
+          117.55000305175781,
+          168.64453125
+        ],
+        [
+          117.55000305175781,
+          179.52813720703125
+        ],
+        [
+          69.609375,
+          179.52813720703125
+        ]
+      ]
+    },
+    {
+      "title": "speCial weapon CapaBilities",
+      "heading_level": null,
+      "page_id": 202,
+      "polygon": [
+        [
+          64.80000305175781,
+          322.6668395996094
+        ],
+        [
+          191.53125,
+          322.6668395996094
+        ],
+        [
+          191.53125,
+          336.6668395996094
+        ],
+        [
+          64.80000305175781,
+          336.6668395996094
+        ]
+      ]
+    },
+    {
+      "title": "Armor-Piercing",
+      "heading_level": null,
+      "page_id": 202,
+      "polygon": [
+        [
+          70.875,
+          367.28814697265625
+        ],
+        [
+          135.84375,
+          367.28814697265625
+        ],
+        [
+          135.84375,
+          377.28814697265625
+        ],
+        [
+          70.875,
+          377.28814697265625
+        ]
+      ]
+    },
+    {
+      "title": "Destroy Shield",
+      "heading_level": null,
+      "page_id": 202,
+      "polygon": [
+        [
+          70.875,
+          420.1681365966797
+        ],
+        [
+          131.1800079345703,
+          420.1681365966797
+        ],
+        [
+          131.1800079345703,
+          430.1681365966797
+        ],
+        [
+          70.875,
+          430.1681365966797
+        ]
+      ]
+    },
+    {
+      "title": "Fully Automatic",
+      "heading_level": null,
+      "page_id": 202,
+      "polygon": [
+        [
+          70.03125,
+          472.078125
+        ],
+        [
+          137.77000427246094,
+          472.078125
+        ],
+        [
+          137.77000427246094,
+          483.0481262207031
+        ],
+        [
+          70.03125,
+          483.0481262207031
+        ]
+      ]
+    },
+    {
+      "title": "High-Caliber",
+      "heading_level": null,
+      "page_id": 202,
+      "polygon": [
+        [
+          71.0859375,
+          524.91796875
+        ],
+        [
+          124.09000396728516,
+          524.91796875
+        ],
+        [
+          124.09000396728516,
+          535.9281387329102
+        ],
+        [
+          71.0859375,
+          535.9281387329102
+        ]
+      ]
+    },
+    {
+      "title": "Incendiary",
+      "heading_level": null,
+      "page_id": 202,
+      "polygon": [
+        [
+          71.0859375,
+          578.6081390380859
+        ],
+        [
+          116.00999450683594,
+          578.6081390380859
+        ],
+        [
+          116.00999450683594,
+          588.6081352233887
+        ],
+        [
+          71.0859375,
+          588.6081352233887
+        ]
+      ]
+    },
+    {
+      "title": "Speed",
+      "heading_level": null,
+      "page_id": 203,
+      "polygon": [
+        [
+          88.3828125,
+          137.63671875
+        ],
+        [
+          114.75,
+          137.63671875
+        ],
+        [
+          114.75,
+          147.12890625
+        ],
+        [
+          88.3828125,
+          147.12890625
+        ]
+      ]
+    },
+    {
+      "title": "Spray",
+      "heading_level": null,
+      "page_id": 203,
+      "polygon": [
+        [
+          89.2265625,
+          249.64453125
+        ],
+        [
+          112.4296875,
+          249.64453125
+        ],
+        [
+          112.4296875,
+          259.13671875
+        ],
+        [
+          89.2265625,
+          259.13671875
+        ]
+      ]
+    },
+    {
+      "title": "Staking",
+      "heading_level": null,
+      "page_id": 203,
+      "polygon": [
+        [
+          88.8046875,
+          311.25
+        ],
+        [
+          121.5,
+          311.25
+        ],
+        [
+          121.5,
+          321.15234375
+        ],
+        [
+          88.8046875,
+          321.15234375
+        ]
+      ]
+    },
+    {
+      "title": "BIDDING WEADON TRAITS",
+      "heading_level": null,
+      "page_id": 203,
+      "polygon": [
+        [
+          82.5,
+          354.75
+        ],
+        [
+          187.5,
+          354.75
+        ],
+        [
+          187.5,
+          363.55078125
+        ],
+        [
+          82.5,
+          363.55078125
+        ]
+      ]
+    },
+    {
+      "title": "Weapon Examples",
+      "heading_level": null,
+      "page_id": 203,
+      "polygon": [
+        [
+          71.5078125,
+          436.640625
+        ],
+        [
+          175.5,
+          436.640625
+        ],
+        [
+          175.5,
+          449.296875
+        ],
+        [
+          71.5078125,
+          449.296875
+        ]
+      ]
+    },
+    {
+      "title": "MELEE AND BRAWLING",
+      "heading_level": null,
+      "page_id": 207,
+      "polygon": [
+        [
+          82.5,
+          295.5
+        ],
+        [
+          173.25,
+          295.5234375
+        ],
+        [
+          173.25,
+          304.3828125
+        ],
+        [
+          82.5,
+          304.3828125
+        ]
+      ]
+    },
+    {
+      "title": "Specialized Fighting Styles",
+      "heading_level": null,
+      "page_id": 207,
+      "polygon": [
+        [
+          81.84375,
+          399.75
+        ],
+        [
+          204.75,
+          399.75
+        ],
+        [
+          204.75,
+          409.4296875
+        ],
+        [
+          81.84375,
+          409.4296875
+        ]
+      ]
+    },
+    {
+      "title": "Two-Gun Mojo",
+      "heading_level": null,
+      "page_id": 207,
+      "polygon": [
+        [
+          70.2421875,
+          441.703125
+        ],
+        [
+          159.0,
+          441.703125
+        ],
+        [
+          159.0,
+          454.359375
+        ],
+        [
+          70.2421875,
+          454.359375
+        ]
+      ]
+    },
+    {
+      "title": "Contests oF will",
+      "heading_level": null,
+      "page_id": 208,
+      "polygon": [
+        [
+          54.0,
+          224.5765380859375
+        ],
+        [
+          181.828125,
+          224.5765380859375
+        ],
+        [
+          181.828125,
+          248.57650756835938
+        ],
+        [
+          54.0,
+          248.57650756835938
+        ]
+      ]
+    },
+    {
+      "title": "Frenzy",
+      "heading_level": null,
+      "page_id": 208,
+      "polygon": [
+        [
+          54.0,
+          328.216552734375
+        ],
+        [
+          105.046875,
+          328.216552734375
+        ],
+        [
+          105.046875,
+          352.2165222167969
+        ],
+        [
+          54.0,
+          352.2165222167969
+        ]
+      ]
+    },
+    {
+      "title": "r\u00d6tsChreCk",
+      "heading_level": null,
+      "page_id": 209,
+      "polygon": [
+        [
+          71.71875,
+          487.98204040527344
+        ],
+        [
+          161.24639892578125,
+          487.98204040527344
+        ],
+        [
+          161.24639892578125,
+          511.98204040527344
+        ],
+        [
+          71.71875,
+          511.98204040527344
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 200,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          67
+        ],
+        [
+          "Span",
+          18
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 201,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          67
+        ],
+        [
+          "Span",
+          27
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 202,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          109
+        ],
+        [
+          "Line",
+          53
+        ],
+        [
+          "SectionHeader",
+          8
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Picture",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 203,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          72
+        ],
+        [
+          "Span",
+          26
+        ],
+        [
+          "Text",
+          16
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 204,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          80
+        ],
+        [
+          "Span",
+          38
+        ],
+        [
+          "Text",
+          22
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 205,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          150
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "Text",
+          17
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 206,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          122
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "Text",
+          22
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 207,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          65
+        ],
+        [
+          "Span",
+          28
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 208,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          125
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 209,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          107
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "TableCell",
+          18
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\LotNR"
+}

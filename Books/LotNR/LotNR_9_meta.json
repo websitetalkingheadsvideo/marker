@@ -1,0 +1,770 @@
+{
+  "table_of_contents": [
+    {
+      "title": "experienCe",
+      "heading_level": null,
+      "page_id": 122,
+      "polygon": [
+        [
+          54.0,
+          169.13641357421875
+        ],
+        [
+          141.08609008789062,
+          169.13641357421875
+        ],
+        [
+          141.08609008789062,
+          193.13641357421875
+        ],
+        [
+          54.0,
+          193.13641357421875
+        ]
+      ]
+    },
+    {
+      "title": "CONVERTING CHARACTERS FROM DREVIOUS EDITIONS",
+      "heading_level": null,
+      "page_id": 123,
+      "polygon": [
+        [
+          72.0,
+          56.953125
+        ],
+        [
+          379.6875,
+          56.953125
+        ],
+        [
+          379.6875,
+          72.140625
+        ],
+        [
+          72.0,
+          72.140625
+        ]
+      ]
+    },
+    {
+      "title": "Converting Concept, Clan,",
+      "heading_level": null,
+      "page_id": 123,
+      "polygon": [
+        [
+          71.25,
+          107.578125
+        ],
+        [
+          228.75,
+          107.578125
+        ],
+        [
+          228.75,
+          120.234375
+        ],
+        [
+          71.25,
+          120.234375
+        ]
+      ]
+    },
+    {
+      "title": "Morality, Nature and Demeanor",
+      "heading_level": null,
+      "page_id": 123,
+      "polygon": [
+        [
+          72.0,
+          123.3984375
+        ],
+        [
+          258.75,
+          123.3984375
+        ],
+        [
+          258.75,
+          134.7890625
+        ],
+        [
+          72.0,
+          134.7890625
+        ]
+      ]
+    },
+    {
+      "title": "Updating Clan",
+      "heading_level": null,
+      "page_id": 123,
+      "polygon": [
+        [
+          71.25,
+          304.06640625
+        ],
+        [
+          156.75,
+          304.06640625
+        ],
+        [
+          156.75,
+          316.5
+        ],
+        [
+          72.0,
+          317.25
+        ]
+      ]
+    },
+    {
+      "title": "Converting Attributes",
+      "heading_level": null,
+      "page_id": 123,
+      "polygon": [
+        [
+          72.0,
+          353.109375
+        ],
+        [
+          204.0,
+          353.109375
+        ],
+        [
+          204.0,
+          365.765625
+        ],
+        [
+          72.0,
+          365.765625
+        ]
+      ]
+    },
+    {
+      "title": "Converting Advantages",
+      "heading_level": null,
+      "page_id": 123,
+      "polygon": [
+        [
+          70.875,
+          421.453125
+        ],
+        [
+          205.5,
+          421.453125
+        ],
+        [
+          205.5,
+          434.109375
+        ],
+        [
+          70.875,
+          434.109375
+        ]
+      ]
+    },
+    {
+      "title": "Changing Disciplines",
+      "heading_level": null,
+      "page_id": 123,
+      "polygon": [
+        [
+          82.5,
+          485.05078125
+        ],
+        [
+          179.25,
+          485.05078125
+        ],
+        [
+          179.25,
+          497.07421875
+        ],
+        [
+          82.5,
+          497.07421875
+        ]
+      ]
+    },
+    {
+      "title": "CONVERTING CHARACTERS FROM TABLETOD DLAY",
+      "heading_level": null,
+      "page_id": 125,
+      "polygon": [
+        [
+          70.875,
+          382.53515625
+        ],
+        [
+          378.75,
+          382.53515625
+        ],
+        [
+          378.75,
+          397.08984375
+        ],
+        [
+          70.875,
+          397.5
+        ]
+      ]
+    },
+    {
+      "title": "Converting Virtues and Morality",
+      "heading_level": null,
+      "page_id": 125,
+      "polygon": [
+        [
+          70.875,
+          464.484375
+        ],
+        [
+          264.0,
+          464.484375
+        ],
+        [
+          264.0,
+          477.140625
+        ],
+        [
+          70.875,
+          477.140625
+        ]
+      ]
+    },
+    {
+      "title": "Converting Tabletop Clans",
+      "heading_level": null,
+      "page_id": 125,
+      "polygon": [
+        [
+          71.296875,
+          542.953125
+        ],
+        [
+          229.5,
+          542.953125
+        ],
+        [
+          229.5,
+          555.609375
+        ],
+        [
+          71.296875,
+          555.609375
+        ]
+      ]
+    },
+    {
+      "title": "Converting taBletop aBilities",
+      "heading_level": null,
+      "page_id": 126,
+      "polygon": [
+        [
+          54.0,
+          177.77947998046875
+        ],
+        [
+          228.33790588378906,
+          177.77947998046875
+        ],
+        [
+          228.33790588378906,
+          195.77947998046875
+        ],
+        [
+          54.0,
+          195.77947998046875
+        ]
+      ]
+    },
+    {
+      "title": "Converting taBletop disCiplines and BaCkgrounds",
+      "heading_level": null,
+      "page_id": 126,
+      "polygon": [
+        [
+          53.15625,
+          269.7032470703125
+        ],
+        [
+          337.756103515625,
+          269.7032470703125
+        ],
+        [
+          337.756103515625,
+          287.3432312011719
+        ],
+        [
+          53.15625,
+          287.3432312011719
+        ]
+      ]
+    },
+    {
+      "title": "Converting Blood traits and willpower",
+      "heading_level": null,
+      "page_id": 126,
+      "polygon": [
+        [
+          53.15625,
+          381.939453125
+        ],
+        [
+          284.9956970214844,
+          381.939453125
+        ],
+        [
+          284.9956970214844,
+          399.93943786621094
+        ],
+        [
+          53.15625,
+          399.93943786621094
+        ]
+      ]
+    },
+    {
+      "title": "Converting taBletop merits and Flaws",
+      "heading_level": null,
+      "page_id": 126,
+      "polygon": [
+        [
+          53.15625,
+          527.059455871582
+        ],
+        [
+          275.4984130859375,
+          527.059455871582
+        ],
+        [
+          275.4984130859375,
+          545.059455871582
+        ],
+        [
+          53.15625,
+          545.059455871582
+        ]
+      ]
+    },
+    {
+      "title": "step two: attriButes",
+      "heading_level": null,
+      "page_id": 127,
+      "polygon": [
+        [
+          82.80000305175781,
+          311.8476257324219
+        ],
+        [
+          180.59271240234375,
+          311.8476257324219
+        ],
+        [
+          180.59271240234375,
+          325.8476257324219
+        ],
+        [
+          82.80000305175781,
+          325.8476257324219
+        ]
+      ]
+    },
+    {
+      "title": "step three: advantages",
+      "heading_level": null,
+      "page_id": 127,
+      "polygon": [
+        [
+          82.80000305175781,
+          481.28759765625
+        ],
+        [
+          190.77491760253906,
+          481.28759765625
+        ],
+        [
+          190.77491760253906,
+          495.28759765625
+        ],
+        [
+          82.80000305175781,
+          495.28759765625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 120,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          126
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "Text",
+          18
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 121,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          116
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "Text",
+          19
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 122,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          107
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 123,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          67
+        ],
+        [
+          "Span",
+          40
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 124,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          69
+        ],
+        [
+          "Span",
+          30
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 125,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          69
+        ],
+        [
+          "Span",
+          24
+        ],
+        [
+          "Text",
+          17
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 126,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          131
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 127,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          124
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 128,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          119
+        ],
+        [
+          "Line",
+          53
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 129,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          115
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\LotNR"
+}

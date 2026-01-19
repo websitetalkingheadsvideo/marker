@@ -1,0 +1,683 @@
+{
+  "table_of_contents": [
+    {
+      "title": "VITAE FROM SUPERNATURAL SOURCES",
+      "heading_level": null,
+      "page_id": 262,
+      "polygon": [
+        [
+          132.75,
+          73.40625
+        ],
+        [
+          280.5,
+          73.40625
+        ],
+        [
+          280.5,
+          82.265625
+        ],
+        [
+          132.75,
+          82.265625
+        ]
+      ]
+    },
+    {
+      "title": "\u2022 Lupine/Other Shapeshifter",
+      "heading_level": null,
+      "page_id": 262,
+      "polygon": [
+        [
+          71.71875,
+          232.55859375
+        ],
+        [
+          190.5,
+          232.55859375
+        ],
+        [
+          190.5,
+          243.31640625
+        ],
+        [
+          71.71875,
+          243.31640625
+        ]
+      ]
+    },
+    {
+      "title": "\u2022 Mage/Hedge Wizard",
+      "heading_level": null,
+      "page_id": 262,
+      "polygon": [
+        [
+          72.140625,
+          307.546875
+        ],
+        [
+          163.5,
+          307.546875
+        ],
+        [
+          163.5,
+          318.0
+        ],
+        [
+          72.140625,
+          318.0
+        ]
+      ]
+    },
+    {
+      "title": "\u2022 Wraith/Risen",
+      "heading_level": null,
+      "page_id": 262,
+      "polygon": [
+        [
+          72.5625,
+          363.0
+        ],
+        [
+          136.6875,
+          363.0
+        ],
+        [
+          136.6875,
+          372.0
+        ],
+        [
+          72.5625,
+          372.0
+        ]
+      ]
+    },
+    {
+      "title": "Changeling",
+      "heading_level": null,
+      "page_id": 262,
+      "polygon": [
+        [
+          72.3515625,
+          438.22265625
+        ],
+        [
+          126.7734375,
+          438.22265625
+        ],
+        [
+          126.7734375,
+          447.71484375
+        ],
+        [
+          72.3515625,
+          447.71484375
+        ]
+      ]
+    },
+    {
+      "title": "The Reborn",
+      "heading_level": null,
+      "page_id": 262,
+      "polygon": [
+        [
+          70.875,
+          525.55078125
+        ],
+        [
+          129.0,
+          525.55078125
+        ],
+        [
+          129.0,
+          533.25
+        ],
+        [
+          70.875,
+          533.25
+        ]
+      ]
+    },
+    {
+      "title": "The Restless Dead",
+      "heading_level": null,
+      "page_id": 264,
+      "polygon": [
+        [
+          52.9453125,
+          111.375
+        ],
+        [
+          160.5,
+          111.375
+        ],
+        [
+          160.5,
+          121.5
+        ],
+        [
+          52.9453125,
+          121.5
+        ]
+      ]
+    },
+    {
+      "title": "FAERIES",
+      "heading_level": null,
+      "page_id": 265,
+      "polygon": [
+        [
+          71.9296875,
+          197.12109375
+        ],
+        [
+          113.25,
+          197.12109375
+        ],
+        [
+          113.25,
+          205.5
+        ],
+        [
+          71.9296875,
+          205.5
+        ]
+      ]
+    },
+    {
+      "title": "IMMORTAL DREAMS IN MORTAL FLESH",
+      "heading_level": null,
+      "page_id": 265,
+      "polygon": [
+        [
+          82.5,
+          210.0
+        ],
+        [
+          232.5,
+          210.0
+        ],
+        [
+          232.5,
+          217.6875
+        ],
+        [
+          82.5,
+          217.6875
+        ]
+      ]
+    },
+    {
+      "title": "united under the Final nights: Crossover powers",
+      "heading_level": null,
+      "page_id": 266,
+      "polygon": [
+        [
+          54.0,
+          432.51866149902344
+        ],
+        [
+          342.5625,
+          432.51866149902344
+        ],
+        [
+          342.5625,
+          450.51866149902344
+        ],
+        [
+          54.0,
+          450.51866149902344
+        ]
+      ]
+    },
+    {
+      "title": "Method #1 \u2014 \"Case Law\" Comparisons",
+      "heading_level": null,
+      "page_id": 267,
+      "polygon": [
+        [
+          87.75,
+          492.64453125
+        ],
+        [
+          248.69000244140625,
+          492.64453125
+        ],
+        [
+          248.69000244140625,
+          504.66796875
+        ],
+        [
+          87.75,
+          504.66796875
+        ]
+      ]
+    },
+    {
+      "title": "Method #2 \u2013 Relative Power Levels",
+      "heading_level": null,
+      "page_id": 268,
+      "polygon": [
+        [
+          72.0,
+          223.69921875
+        ],
+        [
+          213.22998046875,
+          223.69921875
+        ],
+        [
+          213.22998046875,
+          234.48834228515625
+        ],
+        [
+          72.0,
+          234.48834228515625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 260,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          119
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 261,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          121
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 262,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          62
+        ],
+        [
+          "Span",
+          21
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 263,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          100
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 264,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          60
+        ],
+        [
+          "Span",
+          15
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 265,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          57
+        ],
+        [
+          "Span",
+          47
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 266,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          116
+        ],
+        [
+          "Line",
+          53
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 267,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          123
+        ],
+        [
+          "Line",
+          53
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 268,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          124
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 269,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          97
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "TableCell",
+          24
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\LotNR"
+}

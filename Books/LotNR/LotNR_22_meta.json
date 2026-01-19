@@ -1,0 +1,520 @@
+{
+  "table_of_contents": [
+    {
+      "title": "CHAPTER SEVEN:\nALLIES AND\nANTAGONISTS",
+      "heading_level": null,
+      "page_id": 254,
+      "polygon": [
+        [
+          57.375,
+          57.5859375
+        ],
+        [
+          351.0,
+          57.5859375
+        ],
+        [
+          351.0,
+          232.2421875
+        ],
+        [
+          57.375,
+          232.2421875
+        ]
+      ]
+    },
+    {
+      "title": "ANARCHS",
+      "heading_level": null,
+      "page_id": 254,
+      "polygon": [
+        [
+          53.15625,
+          325.58203125
+        ],
+        [
+          102.0,
+          325.58203125
+        ],
+        [
+          102.0,
+          333.75
+        ],
+        [
+          53.15625,
+          333.75
+        ]
+      ]
+    },
+    {
+      "title": "ghouls",
+      "heading_level": null,
+      "page_id": 255,
+      "polygon": [
+        [
+          71.71875,
+          394.91876220703125
+        ],
+        [
+          114.22440338134766,
+          394.91876220703125
+        ],
+        [
+          114.22440338134766,
+          412.91876220703125
+        ],
+        [
+          71.71875,
+          412.91876220703125
+        ]
+      ]
+    },
+    {
+      "title": "hunters",
+      "heading_level": null,
+      "page_id": 256,
+      "polygon": [
+        [
+          53.7890625,
+          541.9588470458984
+        ],
+        [
+          103.5718002319336,
+          541.9588470458984
+        ],
+        [
+          103.5718002319336,
+          559.9588470458984
+        ],
+        [
+          53.7890625,
+          559.9588470458984
+        ]
+      ]
+    },
+    {
+      "title": "souls who Brave the darkness",
+      "heading_level": null,
+      "page_id": 256,
+      "polygon": [
+        [
+          64.80000305175781,
+          556.6669921875
+        ],
+        [
+          200.94290161132812,
+          556.6669921875
+        ],
+        [
+          200.94290161132812,
+          570.6669921875
+        ],
+        [
+          64.80000305175781,
+          570.6669921875
+        ]
+      ]
+    },
+    {
+      "title": "the Changing Breeds",
+      "heading_level": null,
+      "page_id": 258,
+      "polygon": [
+        [
+          52.3125,
+          423.2388458251953
+        ],
+        [
+          176.2974853515625,
+          423.2388458251953
+        ],
+        [
+          176.2974853515625,
+          441.2388458251953
+        ],
+        [
+          52.3125,
+          441.2388458251953
+        ]
+      ]
+    },
+    {
+      "title": "exChange rates",
+      "heading_level": null,
+      "page_id": 259,
+      "polygon": [
+        [
+          194.0625,
+          62.3795166015625
+        ],
+        [
+          265.60919189453125,
+          62.3795166015625
+        ],
+        [
+          265.60919189453125,
+          76.3795166015625
+        ],
+        [
+          194.0625,
+          76.3795166015625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 250,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          61
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "Span",
+          10
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 251,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          53
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Span",
+          8
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 252,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 253,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          82
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "Text",
+          14
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 254,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          38
+        ],
+        [
+          "Span",
+          8
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 255,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          111
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 256,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          120
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 257,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          102
+        ],
+        [
+          "Line",
+          53
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 258,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          105
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 259,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          105
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\LotNR"
+}

@@ -1,0 +1,924 @@
+{
+  "table_of_contents": [
+    {
+      "title": "stage Business",
+      "heading_level": null,
+      "page_id": 240,
+      "polygon": [
+        [
+          54.0,
+          108.35870361328125
+        ],
+        [
+          137.7006072998047,
+          108.35870361328125
+        ],
+        [
+          137.7006072998047,
+          126.35870361328125
+        ],
+        [
+          54.0,
+          126.35870361328125
+        ]
+      ]
+    },
+    {
+      "title": "amBianCe",
+      "heading_level": null,
+      "page_id": 240,
+      "polygon": [
+        [
+          64.125,
+          290.5469055175781
+        ],
+        [
+          106.57730865478516,
+          290.5469055175781
+        ],
+        [
+          106.57730865478516,
+          304.5469055175781
+        ],
+        [
+          64.125,
+          304.5469055175781
+        ]
+      ]
+    },
+    {
+      "title": "lighting",
+      "heading_level": null,
+      "page_id": 240,
+      "polygon": [
+        [
+          64.7578125,
+          355.9869079589844
+        ],
+        [
+          104.23080444335938,
+          355.9869079589844
+        ],
+        [
+          104.23080444335938,
+          369.9869079589844
+        ],
+        [
+          64.7578125,
+          369.9869079589844
+        ]
+      ]
+    },
+    {
+      "title": "props",
+      "heading_level": null,
+      "page_id": 241,
+      "polygon": [
+        [
+          82.80000305175781,
+          202.21963500976562
+        ],
+        [
+          111.03229522705078,
+          202.21963500976562
+        ],
+        [
+          111.03229522705078,
+          216.21963500976562
+        ],
+        [
+          82.80000305175781,
+          216.21963500976562
+        ]
+      ]
+    },
+    {
+      "title": "Stage Props",
+      "heading_level": null,
+      "page_id": 241,
+      "polygon": [
+        [
+          88.8046875,
+          248.37890625
+        ],
+        [
+          137.3203125,
+          248.37890625
+        ],
+        [
+          137.3203125,
+          258.4409484863281
+        ],
+        [
+          88.8046875,
+          258.4409484863281
+        ]
+      ]
+    },
+    {
+      "title": "Personal Props",
+      "heading_level": null,
+      "page_id": 242,
+      "polygon": [
+        [
+          71.71875,
+          138.90234375
+        ],
+        [
+          132.86000061035156,
+          138.90234375
+        ],
+        [
+          132.86000061035156,
+          149.84817504882812
+        ],
+        [
+          71.71875,
+          149.84817504882812
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 242,
+      "polygon": [
+        [
+          52.734375,
+          303.1171875
+        ],
+        [
+          227.390625,
+          303.1171875
+        ],
+        [
+          227.390625,
+          311.9765625
+        ],
+        [
+          52.734375,
+          311.9765625
+        ]
+      ]
+    },
+    {
+      "title": "Bookkeeping",
+      "heading_level": null,
+      "page_id": 242,
+      "polygon": [
+        [
+          64.80000305175781,
+          347.2270202636719
+        ],
+        [
+          122.54850769042969,
+          347.2270202636719
+        ],
+        [
+          122.54850769042969,
+          361.2270202636719
+        ],
+        [
+          64.80000305175781,
+          361.2270202636719
+        ]
+      ]
+    },
+    {
+      "title": "CharaCter sheets",
+      "heading_level": null,
+      "page_id": 242,
+      "polygon": [
+        [
+          64.7578125,
+          518.1069946289062
+        ],
+        [
+          143.75160217285156,
+          518.1069946289062
+        ],
+        [
+          143.75160217285156,
+          532.1069946289062
+        ],
+        [
+          64.7578125,
+          532.1069946289062
+        ]
+      ]
+    },
+    {
+      "title": "experienCe",
+      "heading_level": null,
+      "page_id": 243,
+      "polygon": [
+        [
+          82.80000305175781,
+          127.86700439453125
+        ],
+        [
+          133.60020446777344,
+          127.86700439453125
+        ],
+        [
+          133.60020446777344,
+          141.86703491210938
+        ],
+        [
+          82.80000305175781,
+          141.86703491210938
+        ]
+      ]
+    },
+    {
+      "title": "inFluenCe traits",
+      "heading_level": null,
+      "page_id": 243,
+      "polygon": [
+        [
+          82.4765625,
+          319.5470275878906
+        ],
+        [
+          157.1484375,
+          319.5470275878906
+        ],
+        [
+          157.1484375,
+          333.5470275878906
+        ],
+        [
+          82.4765625,
+          333.5470275878906
+        ]
+      ]
+    },
+    {
+      "title": "story events",
+      "heading_level": null,
+      "page_id": 243,
+      "polygon": [
+        [
+          81.421875,
+          416.18699645996094
+        ],
+        [
+          140.6286163330078,
+          416.18699645996094
+        ],
+        [
+          140.6286163330078,
+          430.18699645996094
+        ],
+        [
+          81.421875,
+          430.18699645996094
+        ]
+      ]
+    },
+    {
+      "title": "CharaCter Creation",
+      "heading_level": null,
+      "page_id": 243,
+      "polygon": [
+        [
+          71.296875,
+          503.71885681152344
+        ],
+        [
+          186.22821044921875,
+          503.71885681152344
+        ],
+        [
+          186.22821044921875,
+          521.7188568115234
+        ],
+        [
+          71.296875,
+          521.7188568115234
+        ]
+      ]
+    },
+    {
+      "title": "An Evening's Events",
+      "heading_level": null,
+      "page_id": 244,
+      "polygon": [
+        [
+          52.5,
+          348.0
+        ],
+        [
+          209.25,
+          348.0
+        ],
+        [
+          209.25,
+          365.765625
+        ],
+        [
+          52.5,
+          365.765625
+        ]
+      ]
+    },
+    {
+      "title": "\u0412\u0435\u0433\u043e\u0432\u0435 \u0442\u043d\u0435 \u0414\u0430\u043c\u0435",
+      "heading_level": null,
+      "page_id": 244,
+      "polygon": [
+        [
+          53.7890625,
+          368.296875
+        ],
+        [
+          149.25,
+          368.296875
+        ],
+        [
+          149.25,
+          380.953125
+        ],
+        [
+          53.7890625,
+          380.953125
+        ]
+      ]
+    },
+    {
+      "title": "Pre-Game Setup",
+      "heading_level": null,
+      "page_id": 244,
+      "polygon": [
+        [
+          54.0,
+          459.0
+        ],
+        [
+          150.1875,
+          459.0
+        ],
+        [
+          150.1875,
+          471.76171875
+        ],
+        [
+          54.0,
+          471.76171875
+        ]
+      ]
+    },
+    {
+      "title": "GAME ON",
+      "heading_level": null,
+      "page_id": 244,
+      "polygon": [
+        [
+          53.7890625,
+          548.33203125
+        ],
+        [
+          103.5,
+          548.33203125
+        ],
+        [
+          103.5,
+          560.35546875
+        ],
+        [
+          53.7890625,
+          560.35546875
+        ]
+      ]
+    },
+    {
+      "title": "during the game",
+      "heading_level": null,
+      "page_id": 245,
+      "polygon": [
+        [
+          72.0,
+          118.75872802734375
+        ],
+        [
+          169.10850524902344,
+          118.75872802734375
+        ],
+        [
+          169.10850524902344,
+          136.75872802734375
+        ],
+        [
+          72.0,
+          136.75872802734375
+        ]
+      ]
+    },
+    {
+      "title": "aFter the game",
+      "heading_level": null,
+      "page_id": 245,
+      "polygon": [
+        [
+          70.875,
+          219.39874267578125
+        ],
+        [
+          159.5972900390625,
+          219.39874267578125
+        ],
+        [
+          159.5972900390625,
+          237.39874267578125
+        ],
+        [
+          70.875,
+          237.39874267578125
+        ]
+      ]
+    },
+    {
+      "title": "taking Care oF players",
+      "heading_level": null,
+      "page_id": 245,
+      "polygon": [
+        [
+          70.03125,
+          426.91876220703125
+        ],
+        [
+          202.54640197753906,
+          426.91876220703125
+        ],
+        [
+          202.54640197753906,
+          444.91876220703125
+        ],
+        [
+          70.03125,
+          444.91876220703125
+        ]
+      ]
+    },
+    {
+      "title": "new players",
+      "heading_level": null,
+      "page_id": 246,
+      "polygon": [
+        [
+          64.7578125,
+          202.10690307617188
+        ],
+        [
+          121.24049377441406,
+          202.10690307617188
+        ],
+        [
+          121.24049377441406,
+          216.10690307617188
+        ],
+        [
+          64.7578125,
+          216.10690307617188
+        ]
+      ]
+    },
+    {
+      "title": "downtimes:",
+      "heading_level": null,
+      "page_id": 247,
+      "polygon": [
+        [
+          72.0,
+          423.7972412109375
+        ],
+        [
+          169.12371826171875,
+          423.7972412109375
+        ],
+        [
+          169.12371826171875,
+          447.7972412109375
+        ],
+        [
+          72.0,
+          447.7972412109375
+        ]
+      ]
+    },
+    {
+      "title": "the games-Between-games",
+      "heading_level": null,
+      "page_id": 247,
+      "polygon": [
+        [
+          71.71875,
+          447.7972412109375
+        ],
+        [
+          283.8833923339844,
+          447.7972412109375
+        ],
+        [
+          283.8833923339844,
+          471.7972412109375
+        ],
+        [
+          71.71875,
+          471.7972412109375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 240,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          102
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 241,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          105
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 242,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          101
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 243,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          100
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 244,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          58
+        ],
+        [
+          "Span",
+          11
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 245,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          105
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 246,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          101
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 247,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          96
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 248,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          66
+        ],
+        [
+          "Span",
+          19
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 249,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          114
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\LotNR"
+}

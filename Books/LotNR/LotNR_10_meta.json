@@ -1,0 +1,616 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Feral Whispers",
+      "heading_level": null,
+      "page_id": 134,
+      "polygon": [
+        [
+          70.875,
+          179.66897583007812
+        ],
+        [
+          133.3125,
+          179.66897583007812
+        ],
+        [
+          133.3125,
+          189.66897583007812
+        ],
+        [
+          70.875,
+          189.66897583007812
+        ]
+      ]
+    },
+    {
+      "title": "Beckoning",
+      "heading_level": null,
+      "page_id": 134,
+      "polygon": [
+        [
+          71.9296875,
+          403.734375
+        ],
+        [
+          116.2265625,
+          403.734375
+        ],
+        [
+          116.2265625,
+          413.8289337158203
+        ],
+        [
+          71.9296875,
+          413.8289337158203
+        ]
+      ]
+    },
+    {
+      "title": "Quell the Beast",
+      "heading_level": null,
+      "page_id": 135,
+      "polygon": [
+        [
+          89.4375,
+          66.12890625
+        ],
+        [
+          153.5625,
+          66.12890625
+        ],
+        [
+          153.5625,
+          76.76080322265625
+        ],
+        [
+          89.4375,
+          76.76080322265625
+        ]
+      ]
+    },
+    {
+      "title": "Subsume the Spirit",
+      "heading_level": null,
+      "page_id": 135,
+      "polygon": [
+        [
+          88.8046875,
+          312.92578125
+        ],
+        [
+          167.6953125,
+          312.92578125
+        ],
+        [
+          167.6953125,
+          323.9609680175781
+        ],
+        [
+          88.8046875,
+          323.9609680175781
+        ]
+      ]
+    },
+    {
+      "title": "Drawing Out the Beast",
+      "heading_level": null,
+      "page_id": 136,
+      "polygon": [
+        [
+          70.6640625,
+          347.73046875
+        ],
+        [
+          167.25,
+          347.73046875
+        ],
+        [
+          167.25,
+          355.95703125
+        ],
+        [
+          70.6640625,
+          355.95703125
+        ]
+      ]
+    },
+    {
+      "title": "BASIC AUSDEX",
+      "heading_level": null,
+      "page_id": 137,
+      "polygon": [
+        [
+          81.421875,
+          375.75
+        ],
+        [
+          141.0,
+          375.75
+        ],
+        [
+          141.0,
+          384.0
+        ],
+        [
+          81.421875,
+          384.0
+        ]
+      ]
+    },
+    {
+      "title": "Heightened Senses",
+      "heading_level": null,
+      "page_id": 137,
+      "polygon": [
+        [
+          89.015625,
+          384.75
+        ],
+        [
+          166.5,
+          384.75
+        ],
+        [
+          166.5,
+          395.25
+        ],
+        [
+          89.015625,
+          395.25
+        ]
+      ]
+    },
+    {
+      "title": "Aura Perception",
+      "heading_level": null,
+      "page_id": 137,
+      "polygon": [
+        [
+          87.75,
+          531.75
+        ],
+        [
+          156.9375,
+          531.75
+        ],
+        [
+          156.9375,
+          541.37109375
+        ],
+        [
+          87.75,
+          541.37109375
+        ]
+      ]
+    },
+    {
+      "title": "The Spirit's Touch",
+      "heading_level": null,
+      "page_id": 138,
+      "polygon": [
+        [
+          72.0,
+          215.15625
+        ],
+        [
+          148.5,
+          215.15625
+        ],
+        [
+          148.5,
+          225.6883544921875
+        ],
+        [
+          72.0,
+          225.6883544921875
+        ]
+      ]
+    },
+    {
+      "title": "Telepathy",
+      "heading_level": null,
+      "page_id": 138,
+      "polygon": [
+        [
+          70.875,
+          450.24609375
+        ],
+        [
+          111.375,
+          450.24609375
+        ],
+        [
+          111.375,
+          461.00390625
+        ],
+        [
+          70.875,
+          461.00390625
+        ]
+      ]
+    },
+    {
+      "title": "Psychic Projection",
+      "heading_level": null,
+      "page_id": 139,
+      "polygon": [
+        [
+          87.75,
+          492.328125
+        ],
+        [
+          165.375,
+          492.328125
+        ],
+        [
+          165.375,
+          504.984375
+        ],
+        [
+          87.75,
+          504.984375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 130,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Line",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 131,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          70
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "Text",
+          5
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 132,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          101
+        ],
+        [
+          "Line",
+          37
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 133,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          150
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 134,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          105
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 135,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          107
+        ],
+        [
+          "Line",
+          54
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 136,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          66
+        ],
+        [
+          "Span",
+          21
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "TableCell",
+          4
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 137,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          60
+        ],
+        [
+          "Span",
+          31
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 138,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          105
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 139,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          126
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\LotNR"
+}
