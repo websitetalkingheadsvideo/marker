@@ -136,7 +136,7 @@ Coleman stared after her, rubbing his mouth absently with the back of his hand. 
 
 **Playtesters:**Kathryn Abromovich, Chris Arnold, David Blackwell, Michael Blank, Brian Clark, Shaun Crawford, Michael Dent, Julian Dillard, Jim Fillmore, David Flannery, Brian Gates, Misty Gates, Alyson Gaul, Jody Gerst Crystal Greenlee, Jason Hale, Brock Hall, James M. Hendricks, Geoff Hinkle, Matthew Kauffman, Tim Leber, Chris Loeffler, Tori Mauslein, Jeremiah Mccoy, Glenys Ngaire Mcghee, Sarah Mcilvaine, Mike Metcalf, Laura Middleton, Joshua Patterson, Sarah Riggs, John Sargent, Matthew Skipper, Marc Spencer, Bill Terry, Golden Sky Tullis, Jim Vasquez, Peter Woodworth, W. Andrew Woodworth
 
-## Specialthanks to: You, the Fans — It's All for You. 
+## Special Thanks to: You, the Fans — It's All for You. 
 
 © 2010 CCP hf. All rights reserved. Reproduction without the written permission of the publisher is expressly forbidden, except for the purposes of reviews, and one printed copy which may be reproduced for personal use only. White Wolf, Vampire, Vampire the Masquerade, Vampire the Dark
 
@@ -149,15 +149,15 @@ Check out White Wolf online at <http://www.white-wolf.com> PRINTED ON DEMAND
 
 ## Contents
 
-| Rendezvous: A Cautionarytale              | 1   |
+| Rendezvous: A Cautionary Tale              | 1   |
 |-------------------------------------------|-----|
-| Chapterone: Introduction                  | 10  |
+| Chapter One: Introduction                  | 10  |
 | Chapter<br>Two: The Clans                 | 24  |
-| Chapterthree: Character Creationandtraits | 58  |
-| Chapter Four: Discplines                  | 128 |
-| Chapter Five: Rules, Systemsanddrama      | 186 |
+| Chapter Three: Character Creation and Traits | 58  |
+| Chapter Four: Disciplines                  | 128 |
+| Chapter Five: Rules, Systems and Drama      | 186 |
 | Chapter<br>Six: Storytelling              | 222 |
-| Chapterseven: Alliesandantagonists        | 248 |
+| Chapter Seven: Allies and Antagonists        | 248 |
 
 # Chapter One: Introduction 
 
@@ -183,7 +183,7 @@ While the characters may direct the plot through their actions, the plot reacts 
 
 Creating a character for **Masquerade** is easy, and it takes just a few minutes. Only a few things become necessary to define the basic capabilities of a character, and when they're done, you can start playing. There's another phase to creating a character, though. A character is, by and large, like a person, and people aren't just flat cardboard cutouts with a few numbers to represent what they can do. People have pasts, likes and dislikes, goals and dreams — all the intangible things that make a person into what other people see when he walks into a room or talks to them. It's not much different from all the care that an actor or author takes when creating a character. So as you're creating your character, think a little about where she comes from, what she wants out of her existence, what she'll do to get it, what she loves and hates. Does your character love thunderstorms
 
-## Vampire: the Masquerade and Laws of the Night 
+# Vampire: the Masquerade and Laws of the Night 
 
 This book is based on the tabletop creation **Vampire: The Masquerade**. While it is not necessary to own or know **Vampire** to play this game, some players may find it helpful for more setting material. There are a number of **Vampire**-related books with material that can be adapted for live-action play.
 
@@ -293,7 +293,6 @@ The Camarilla dates back to the years of the Inquisition, as humanity turned its
 
 The Camarilla claims all vampires to be under its aegis and proclaims itself the greatest sect of Kindred across the globe. Indeed, it claims that all Cainites are already under its banner, regardless of those vampires' wishes. In spite of the claims, only
 
-### Camarilla Clans
 six clans hold full membership in the sect: Brujah, Malkavian, Nosferatu, Toreador, Tremere and Ventrue. Vampires from the other clans may join, but they are often suspect, and without a voice in the Inner Circle, they are largely powerless.
 
 ### Justicars
@@ -321,7 +320,7 @@ the third tradition: the progeny
 
 Thou shalt sire another one with permission of thine elder. If thou createst another without thine elder's leave, both thou and thy progeny shall be slain.
 
-the Fourth tradition: the aCCounting
+the Fourth tradition: the Accounting
 
 Those thou create are thine own childer. Until thy progeny shall be released, thou shalt command them in all things. Their sins are thine to endure.
 
@@ -339,6 +338,7 @@ The Inquisition also spawned another movement of the vampires, but a far more br
 
 The battle ground to a stalemate, and both sides called for parley. The Treaty of Thorns put an official end to hostilities, allowed those Kindred who wished to return to the Camarilla's fold to do so, and punished those who had been most instrumental in the fight. However, not everyone was so convinced of the Camarilla's promises, and these die-hard rebels turned their backs on the Camarilla entirely. Many of them joined to create their own force that would set itself opposite the Camarilla, called the Sabbat. Since those days, the Sabbat and the Camarilla have continued, diametrically opposed to one another, hounding and thwarting each other at any opportunity, up unto the modern nights.
 
+
 The Sabbat organizes itself in a parody of the Catholic Church, from which much of its ritual springs. At the lowest level is the pack, which is led by a leader and a priest. Above the pack are the bishop and archbishop, who oversee Sabbat activity in a city. Cardinals coordinate Sabbat activity in regions, while the regent in Mexico City oversees the entire sect, aided by the prisci. Paladins and templars serve as assassins and bodyguards for the regent, prisci and cardinals.
 
 ## Indepentants
@@ -352,7 +352,6 @@ By and large, these clans have their own goals, which do not include playing sec
 Bloodlines are either Kindred who are some strange offshoot of a parent clan (which often does not acknowledge the relationship) or a former clan that has lost its founding Antediluvian (such as the Salubri). Bloodlines often walk perilous lines, as they make handy scapegoats, and many clans fear their strange abilities. Many are so rare that the average Kindred has never heard of them.
 
 # The Generation Spread 
-
 As creatures who are (for all effects) immortal, age carries great weight among the Kindred. More importantly, a Kindred's generation can mark one as a youth or elder. Among some sects, age and generation can be one of the greatest barriers to advancement of any kind. This is a case where it can be truly said that less is more.
 
 According to the most widely accepted history of the Kindred, vampires are descended from Caine, he of Biblical fame who murdered his brother Abel and was subsequently banished to the land of Nod by God. Caine's vampirism was said to be a curse from God in punishment for the crime. Caine sired three childer, who sired their own childer, and so on, down into the modern nights.
@@ -377,6 +376,7 @@ Ghouls receive a number of benefits from their servitude — they often develop 
 The Sabbat scorns ghouls by and large, with two exceptions. Revenant families are comprised of hereditary ghouls who are born with vampire blood already in their veins. Many are seared with physical disability or psychoses, which suits the purposes of their Tzimisce masters. A few are occasionally rewarded with the Embrace for faithful service. The other exception are the fleshcrafted nightmares created by the Tzimisce known as *szlachta* and *vozhd*. These monstrosities are used as attack dogs, war-machines and tides of horror in the campaign against the Camarilla. Most have been so reshaped and molded by their masters that they are not even remotely human-looking.
 
 # Who Hunts the Hunters 
+
 It might be supposed from all this talk that the Kindred are powerful enough to run amuck, terrorizing humanity and using the world as their playground and abattoir. Centuries ago, certainly, vampires walked more openly among mortals, flaunting their immortality and supernatural powers, and stretching an iron hand over demenses of terrified mortals. Then the mortals finally rebelled, turning the collective might of the Church and humanity against their vampiric "lords." For over 200 years, the Inquisition held the Kindred in terror, and in these nights, no Kindred who recalls those times wishes to see them come again.
 
 
@@ -384,12 +384,13 @@ It might be supposed from all this talk that the Kindred are powerful enough to 
 
 The modern nights have seen a great deal of turmoil, and many Kindred fear that their world is about to turn over and reinvent itself, but none can say how that will happen or what will come of it.
 
-# Assamites
+## Assamites
 One of the most disturbing developments has been the change in the Assamites. Somehow, the Children of Haqim have managed to release themselves from the Tremere curse that prohibited them from diablerie, and they have returned to their old cannibalistic ways. They kill without contracts or discretion to sect, and many claim that there is a marked change in the clan's general demeanor.
 
-
+## Anarchs
 Cracks are appearing in the formerly monolithic Camarilla. The ranks of the anarchs swell with young vampires who see no future in a calcified society. The Gangrel's sudden departure from the fold sent ripples throughout the sect up to the Inner Circle. Even worse, the Camarilla has begun to lose ground in North America. Along the East Coast, a number of cities have either become contested territory or have fallen completely to the Sabbat. On the West Coast, incursions by the mysterious Asian vampires have caught the Camarilla in a very uncomfortable place. Some believe the Camarilla is a wounded animal in its death throes, but others know that a wounded animal is often the most dangerous.
 
+## Sabbat
 The Sabbat has suffered its losses as well. In 1997, a mysterious incident wiped out the entire faction of Tremere antitribu, depriving the sect of its arcane resources. Just as mysteriously, the Malkavian antitribu communicated their Discipline of Dementation to their Camarilla brethren, and the Sabbat have lost another powerful tool. The Camarilla has not let go of its cities as easily as imagined, and many of the contested cities have become nightly struggles. The Sabbat majority likes to believe it has the upper hand, but much of its leadership fears that some of their oldest prophecies and worries are finally showing themselves.
 
 # Lexicon
@@ -410,7 +411,7 @@ Ancilla – A Kindred "adolescent", usually at least a century old.
 
 **Beast, The** – The personification of the vampire's predatory nature, to which is attributed animal instincts and bloodlust.
 
-Blood – A vampire's heritage; that which makes a vampire a vampire.
+**Blood** – A vampire's heritage; that which makes a vampire a vampire.
 
 **Bloodline** – A group of vampires that is an offshoot of its parent clan, often displaying particular characteristics or even strange powers.
 
@@ -556,10 +557,10 @@ Kevin nodded amicably. "Of course," he murmured, shooting a jealous look at Pete
 
 "Excellent," Peter said crisply, as Donata smiled. It appeared that the alliance would bear some fruit, after all.
 
-
+## Bloodlines
 Further removed from the clans and Antediluvians are the bloodlines. While technically any lineage of vampires may be considered a bloodline, the term (in common parlance) refers specifically to members of a peculiar sub-clan, a grouping of vampires with common powers and interests like a clan but lacking an Antediluvian founder. These bloodlines are small and rare; indeed, few neonates are even aware of their existence. However, any clan can be humbled and brought to the level of mere bloodline should its Antediluvian be devoured and his power stolen by a claimant to a new clan — a process that has happened more than once in times past.
 
-
+## The Catiff
 Occasionally, some new fledglings are abandoned by their sires, knowing little of the clans or the ways of vampiric society. These clanless, referred to as Caitiff, are often a threat to the Masquerade, and they rarely survive without instruction. Some vampires claim that such weak-blooded mules lack identifying clan characteristics and upbringing, and thus, they herald the coming End Times. These paranoid vampires hunt the clanless ones whenever they can.
 
 # Bloodrights
@@ -596,7 +597,7 @@ The Camarilla claims the allegiance of six great clans, the Sabbat's core comes 
 
 For several hundred years, the Assamites, Followers of Set, Giovanni and Ravnos were the only four independent clans. Recently, though, the Gangrel left the Camarilla *en masse*, taking up a neutral position once more. Whether the Camarilla's shaky foundations will further erode, or whether a new clan will take the Gangrel's place, remains to be seen.
 
-With Donata's influence, it was a simple matter to convince Kevin to return with her and Peter to the old loft where the next part of the plan could proceed. The uncom- fortable union made its way out of the projects and closer to the uptown areas, near art galleries and museums. Peter finally parked in a nearby structure. Donata guided Peter and Kevin across the street and up a flight of stairs to studios in a historical building, above a busy restaurant.
+With Donata's influence, it was a simple matter to convince Kevin to return with her and Peter to the old loft where the next part of the plan could proceed. The uncomfortable union made its way out of the projects and closer to the uptown areas, near art galleries and museums. Peter finally parked in a nearby structure. Donata guided Peter and Kevin across the street and up a flight of stairs to studios in a historical building, above a busy restaurant.
 
 Once in the studio, Donata shut and locked the door. Peter noted that most of the artistic furnishings were somewhat substandard. Doubtless, this tiny studio served only as a meeting ground, and not as a true haven. He made a mental note to check up on the ownership of the building anyway, while he removed a small vial and a lighter from his pocket.
 
@@ -604,7 +605,7 @@ Kevin turned to regard Peter as the lighter was flicked into operation. Donata r
 
 "This will settle matters. Nobody will be able to confirm anything out of Kristof, and that simply leaves Warburton to take all of the blame," Peter said in a reverential whisper. And, he thought to himself, when the sheriff finds the paraphernalia in Donata's property, she'll take the fall for Kristof's death.
 
-Now simultaneously entranced and repulsed by the flame, Kevin watched the unfa- miliar proceedings, eyes flicking occasionally to regard the impassive Donata.
+Now simultaneously entranced and repulsed by the flame, Kevin watched the unfamiliar proceedings, eyes flicking occasionally to regard the impassive Donata.
 
 Peter closed his eyes and traced a slow circle in the air, then steeled himself as he passed his fingers through the flame. Tiny wisps of smoke rose from the fire, and the blood on his fingers vaporized, but he held his hand steady, his dry, dead flesh resisting the hungry heat. Peter knew better than to push his luck, though, and withdrew his hand as quickly as possible, opening his eyes.
 
@@ -701,7 +702,7 @@ Disciplines: *Dominate*, *Necromancy*, *Potence*
 
 Disciplines: *Dominate*, *Obtenebration*, *Potence*
 
-• Malkavians — (Camarilla) The deranged Lunaticsclaim a fractured insight into the workings of reality.
+• Malkavians — (Camarilla) The deranged Lunatics claim a fractured insight into the workings of reality.
 
 Disciplines: *Auspex*, *Dementation*, *Obfuscate*
 
@@ -737,7 +738,7 @@ Disciplines: *Fortitude*, *Melpominee*, *Presence*
 
 Disciplines: *Auspex*, *Fortitude*, *Obeah*
 
-• Samedi — (Independent) Rotting and monstrous, the Stiffsclaim terrifying control over the processes of death and the secrets of immortality.
+• Samedi — (Independent) Rotting and monstrous, the Stiffs claim terrifying control over the processes of death and the secrets of immortality.
 
 Disciplines: *Fortitude*, *Obfuscate*, *Thanatosis*
 
@@ -842,28 +843,29 @@ When all other avenues are exhausted, your Willpower measures your innate drive 
 
 You come into play with a number of Willpower Traits dependent on your generation. The generation table on p. 95 shows your starting permanent Will-
 
-- *Animalism* Communion with and control over natural animals, through the Beast.
+- **Animalism* Communion with and control over natural animals, through the Beast.
   - *Auspex* Incredible sensory acuity, even extending to psychic sensitivity.
-  - *Celerity* Superhuman speed granted by the power of blood.
-  - *Chimerstry*  The Ravnos gift of crafting illusions and hallucinations.
+  - **Celerity* Superhuman speed granted by the power of blood.
+  - **Chimerstry*  The Ravnos gift of crafting illusions and hallucinations.
 - *Dementation*  The Malkavian ability to catalyze madness and spread the gift of insanity.
-  - *Dominate*  Control of minds through piercing gaze and strong will.
-  - *Fortitude*  Resilience against even the forces that normally injure vampires.
-- *Melpominee* The Daughters of Cacophony manipulate their voices to madden or inspire their listeners with this power.
-- *Necromancy*  Commerce with and power over the spirits of the dead. The *Sepulchre Path* communicates with ghosts; the *Bone Path* deals with corpses; the *Ash Path* sees across the barriers of death and manipulates the lands of the dead.
-- *Obeah* This little-understood power of the Salubri allows them to shelter and heal the injured, whether in body or mind.
-  - *Obfuscate*  Concealment through tricking the minds of onlookers.
-- *Obtenebration*  Manipulation of tangible, soul-smothering darkness is the province of the Lasombra.
-  - *Potence*  Incredible strength, beyond even the unfaltering might of dead limbs.
-  - *Presence*  Unnatural charisma and ability to sway emotions.
-- *Protean*  Shapeshifting and wilderness survival in primal forms, specific to the Gangrel.
-- *Quietus*  The Assamites have learned to manipulate blood to bring silent, poisonous death.
-- *Serpentis*  The Setites' Discipline of reptilian transformation from Egyptian legend.
-  - *Thanatosis* The Samedi's control of the processes of death and decay.
-- *Thaumaturgy*  Tremere blood magic exercised through the will over vitae. The *Path of Blood* controls Cainite vitae; *The Lure of Flames* summons unnatural fire; *Movement of the Mind* controls objects telekinetically; the *Path of Conjuring* allows a caster to pull objects from thin air.
-- *Vicissitude*  This art and craft of shaping flesh and bone like clay is known to the Tzimisce.
+  - **Dominate**  Control of minds through piercing gaze and strong will.
+  - **Fortitude**  Resilience against even the forces that normally injure vampires.
+- **Melpominee** The Daughters of Cacophony manipulate their voices to madden or inspire their listeners with this power.
+- **Necromancy**  Commerce with and power over the spirits of the dead. The **Sepulchre Path** communicates with ghosts; the **Bone Path** deals with corpses; the **Ash Path** sees across the barriers of death and manipulates the lands of the dead.
+- **Obeah** This little-understood power of the Salubri allows them to shelter and heal the injured, whether in body or mind.
+  - **Obfuscate**  Concealment through tricking the minds of onlookers.
+- **Obtenebration**  Manipulation of tangible, soul-smothering darkness is the province of the Lasombra.
+  - **Potence**  Incredible strength, beyond even the unfaltering might of dead limbs.
+  - **Presence**  Unnatural charisma and ability to sway emotions.
+- **Protean**  Shapeshifting and wilderness survival in primal forms, specific to the Gangrel.
+- **Quietus**  The Assamites have learned to manipulate blood to bring silent, poisonous death.
+- **Serpentis**  The Setites' Discipline of reptilian transformation from Egyptian legend.
+  - **Thanatosis** The Samedi's control of the processes of death and decay.
+- **Thaumaturgy**  Tremere blood magic exercised through the will over vitae. The **Path of Blood** controls Cainite vitae; *The Lure of Flames** summons unnatural fire; *Movement of the Mind** controls objects telekinetically; the **Path of Conjuring** allows a caster to pull objects from thin air.
+- **Vicissitude**  This art and craft of shaping flesh and bone like clay is known to the Tzimisce.
 
-power, indicating how many Willpower Traits you have. The maximum Willpower listing shows the highest rating that your Willpower can reach. You may choose to have a card for each Trait of Willpower you possess, and you must turn the card over to a Narrator or Storyteller when you expend Willpower.
+## Willpower
+Willpower, indicating how many Willpower Traits you have. The maximum Willpower listing shows the highest rating that your Willpower can reach. You may choose to have a card for each Trait of Willpower you possess, and you must turn the card over to a Narrator or Storyteller when you expend Willpower.
 
 ## Virtue Traits 
 
@@ -877,7 +879,7 @@ Courage Traits battle against Rötschreck, the Red Fear. With many Courage Trait
 
 The Virtue Traits that you possess depend on your chosen morality. You always start with one free Trait in *Courage*, and if you have *Conscience* or *Self-Control*, you start with one free Trait in each of those. Characters with *Conviction* or *Instinct* have thrown away their more human drives in favor of vampire ethics, but this effort means that you get no free Traits in the appropriate Virtue (so you must assign at least one of your seven Virtue Traits there). See the quick listing of morality for a summation of the Virtues prized by each Path. More complete descriptions of the Virtues and Virtue Tests appear on p. 108.
 
-#### Morality Traits 
+### Morality Traits 
 
 While your Virtue Traits represent your ability to hold off against the Beast, your Morality Traits show how closely you adhere to your chosen codes of ethics. A high rating in your Morality Traits indicates that you set high standards for yourself, but you risk losing ground to the Beast even with relatively trivial violations of your chosen morals. Low Morality Traits indicate that you are close to losing control to the Beast forever.
 
@@ -885,11 +887,11 @@ Your starting Morality Trait total equals the average of your Conscience/Convict
 
 During character creation, you may choose to lose one Morality Trait in exchange for gaining two Free Traits. You may do so only once — losing a Morality Trait counts as taking two Negative Traits. Be warned though, that doing so is a dangerous course; a low Morality Trait total practically guarantees eventual disintegration into the Wassail, the final frenzy.
 
-#### Negative Traits 
+## Negative Traits 
 
 Some characters have particular weaknesses or shortcomings. Others just never developed in some fashion, or suffered injuries that set back otherwise strong attri-
 
-#### Backgrounds
+## Backgrounds
 
 - Allies Mortal confederates and aides.
 - Contacts Sources of reliable information.
@@ -911,18 +913,21 @@ Remember to take Negative Traits that you can roleplay accurately and well. The 
 
 A complete listing of Negative Traits, and how they affect play, begins on p. 81.
 
-derangements
+## Derangements
+Derangements
 
 In addition to Negative Traits, you can choose derangements for your character. A derangement represents some sort of mental instability or neurotic behavior. Taking a derangement counts as two Negative Traits and thus grants you two Free Traits, but you can only take one derangement at character creation (or one extra, in the case of Malkavians, who all start with one). Be warned, derangements cause unpredictable and uncontrollable behavior at times, and a Storyteller is justified in asking you to "buy off" any derangement that you do not roleplay accurately.
 
 Remember that playing a derangement is an exercise in advanced roleplaying. Insanity is neither humorous nor light. You should always consult your Storyteller before deciding to take a derangement.
 
+## Flaws
 Choosing Flaws
 
 Representing specific deficiencies or drawbacks aside from inherent weaknesses common to many people, Flaws showcase particular problems. As with Negative Traits, Flaws grant additional Traits to the user. Each Flaw is rated in terms of its value, ranging from one to seven Traits. The higher the value, the more debilitating the Flaw. A character may total up to seven Traits of Flaws. Elder vampires may have more Flaws; after all, age takes its toll.
 
 Flaws begin on p. 112, with the listings for Merits and Flaws.
 
+## Free Traints
 Free traits
 
 Because no two Cainites are alike, each character gets an allotment of Free Traits to spend on any area of development desired. If you want your character to be socially adept but also intelligent, for instance, you can use Free Traits to improve your Attributes so that you have a high number of Traits in both categories. You could decide to use Free Traits for extra Backgrounds if your character has strong mortal connections, or for Disciplines if she has studied her vampiric powers especially well.
@@ -947,7 +952,7 @@ The antithesis of Flaws, Merits represent special bonuses and capabilities beyon
 
 Merits start on p. 112, with the Merits and Flaws section.
 
-### Step Five: Spark of Life 
+# Step Five: Spark of Life 
 
 Your character is more than a summation of Traits and adjectives. At this stage, take the concepts that you've emphasized and develop a story for your character. Look for explanations to why the character learned certain things, failed in others and developed as she did. Think about the sort of person that you're playing and the motives of the individual.
 
@@ -956,13 +961,13 @@ Your character is more than a summation of Traits and adjectives. At this stage,
 - Motivations Figure out why your character interacts with other Cainites and deals with vampire society. Do you seek personal gain? Are you hunting someone or running from persecution? Perhaps you want to impress your sire or find a companion. If you have trouble figuring out why your character would show up in the game, ask a Narrator or Storyteller for a couple of possible motives.
 - Appearance The Embrace often wreaks changes on the body, whether to imbue it with the grace and beauty of a predator or to twist into some strange visage. How he stands, walks, holds a cigarette or dresses will be one of the things that other characters will remember him by.
 
-#### Derangements
+## Derangements
 
 Bulimia, Crimson Rage, Fugue, Hysteria, Immortal Terror, Manic-Depression, Megalomania, Multiple Personalities, Obsessive/ Compulsive, Paranoia, Regression, Sanguinary Animism, Schizophrenia
 
 • Quirks — Everybody has distinctive behaviors. Anything from a habit of saying "Great Caine!" to playing with a ponytail — such mannerisms show off your character's uniqueness. A quirk can even be used to distinguish you when in disguise or using Disciplines to possess another body — or you could copy someone else's quirks.
 
-# Archetypes
+## Archetypes
 
 Each Archetype describes an essential form of personality. Though a character is more than a simple set of drives, an Archetype provides a basic springboard from which the character's motives and behaviors can develop. An archetypal Nature shows the underlying elements making up a personality, while archetypal Demeanor is the face the character shows to the world around him.
 
@@ -1003,7 +1008,7 @@ In game play, a character's Nature Archetype serves to provide concrete goals an
 - Trickster Existence is absurd, so you fill it with humor and irreverence to avoid looking too deeply at the pain.
   - Visionary A goal fills your mind, and your dreams bring faith to others.
 
-# Morality Paths 
+## Morality Paths 
 
 The Embrace strips a fledgling vampire of all ties to life and humanity. Turned into an animated mockery of life that subsists on the blood of others, the new vampire can only hope to hang onto some memory of mortal morality. The feelings of compassion, the ineffable tie to life, trust and love are all cast aside by a curse that separates the vampire from the rest of humanity. With all human drives and desires twisted into a raging Beast that demands survival at any cost, only a code of morality stands between the Cainite and utter animalistic insanity.
 
@@ -1018,7 +1023,7 @@ A character with several Morality Traits is distanced from the Beast, but conver
 
 The Paths of Enlightenment in this book are often found among non-aligned vampires, or among a few vampires of any sectarian allegiance. Camarilla vampires usually uphold Humanity, though a rare few elders follow different beliefs. Vampires of the Sabbat have their own inhuman Paths of Enlightenment, which are a subject for another book.
 
-### Humanity
+## Humanity
 
 The majority of vampires default to Humanity. Even the depraved vampires of the Sabbat and the jaded elders of the Camarilla cling to some vestige of Humanity, though such monsters usually have very few Humanity Traits.
 
@@ -1122,7 +1127,7 @@ A vampire on the Path of Night is not a ravening, insane beast. He seeks to show
 
 The Path of Night teaches Conviction and Instinct.
 
-#### The Dath of Daradox 
+#### The Dath of Paradox 
 
 Espousing riddles that delve into the illusory nature of existence, the Ravnos followers of the Path of Paradox seek to fulfill the demands of karma. By testing others (often with traps or riddles), the Shilmulo determine each person's place in the wheel of ages. Once the veils of the transitory material world are cast aside, the philosopher can lead the subject to his proper place in destiny — even death.
 
@@ -1161,7 +1166,8 @@ The Path of Typhon teaches *Conviction* and *Self-Control*.
 
 # Attributes (Bidding Traits) the Traits That Describe Your Character's Innate Capabilities Are Called At- 
 
-tributes. These Attributes are used in the game to perform actions and overcome obstacles. While certain situations may also require Abilities, such matters are a function of training. Even with the appropriate training, you must call on your own strengths to finish the tasks set before you.
+Attributes.
+These Attributes are used in the game to perform actions and overcome obstacles. While certain situations may also require Abilities, such matters are a function of training. Even with the appropriate training, you must call on your own strengths to finish the tasks set before you.
 
 When you enter a situation with a questionable outcome, you bid a Trait appropriate to the challenge. If you are trying to knock someone over, for instance, you might bid the Physical Trait *Brawny* as you use your strength. The nature of the challenge determines the Trait used — Physical, Social or Mental.
 
@@ -1171,7 +1177,10 @@ Remember, when you bid a Trait for a challenge, you risk that particular Trait. 
 
 For the purposes of determining what kinds of Traits are appropriate to specific challenges or Disciplines, the Trait listings include a run-down of what sorts of Traits fit into what specialized categories. For example, the Physical Trait *Tough* is appropriate for the Discipline of *Potence* because it is a strength-related Trait. Of course, you can ignore these categories if you wish, in favor of speeding the game. Remember, unique situations may allow Traits to be used in unusual ways.
 
-New players may find it easier to bid a generic Trait from the appropriate pool instead of picking a specific one. Doing so allows them time to get the hang of the system. When they're more comfortable with bidding, then start having them choose Traits. DHYSICALTRAITS
+New players may find it easier to bid a generic Trait from the appropriate pool instead of picking a specific one. Doing so allows them time to get the hang of the system. When they're more comfortable with bidding, then start having them choose Traits. 
+
+## Physical Traits
+PHYSICAL TRAITS
 
 Strength-related: Brawny, Ferocious, Stalwart, Tough, Wiry
 
@@ -1281,7 +1290,7 @@ negative Physical traits
 
 **Sickly:** Weak and feeble. Your body responds to physical stress as if it were in the throes of a debilitating illness.
 
-# Social Traits 
+## Social Traits 
 
 Charisma-related: *Charismatic*, *Charming*, *Dignified*, *Eloquent*, *Expressive*, *Genial*
 
@@ -1369,7 +1378,7 @@ Uses: Subterfuge, seduction.
 
 Uses: At parties. Entertaining someone. Goading or insulting someone.
 
-negative soCial traits
+negative Social traits
 
 **Bestial:** You have started to resemble the Beast of your vampiric nature. Maybe you have clawlike fingernails, heavy body hair or a feral glint in your eyes; however your Beast manifests, you definitely seem inhuman.
 
@@ -1391,7 +1400,7 @@ negative soCial traits
 
 **Untrustworthy:** You are rumored or perceived to be unreliable, whether or not you really are.
 
-# Mental Traits 
+## Mental Traits 
 
 Perception-related: *Attentive*, *Discerning*, *Insightful*, *Observant*, *Vigilant* Intelligence-related: *Cunning*, *Disciplined*, *Knowledgeable*, *Rational*, *Reflective* Wits-related: *Alert*, *Clever*, *Intuitive*, *Shrewd*, *Wily*
 
@@ -1551,7 +1560,7 @@ Most animals find Kindred frightening. With *Animal Ken*, you have learned to un
 
 Animal Ken is often used with the Animalism Discipline. With Animal Ken, you can train an animal (especially a ghoul) into particular behaviors (stay, fetch, attack), or attempt to deduce an animal's state of being (injured, angry, frightened, etc.) with a Mental Challenge. If you work with an animal over a long period of time (generally a month or so), you may be able to teach it a simple trick, up to a limit of one trick for each Mental Trait that the animal has.
 
-## **Athletics**
+### Athletics
 
 Whether due to a background in sports or just personal talent, you are skilled in all manner of athletic endeavors. You can throw a ball, sprint, climb, jump and swim. This last can be especially useful to vampires, who do not naturally float.
 
@@ -1581,23 +1590,23 @@ Making or repairing an item with *Crafts* usually involves a Physical Challenge 
 
 The Tzimisce practice a focus of *Body Crafts* when using *Vicissitude*. This Ability covers tattooing, piercing, flaying and all other applications thereof regarding the alteration of the body.
 
-# Dodge
+### Dodge
 
 When trouble rears its ugly head, you know how to get out of its way. Unhesitating reactions let you evade blows and shots, getting out of the way of injury. You can use *Dodge* against any attack that you're aware of: diving for cover as someone fires a gun or twisting away from a sword, for instance. *Dodge* may be used as a retest when defending against an attack that you can see or sense coming.
 
-#### Drive
+### Drive
 
 Though most people can drive in the modern age, you can drive well. You're equally at home with a stick shift or an automatic, rush hour is no concern and you can get the most performance out of a car. In dangerous situations, you can evade traffic and even use your vehicle as a weapon. Bear in mind that just because you can drive a station wagon doesn't mean you can drive a semi with equal ease. A Mental Challenge may be required to allow you to figure out where everything is in an unfamiliar vehicle.
 
 Drive tests most often involve a Physical Challenge of your reflexes.
 
-## Empathy
+### Empathy
 
 You are sensitive to the moods and emotions of people around you. When you listen to someone, you understand her feelings. You can identify with others and tell when people are lying or holding back while talking to you.
 
 With a Social Challenge and the expenditure of an *Empathy* Ability, you can determine if the last thing that someone said was a lie (although *Subterfuge* can defend against this expenditure). Alternately, you can attempt to determine the subject's current Demeanor.
 
-## Etiquette
+### Etiquette
 
 Even though knowing which fork to use isn't as important to Kindred society, you do know the proper way to greet someone, when to rise and how to make introductions. You can hold a toast with the best of them, and you keep your cool in any social scenario, from high tea to a gang's rally.
 
@@ -1607,19 +1616,19 @@ Words and feelings flow freely from you. When the muse strikes, you put pen to p
 
 When writing or composing, you can sink true *Expression* into the work. Works created with *Expression* x 3 or more have the potential to entrance Toreador, as per their clan weakness.
 
-#### Finance
+### Finance
 
 The world of money and business awaits your whim. You understand interest, Cds, stock market transactions, currency exchanges and Gnps. A little *Finance* lets you make quite a bit of money. You can also use your *Finance* to balance books or run a business of your own.
 
 Typically, you can run a business, follow a money trail, perform an audit or clean up an accounting mess with a Mental Challenge (difficulty dependent on the task, as determined by the Storyteller). Alternately, you can expend a level of *Finance* Ability to raise \$250 in cash between games. Not every use of *Finance* is so benign — money laundering operations have to come from somewhere.
 
-#### Firearms
+### Firearms
 
 A little time at the gun range goes a long way. You know how to hold, fire and clean a gun. You can unjam one, too, and you can tell different models apart. You know how to stand to get the best aim, how to handle recoil and how to take care of problems in the field.
 
 If you possess the *Firearms* Ability, you may use your Mental Traits for gun combat instead of using Physical Traits, at no cost. You can expend *Firearms* for a retest in ranged-fire combat.
 
-# Hobby/professional/expert Ability 
+### Hobby/professional/expert Ability 
 
 In a certain area of expertise not covered by another Ability, you have achieved some level of skill. You may have a small grasp of a trade due to some work on the side, or perhaps you've specifically studied a topic.
 
@@ -1631,21 +1640,21 @@ Intimidation represents any of a broad variety of techniques for terrifying peop
 
 You can use *Intimidation* when trying to scare someone with a Social Challenge, or with certain Disciplines.
 
-#### Investigation
+### Investigation
 
 You know how to pick up clues and put together disparate pieces of information. By habit and training, you can set a jumbled mass of data into order, discovering identities, motives and patterns in an otherwise chaotic scene. You can use *Investigation* with a Mental Challenge when trying to puzzle out meaning to a random scene, or with most *Auspex* Discipline powers.
 
-#### Law
+### Law
 
 Nobody is above the law, except those who know how to use it to their own advantage. You're one of the latter. Perhaps you uphold the law, or maybe you twist it to your own ends. Your knowledge of *Law* allows you to understand legal processes, courts and lawyers, and to use them effectively.
 
-## **Leadership**
+### **Leadership**
 
 When you speak, people listen. A good speaking voice and self-confidence lend a powerful presence to a leader. The *Leadership* Ability represents your ability to motivate people and to get them to follow your guidance. Even among those who do not know or respect you, you can demand attention.
 
 You can use *Leadership* with a Social Challenge to try to get a minor favor or task from a character. *Leadership* is also used with many *Presence* powers.
 
-## **Linguistics**
+### **Linguistics**
 
 You've studied a language — or languages — other than your native tongue. Whether you're an older vampire whose childhood language is no longer spoken, you frequent the global community, or it is necessary for other studies, you can speak, write and read other languages.
 
@@ -1681,11 +1690,11 @@ The *Politics* Ability is useful primarily in dealings with mortal society or In
 
 A knowledge of *Politics* includes, by extension, an understanding of the bureaucratic levels of power. You know how to cut through red tape, or how to obstruct others with it. By determining who's important in a given strata, you can usually avoid wasting time and simply go straight to the person with the power to do what you want.
 
-## **Repair**
+### **Repair**
 
 You possess a working understanding of what makes things tick. With times, tools and parts, you can fix or slightly alter most of the trappings of modern society. This knowledge also allows you to excel at sabotage. The *Repair* Ability is widespread among inventors, mechanics and handymen. Using this Ability usually calls for a Mental Challenge, the difficulty of which depends on such factors as the item's complexity, tools and parts available, extent of damage and time spent on the repairs.
 
-## **Science**
+### **Science**
 
 The modern Information Age sees the explosion of all manner of studies. Categorizing and breaking down the world into many different forms, the methods of logic and reason give sentient beings the means to understand the universe, or at least small pieces of it. Education in *Science* covers techniques of inquiry, modern studies and a broad range of underpinning work in a diverse range of fields.
 
@@ -1693,13 +1702,13 @@ The modern Information Age sees the explosion of all manner of studies. Categori
 
 Using a particular branch of *Science* usually requires a Mental Challenge of some sort to determine the success of research or the viability of theoretical work.
 
-## **Security**
+### **Security**
 
 Whichever side of the law you've worked on has granted you experience in *Security*  techniques. You know about police operations and guard work, how they make their schedules and how they undertake their business — and how to disrupt such operations. Locks, traps, security systems and alarms are all within your purview. With a little time, you can put together *Security* measures for a location; you can also defeat such measures.
 
 Use the *Security* Ability with Mental Traits to set up a secure area or network, or to formulate a plan for breaching such a network. *Security* Ability is also used to disarm traps, alarms and other devices, and to defeat locks. At the discretion of a Narrator, you may be required to use a Physical Trait related to dexterity when attempting to bypass a physical lock or alarm.
 
-## **Scrounge**
+### **Scrounge**
 
 You're exceptionally good at finding *stuff*. Whether it's a crucial part for a 1890s' gramaphone, invitations to the most exclusive gallery opening in town, or just haven space in the downtown, you're a wiz at knowing where to go, who to talk to and how to get what you need. Granted, the things you get are rarely brand-new or exactly right and do take time and favors to acquire. Still such an ability is useful when your finances are less than sparkling or theft is out of the question.
 
@@ -1717,11 +1726,11 @@ Word on the street is known to you. Even if you don't have any particular friend
 
 Using the *Streetwise* Ability, with your Mental Traits, lets you recognize the influence of various gangs or street communities. You also know about criminal organizations and activities, and you could perform a little larceny yourself. An appropriate Social Challenge can help smooth dealings with a hostile gang (though you may need *Etiquette* to make a really good impression).
 
-## **Subterfuge**
+### **Subterfuge**
 
 There are many ways to talk about subjects, and equally many ways to uncover the truth of the matter. Even in idle conversation, people use little white lies, slip hints about their true motives, try to guide the course of discussion and give away their secrets indirectly. The art of *Subterfuge* is the art of reading these tricks and using them effortlessly.
 
-#### Survival
+### Survival
 
 Survival Ability represents a knowledge of terrain, how to find shelter, where to find water, techniques in hunting, edible and poisonous plants and fungi and so on. Though a vampire needs only blood to live, use of Survival makes hunting of animals much easier, and it provides some assurances of a safer existence for those who travel outside the cities.
 
@@ -1731,7 +1740,7 @@ Hunting and avoiding danger in the wilderness usually relies on a Physical Chall
 
 Your character's Backgrounds help to flesh out ties with mortal agencies, role in vampire society and beneficial resources available. Each Background is used differently. In general, having multiple Traits in a given Background allows for better or more common use of that benefit. Some Background directly affect your character's creation and development; others are called into play later during the game.
 
-#### Allies
+### Allies
 
 A few friends, either kept from your mortal days or made after the Embrace, help you out in your endeavors. You can make a few calls and cut a few deals to get assistance in a wide range of activities. Your Storyteller will probably require you to define how you keep your allies and their relations to you.
 
@@ -1745,7 +1754,7 @@ In general, your allies do not show up in play directly. Instead, you can use th
 
 Be wary of calling on your allies too often. An ally may call on you for mutual aid or refuse to help if pressed into dangerous or illegal activities.
 
-#### Contacts
+### Contacts
 
 With the right contacts in all walks of life, you can get a line on all sorts of useful information. Although having an "ear to the wall" doesn't necessarily provide you with good help or loyal servants, it does mean that you know who to ask when looking for the movers and shakers behind the scenes.
 
@@ -1755,7 +1764,7 @@ Using Contacts for especially dangerous or secret information may require you to
 
 **Example:** Langley, a Nosferatu, has Contacts x 5. This month, his player, Robert, decides that Langley is going to engage in a little corporate espionage. Robert allocates Contacts x 4 to Industry, learning about local projects and where they're bound for; he leaves one level of Contacts in reserve, for life's little emergencies. Next month, he plans to use his contacts to find an Underworld buyer for his secrets.
 
-#### Fame
+### Fame
 
 Some vampires are Embraced from among the ranks of the wealthy or talented elite. As a result, many Cainites can make a claim to some distinction in their breathing days. Though such notoriety often fades with the years, your Fame lingers on to influence mortal society.
 
@@ -1795,11 +1804,14 @@ Max. Traits shows your maximum number of total Traits in your primary area of de
 
 Max. Abilities is the maximum levels you can take in any one Ability. With a maximum of five, for instance, you cannot advance beyond Melee x 5, though you may take multiple focused Abilities (Crafts: Woodworking x 5 and Crafts: Leatherworking x 5). Optionally, your Storyteller may allow you to exceed this limit by one in one Ability in which you have a particular area of study.
 
+## Blood
 Blood is your maximum number of Blood Traits. You can hold that amount of blood in your system. The number after the slash is how many Blood Traits you can spend in any given turn. Optionally, your Storyteller may choose to use a "compressed pool" for ease of play. Under such a system, characters have half the Blood Traits listed here, rounded up, but all other functions remain the same (exception: the *Thaumaturgy Path of Conjuring* Blood Trait costs are also halved, rounding up; characters come into play with two Traits of blood if they lose a Blood Test at the beginning of a game). This system makes for faster combat resolution and less bookkeeping, but it also makes vampires less powerful. All vampires in a system should use the same Blood Trait scale.
 
+## Willpower
 Willpower lists your starting Willpower Traits before the slash, and your maximum Willpower Traits after the slash. Should the Storyteller choose to use the compressed Blood Pool, characters have half the Willpower listed (rounded up).
 
-*Generation* is the measure of one's fundamental closeness to Caine. Each vampire is Embraced from a long chain of sire to childe, and the blood weakens with each passing. Those Embraced by a sire closer in the chain to Caine and the Antediluvians find that their blood is strengthened by that proximity. The less scrupulous among the younger generations steal this power through the foul process of diablerie. Since a vampire's sheer power and eventual potential are limited by *Generation*, much of vampire society is ordered by those of low *Generation* (close to Caine) while the neonates of weak, thin blood and high *Generation* (many steps removed) champ at a bit that cannot be removed.
+## Generation
+**Generation** is the measure of one's fundamental closeness to Caine. Each vampire is Embraced from a long chain of sire to childe, and the blood weakens with each passing. Those Embraced by a sire closer in the chain to Caine and the Antediluvians find that their blood is strengthened by that proximity. The less scrupulous among the younger generations steal this power through the foul process of diablerie. Since a vampire's sheer power and eventual potential are limited by *Generation*, much of vampire society is ordered by those of low *Generation* (close to Caine) while the neonates of weak, thin blood and high *Generation* (many steps removed) champ at a bit that cannot be removed.
 
 You must spend one Background or Free Trait for each *Generation* purchased. Thus, if your character is of the 10th generation, you must spend three Background or Free Traits for this privilege. The Storyteller may place a limit on how low the generation spread may go.
 
@@ -1807,7 +1819,7 @@ The total number of Traits placed in this Background determines your exact gener
 
 Your generation affords great power, for it determines your ultimate potential and raw potency of blood. However, being of low generation also makes you a tempting target for would-be diablerists, who seek to steal your vitae to enrich their own.
 
-# Herd
+## Herd
 
 Whether surrounding yourself with mortal cultists, or just making sure that you have regular access to a blood bank, your herd gives you a guaranteed volume of blood for feeding. You don't have to go very far to hunt; your herd, when available to you, offers you a safe and easy way to sustain your powers.
 
@@ -1817,7 +1829,7 @@ Members of your herd (assuming it is composed of people and not plastic bags) ar
 
 **Example:***Xavier, a 10th-generation Tremere, has* Herd *x 3. The player, Paul, ties on his Blood Test as he enters play. He starts with half his blood pool (rounded up), or seven Blood Traits. Paul decides to expend* Herd *x 1 to gain one additional Trait before play, placing him at eight Blood Traits. Later, after a particularly strenuous Thaumaturgical battle, he is in desperate need of sustenance, so the player marks off another* Herd *x 2 and spends 30 minutes out of play. Xavier returns with two extra Blood Traits.*
 
-# Influence
+## Influence
 
 Mortal society builds on institutions. As humans raise their cities, they form gatherings of expertise that are manipulated by the Cainites hiding in their midst. If
 
@@ -2021,7 +2033,7 @@ opinion, with Djs, editors of all varieties, reporters, cameramen, photographers
 | 5    | Broadcast fake stories (local only)               |
 |      | Kill small local articles or reports completely   |
 
-#### Occult
+## Occult
 
 The hidden world of the supernatural teems with secrets, conspiracies and unusual factions. Obviously, a vampire is aware that there are strange things out there by dint of his very existence (after all, if vampires exist...), but hard knowledge of such things is a function of Abilities. By using *Occult* Influence, you can dig up information to improve your knowledge, get inside the occult community and find rare components for magical rituals. Even parts of the elusive *Book of Nod* are available to those with the right connections. Cult leaders, alternative religious groups, charlatans, occultists, New Agers and a few more dangerous elements can be found here.
 
@@ -2043,7 +2055,7 @@ The hidden world of the supernatural teems with secrets, conspiracies and unusua
 | 5    | Access minor magic items                          |
 |      | Unearth an Advanced ritual from your sect         |
 
-### Dofice
+## Dofice
 
 "To protect and serve" is the motto of the police, but these days, Kindred and kine alike may have cause to wonder who is being protected and served. That said, *Police* Influence can be very handy to assist with the Masquerade, to protect one's holdings or to raid the assets of another. After all, attitude won't save the anarchs whose haven is the target of a daylight raid. Police of all ranks, detectives, clerical staff, dispatchers, prison guards, special divisions (such as SWAT or homicide) and local highway patrol make up these ranks.
 
@@ -2176,7 +2188,7 @@ Institutions of learning and research are the purview of the *University* Influe
 | 5 | Falsify an undergraduate degree                          |
 |   |                                                          |
 
-### Mentor
+## Mentor
 
 An older or more experienced Cainite looks after you and comes to your aid occasionally. Whatever the case, you can get assistance from your mentor, though his favor may be fickle.
 
@@ -2194,7 +2206,7 @@ The level of aid that your mentor can give depends on the number of Traits in th
 
 Since *Mentors* can prove unbalancing by providing too many different powers over the course of a long game, the Storyteller may lower your total *Mentor* Traits as you call on his knowledge. This decrease represents the fact that as your character learns the mentor's secrets, the mentor has less left to teach.
 
-#### Resources
+## Resources
 
 You have access to liquid capital and spending money. You also have some solid resources that you can use when times are tight. Unlike the use of *Finance*, these resources are always readily available, and they come to you automatically due to your investments, jobs and holdings.
 
@@ -2209,7 +2221,7 @@ You have access to liquid capital and spending money. You also have some solid r
 
 Your number of *Resources* Traits determines the amount of money and capital that you can secure. By expending temporary *Resources* Traits (which return at the next game session), you can draw on your regular income, as shown in the accompanying table. If you expend permanent *Resources*, you can divest yourself of holdings, allowing access to 10 times the amount shown on the table. However, the limits of what you can buy are always adjudicated by the Storyteller. Truly powerful uses of *Resources* are best left to downtimes and moderation between game sessions.
 
-### Retainers
+## Retainers
 
 Whether out of personal loyalty, love, *Conditioning*, the blood bond or some other power, you have managed to secure the fellowship of a mortal (or several mortals) who obeys your every whim. Unlike the *Allies* Background, your retainers are nearly always around, overseeing your personal effects, defending your property and furthering your goals. They may not have the specialized knowledge of allies, but they are mostly loyal to your cause, and they serve your needs first.
 
@@ -2219,10 +2231,12 @@ You should work with your Storyteller to determine how you managed to secure a l
 - A retainer can be used to manage your assets and perform tasks. Retainers tied up in this fashion allow you to manage more Influence than normal; they add to the number of Attribute Traits that you possess for purposes of counting your total Influences. Each retainer directed in this fashion adds one to your maximum Influence Traits. If retainers are later lost, killed or reassigned, the excess Influence Traits are lost, starting with the highest levels of Influence held.
 - A retainer can perform other menial functions, as allowed by the Story-teller. You can get someone else to pick up your character's dry-cleaning.
 
+### Ghouls
 You may choose to declare that any one of your retainers is a ghoul, if you so desire. However, for each ghoul that you have in your holdings, you begin each session's play one Blood Trait down from usual, as you must feed and maintain the servant. Ghouls have the usual benefits of Disciplines and an improved understanding of vampire society, so they make useful guards, but too many can be troublesome. Jealous ghouls (especially when many are blood bound to the same domitor) can cause no end of troubles.
 
 For more about ghouls, see Liber des Goules.
 
+# Blood
 Blood is the power that fuels all vampires. Unable to enjoy the pleasures of mortal flesh or the comfort of more mundane gratification, only blood offers sustenance to Cainites. Vampires must consume blood to survive, and it is with the life contained in blood that a vampire draws on the strengths of the undead condition.
 
 Blood Traits do not have adjectives. Rather, each Trait simply represents a quantity of blood. In general, a vampire is assumed to have 10 pints of vitae in her system when full. Elder vampires, however, concentrate their blood more efficiently, and thus they have more than 10 Traits.
@@ -2231,10 +2245,13 @@ Blood Traits can be represented with cards. When a character gains Blood Traits 
 
 Your starting Blood Trait total is determined by your generation. When you come into play for an evening's game, make a test with a Narrator as you pick up your character sheet. If you win, you come into play with all of your Blood Traits, as determined by generation. If you tie, you have half your generational limit of Blood Traits, rounded up. If you lose, you come into play with only four Blood Traits. Certain Merits, Flaws, clan disadvantages or other circumstances may alter your number of Blood Traits at the beginning of play, and possession of the *Herd* Background allows you to come into play with more Blood Traits, up to your generation limit (see the appropriate Background descriptions on p. 96 for *Generation* and *Herd*).
 
+## Hunger
 When you have expended a great deal of blood, you become hungry. A hungry vampire is susceptible to the Beast and to frenzy due to the ravenous lust for vitae. You are considered hungry if at five or fewer Blood Traits; you may be susceptible to frenzy at the sight, smell or taste of blood (see *Self-Control/Instinct*, on p. 109). If you have two or fewer Blood Traits, you are ravenous, and your difficulty to resist frenzy due to hunger goes up by one Trait, making it very likely that you enter frenzy at the first opportunity to feed.
 
+## Replenishing Bloood
 Feeding is the only way to replenish blood. You can take Blood Traits from mortals, other vampires or other creatures with blood, such as animals or Lupines. When you bite someone to drain blood, you invoke the Kiss; your bite causes a rapturous helplessness in normal mortals, and it is pleasurable even to other creatures. However, each Blood Trait drained inflicts a level of lethal damage on the victim. Up to three Blood Traits may be drained each turn. You can close the wound by licking it to seal up traces of your feeding. You may only heal such wounds that were made by your fangs.
 
+## Expending Blood Traits
 You can expend Blood Traits for a variety of functions:
 
 - You must spend a Blood Trait each night at sunset, for simple sustenance.
@@ -2250,7 +2267,7 @@ You can expend Blood Traits for a variety of functions:
 
 You can acquire blood from any creature that has blood, including other supernatural creatures, but doing so can cause certain side effects. See pages 202-203 for information about the effects of drinking such "special" blood.
 
-# Willdower
+## Willdower
 
 Willpower Traits measure the strength of your character's resolve and sense of self. By exerting your Willpower, you can withstand otherwise untenable conditions, renew your commitment to a course of action and empower certain difficult Disciplines.
 
@@ -2264,13 +2281,13 @@ Willpower Traits are not described with adjectives. You simply have permanent Wi
 - Spending a Willpower Trait lets you suppress a derangement temporarily. If you spend enough Willpower Traits on suppressing a derangement, you may overcome it eventually. Malkavians cannot overcome their primary derangement this way. (See "Derangements" on p. 212-214.)
   - Certain Disciplines or powers require the expenditure of Willpower.
 
-### Virtue Traits 
+###Virtue Traits 
 
 When pressed by overwhelming stresses or destructive forces, vampires may find themselves lost in the fury of their predatory instincts. The Beast in every vampire strives to survive, forcing you to hunt for blood, to kill others who threaten you and to flee the power of fire and sunlight.
 
 You have three categories of Virtue Traits. Each type of Trait is used for a specific sort of Virtue Test. Conscience/ Conviction is used to hold to your moral path, even if you have a lapse of behavior. Self-Control/ Instinct allows you to deny or direct the terrible urges of your hungry and destructive Beast. Courage stands against the primal fear of the forces that can destroy you. Your Morality Path determines the sort of Virtues that you have; you cannot have both Conscience and Conviction or Self-Control and Instinct — you have only one from each category. Each Virtue Trait rating goes from zero to five Traits, though you do not use adjectives to describe the Traits.
 
-### Virtue Tests 
+## Virtue Tests 
 
 When you suffer from an ethical dilemma, overpowering rage or incredible fear, you may use a Virtue Test to resist succumbing to the Beast. Such a test is a Static Challenge. The difficulty varies with the stimulus, as described for each sort of Virtue. Note that you are never required to make a Virtue Test; you may relent and automatically lose, if desired.
 
@@ -2314,7 +2331,7 @@ If you attempt to make a test of Self-Control/Instinct and fail, you automatical
 
 Later, full of blood, Arithon is at a local club when he is accosted by an Assamite. The Assamite attacks him from surprise – a three-Trait provocation. Arithon's player makes a Static Challenge. If he wins, he manages to control himself, and does not frenzy as the Assamite attacks him. If he ties, his Self-Control of two Traits is insufficient to best the frenzy stimulus; if he loses, he frenzies automatically.
 
-#### Courage
+### Courage
 
 The eternal life promised by the curse of Caine can be ended by varied means, the most painful of which are probably fire and sunlight. The searing wounds inflicted by these banes galvanize Cainites to extremes of self-preservation. Few can remain calm in the face of this destruction.
 
@@ -2357,13 +2374,13 @@ Morality Traits are lost when you suffer a lapse in *Conscience* or *Conviction*
 
 • If you ever run completely out of Morality Traits, your character falls to the Wassail, the final frenzy. Your character enters a totally uncontrolled state of berserk rage and instinctive survival. Such a character cannot be coaxed from frenzy, cannot control himself and is no longer suitable for play. Other Cainites generally put down such unfortunates very quickly.
 
-# Derangements
+## Derangements
 
 Mental instability and insanity plague many vampires, who are gripped by their guilt, remorse and inability to deal with the changing world. Derangements represent specific mental problems that sometimes crop up in situations of stress.
 
 Derangements are tools of advanced roleplaying, and they should only be taken with the consultation of the Storyteller. As a result, they are listed in the Storytelling section of this book, on pp. 212-214.
 
-# Negative Traits 
+## Negative Traits 
 
 As listed previously under Attributes, you can take Negative Traits to specify particular weaknesses inherent to your character. The listings of Negative Traits are included with the other Traits on pp. 80-85.
 
@@ -2375,7 +2392,7 @@ As optional Traits to flesh out your character, Merits and Flaws allow you to sp
 
 Normally, you must purchase Merits and Flaws during character creation. However, with an appropriate story, you may be able to buy a new Merit (with Experience equal to double its value) or overcome a Flaw (again, with Experience equal to double its value).
 
-# Physical Merits and Flaws 
+### Physical Merits and Flaws 
 
 Acute Sense (I Trait Merit)
 
@@ -2495,7 +2512,7 @@ When you suffer injury, your flesh knits with terrible scars and puckering seams
 
 The world of sight is lost to you. You automatically lose all ties where sight would be a factor (tests of manual dexterity, for instance). You fail any challenge requiring sight automatically. You cannot be affected by *Dominate* because you cannot see the opponent's gaze, but that is about the limit of the benefits. If you have this Flaw, you should wear a special tag or glasses to indicate its nature. Interestingly, you can still use the *Auspex* Discipline power of *Aura Perception*, though you perceive the aura through other senses (smell, sound, etc.).
 
-#### Mental Merits and Flaws 
+### Mental Merits and Flaws 
 
 COMMON SENSE (I TRAIT MERIT)
 
@@ -2589,7 +2606,7 @@ Conspicuous Consumption (4 Trait flaw)
 
 The organs and blood-bearing tissue of your victims are staples of your diet. You believe that you must consume the liver, kidneys, heart and other pieces in order to sustain yourself. You must purchase the *Eat Food* Merit so that you can devour the meaty bits. You can only absorb Blood Traits by eating these organs; blood drunk from other sources is vomited back up. This hunger will necessitate the deaths of your victims, and it could lead to interesting problems with the Masquerade and maintaining Morality.
 
-## Social Merits and Flaws 
+### Social Merits and Flaws 
 
 NATURAL LEADER (I TRAIT MERIT)
 
@@ -2631,7 +2648,7 @@ PROBATIONARY SECT MEMBER (4 TRAIT FLAW)
 
 You turned your back on your former organization, and now you stand with another. You may be a Camarilla turncoat, a Sabbat refugee or an independent who joined with one of the greater sects. As long as you have this Flaw, you are suspect within your new organization. You can have Status normally, but elders are likely to cast a suspicious eye over you regardless of your actual standing (treating you as if you had only one Status Trait). Even those with whom you associate may be judged tainted.
 
-## Supernatural Merits and Flaws 
+### Supernatural Merits and Flaws 
 
 Magic Resistance (2 Trait Merit)
 
@@ -2645,7 +2662,7 @@ Lucky (3 trait merit)
 
 You were born lucky — or the Devil looks after his own. Either way, you get three retests per story (for which you bid a *Lucky* Trait: "I got *Lucky* — you missed me last time."), though you may not use more than one retest on any challenge.
 
-Oracular aBility (3 trait merit)
+Oracular Ability (3 trait merit)
 
 The signs and portents of everyday life are clear to you, offering up the course of the future. Once per session, you may attempt to read a particular omen by making a Static Mental Challenge with a difficulty of eight or more Traits (Narrator's discretion). If you succeed, you receive some insight into the current situation, allowing you to claim one retest at some point during the night as you draw on the visions that you interpreted.
 
@@ -2735,12 +2752,12 @@ using Experience
 
 Experience Traits may be spent to purchase new Abilities, Traits and Disciplines, improving a character and giving the player a sense of satisfaction as he watches his character grow more potent. The on p.124 chart lists the costs for improving Traits, Abilities and Disciplines.
 
-### Converting Characters from Drevious Editions 
+# Converting Characters from Previous Editions 
 
 
-#### Converting Concept, Clan, 
+## Converting Concept, Clan, 
 
-#### Morality, Nature and Demeanor 
+## Morality, Nature and Demeanor 
 
 Your character's concept probably remains unchanged as a result of the rules – your background story is not affected by the vagaries of Traits.
 
@@ -2750,21 +2767,21 @@ A character's Morality is still the same Humanity or Path of Enlightenment, but 
 
 Natures and Demeanors follow the Archetypes listed here, though there is certainly nothing to prevent the use of previously published Archetypes.
 
-#### Updating Clan 
+## Updating Clan 
 
 Note specifically that the clan advantages and disadvantages for this edition of **Laws of the Night** differ from the predecessors, which may grant certain characters extra Traits or penalties.
 
-#### Converting Attributes 
+## Converting Attributes 
 
 For the most part, Attributes remain unchanged. The number of Traits possessed by a character stays the same, and most of the adjectives are the same, too. The sole exception is the Physical Trait Athletic, which was replaced with Agile to prevent confusion with the Athletics Ability. The Calm Mental Trait was removed, as that is a function of Self-Control; substitute Patient, Disciplined or Determined instead.
 
-#### Converting Advantages 
+## Converting Advantages 
 
 Changing Abilities
 
 Abilities remain largely unchanged — converted characters may choose specializations, as described for Abilities. Certain highly particular Abilities can be converted to *Hobby/ Professional/ Expert* Abilities at the discretion of the Storyteller: *Demolitions* or *Cainite Lore*, for instance.
 
-#### Changing Disciplines 
+## Changing Disciplines 
 
 Disciplines are perhaps the most difficult area to convert. Since many Disciplines now have different levels or additional levels, it can be hard to see exactly how a character can come across to the new system.
 
@@ -2820,19 +2837,19 @@ Many Merits were removed from the game, or changed in Trait value. As with Flaws
 
 Lastly, spend five Free Traits — under the Free Trait costs, not Experience Trait costs — to finish the conversion.
 
-### Converting Characters from Tabletod Dlay 
+## Converting Characters from Tabletop Play 
 
 Moving a character from tabletop play to live-action can be a little tricky, but it's generally worth the effort. Watching your favorite character blossom into full flower as you take on the role physically is both rewarding and exhilarating.
 
 The new systems in Laws of the Night are designed to mesh more smoothly with Vampire: The Masquerade, so tracking the various Disciplines and Attributes is straightforward.
 
-#### Converting Virtues and Morality 
+### Converting Virtues and Morality 
 
 The Virtue Trait system for **Mind's Eye Theatre** runs very close to the tabletop system now, unlike the old Beast Trait system. Virtue Traits convert directly across, with one dot turning into one Trait.
 
 Morality scales are compressed, though, for ease of testing. One Trait of Morality (Humanity or Path) equals two dots of tabletop Morality. Round fractions up, in favor of the character being converted.
 
-#### Converting Tabletop Clans 
+### Converting Tabletop Clans 
 
 The clans in the tabletop game do have clan weaknesses, but not clan advantages. Assign the clan advantages normally to the character while converting as a bonus of the system.
 
@@ -2842,19 +2859,19 @@ If your character happens to have a score of one or zero in a Trait, you should 
 
 **Example:** *John Slime, the Nosferatu, has a Stamina of 5 dots but an Appearance of 0. When converted, he gets 4 Stamina-related or miscellaneous Physical Traits, but must take a Negative Social Trait. Kurt decides to take the Physical Traits of* Vigorous*,*  Enduring*,* Tough *and* Resilient*, and he assigns the Negative Social Trait* Obnoxious *(in addition to John Slime's existing* Repugnant *x 3 Traits).*
 
-# Converting Tabletop Abilities 
+### Converting Tabletop Abilities 
 
 The Abilities in tabletop play are more extensive, and they tend to have higher levels, than in live-action.
 
 Instead of trying to take levels for every dot in Abilities, look at the highest Abilities on the character sheet. Assign one level to each Ability with three dots, and an additional level to any Ability with four or five dots. If you come up with less than five Abilities, simply take the next highest one and take one level in it.
 
-## Converting Tabletop Disciplines and Backgrounds 
+### Converting Tabletop Disciplines and Backgrounds 
 
 Disciplines and Backgrounds in **Laws of the Night** correspond exactly to the levels in **Vampire: The Masquerade**. Take one level in each of the appropriate Traits for each dot in the tabletop game.
 
 The sole exception is the Influence Background. This Background runs from one to five dots in the tabletop game, but it is subdivided into several categories for live-action play. In **Mind's Eye Theatre** conversions, simply split up any dots of Influence into any desired levels of Influence that total the same amount. If your character has three dots of Influence, you get to spread around three Traits of Influence in live-action play, among whatever categories desired (or all in one).
 
-# Converting Blood Traits and Willpower 
+### Converting Blood Traits and Willpower 
 
 Blood Traits are used exactly the same in both live-action and tabletop play. They convert normally.
 
@@ -2862,30 +2879,31 @@ Willpower, on the other hand, varies with generation in **Laws of the Night**, b
 
 **Example:***John Slime is a 10th-generation Nosferatu. He has seven dots of Willpower in tabletop play — 70 percent of maximum. In live-action, he would have between two and five Willpower Traits. 70 percent of the way between the two is four, so John Slime has four Willpower Traits.*
 
-# Converting Tabletop Merits and Flaws 
+### Converting Tabletop Merits and Flaws 
 
 The Merits and Flaws from **Vampire: The Masquerade** have direct correspondences to this material, so conversion isn't a problem. However, make sure that you understand the full text of the live-action version. Often, the change to live-action impacts the game mechanical effects of a given Merit or Flaw.
 
-
+## Concept
 step one: Concept
 
 Alyson begins by looking for a concept, a basic idea which she can build her character around. She decides that she wants to play a tough humanitarian, someone who once was a warrior for a cause but ultimately found that people were more important than slogans, and who now struggles to aid the less fortunate around her. Thinking a little more, she decides her character was a fiery Southern belle who took an active role in the upheaval of the last century and ultimately attracted a vampire's eye with her fierce dedication. Brian likes the concept and approves it: a vampire who actively battles her Beast in order to help others sounds like an excellent roleplaying opportunity. Because she was formerly quite a firebrand, Alyson decides the Brujah clan was the most likely to have embraced her, but that her new views have probably alienated her from her peers — another good story hook for later on. She chooses Caregiver for her Nature (adding interesting depth and departing nicely from the stereotypical Brujah, much to Brian's relief), and picks Survivor for her Demeanor, reflecting the tough facade her character has developed since being on her own. Humanity is the obvious choice for her Morality Path, and Alyson decides the character will be part of the Camarilla as opposed to the inhuman Sabbat. Finally a name for her character comes to her — Daron. Alyson is ready to move on to the next step.
 
-### Step Two: Attributes 
+## Step Two: Attributes 
 
 Alyson has to prioritize Daron's Attribute categories now, to determine her basic strengths and weaknesses. She takes Physical as Daron's primary Trait category, Mental as her secondary, and Social as her tertiary. Alyson explains that Daron believes in helping out with her own two hands and learned to take care of herself in her rebel days (Physical), that she has always been good at putting her mind to a task and never backing down (Mental), but that sometimes she is a bit rough with people's feelings and tends to be overly direct at times (Social). Now Alyson must choose individual Traits for each category, beginning with seven Physical Traits. She chooses *Ferocious, Quick, Quick, Enduring, Athletic, Steady* and *Wiry*. That makes Daron someone who's physically dependable and useful in a scrap — a good combination for her chosen calling. Next is Mental, with five traits, and Alyson picks the Traits *Alert, Observant, Disciplined, Determined* and *Clever*, reflecting Daron's strong personality and her awareness of conditions around her. Finally comes Social, with only three Traits. Alyson takes *Intimidating*, *Persuasive* and *Magnetic* — Daron has the makings of a decent leader, but still uses force to get things done from time to time.
 
-### Step Three: Advantages 
+## Step Three: Advantages 
 
 Now Alyson has to choose Daron's Abilities. Although she sees so many she'd like Daron to have, she begins by choosing some Abilities appropriate to Daron's warrior past: *Brawl, Firearms* and *Dodge*. Then she takes *Empathy* and *Streetwise*, representing what Daron has learned during the time she's spent walking alongside the downtrodden. These choices also give Daron a wide scope of talents, something that appeals to Alyson's notion of her as an independent crusader used to being on her own.
 
+## Step Three: Advantages
 Disciplines come next; here too is another area Alyson wants to have a broad base of powers to call upon, given the complicated nature of Daron's cause. As a
 
 Camarilla vampire, Daron begins play with three levels of Disciplines, and after looking over the choices available to her, Alyson selects one level of each of the Brujah clan Disciplines: *Alacrity* (Celerity), *Prowess* (Potence), and *Awe* (Presence). She reasons that the first two are a legacy of her more violent days, while Daron has developed the last just recently, when she began working on improving her skills at communicating with others.
 
 Finally, Daron's Camarilla status gives Alyson five levels of Backgrounds to spend. She takes some time on this section — Daron has recently split with her violent past, and that means she probably hasn't had much time to build up resources of her own just yet. To reflect this shift, Alyson chooses one level of *Contacts* (informants who remained loyal to her) and *Street* Influence. Then she asks Brian if she can take three levels of Generation Background, since she needs Storyteller approval before doing so. (This would start her at 10th generation). Getting a better sense of her character's history now, Alyson explains that Daron was the childe of Jonas, a moderately powerful Brujah, who has taken her new change of heart rather badly and now does his best to make her unlife as unpleasant as possible. Her lower generation only makes matters worse, as it increases his shame and the sense that she's flaunting the responsibilities of her blood. Never one to stand in the way of a player making unlife more difficult for her character in an interesting fashion (and knowing a 10th generation character won't upset game balance), Brian gives her permission to take the three levels of Generation, and Alyson is finished this stage.
 
-step Four: Finishing Touches
+## Step Four: Finishing Touches
 
 Alyson must now record Daron's starting Willpower and Blood Traits. Looking at the Generation chart on p. 95, she sees that 10th generation Kindred begin with two Willpower Traits, have a maximum of five Willpower Traits, and also have a maximum of 13 Blood Traits. In addition, as 10th generation, Daron can only spend one Blood Trait per turn, and can only gain up to five levels in one Ability. Looking further, Alyson sees she must perform a Simple Test with Brian to determine how many Blood Traits she begins play with; he shoots scissors, she shoots paper. Curses! Daron will have to begin play with only four Blood Traits, which means she will probably have to hunt sometime during her first session but is otherwise all right.
 
@@ -2897,7 +2915,7 @@ the Flaws next, finally selecting *Sire's Resentment* (reflecting Jonas's dislik
 
 Thanks to the extra Flaws and Negative Traits she's taken, Alyson now has a total of nine Free Traits to spend improving Daron's statistics. Rationalizing that she would have to be plenty tough to survive her past battles and her sire's current ire, Alyson spends three Traits to purchase the Basic Potence Discipline: *Might*, giving Daron an extra physical edge. She also spends a Trait each to purchase an extra Physical Trait: *Vigorous* and a *Brawl: Aikido* Ability specialization, rounding out Daron's already formidable fighting skills. Alyson has four Free Traits left to spend, and she decides to take an extra Social Trait: *Commanding* to represent Daron's ability to organize people for a task. With her final three Free Traits, Alyson purchases the Merit: *Iron Will,* reflecting Daron's fiercely independent nature and also helping to explain how she got out from under her sire's influence with relative ease. Brian takes a look at her sheet, making sure all the numbers add up, and approves it.
 
-step Five: spark of Life
+## Step Five: spark of Life
 
 All the game mechanics, Traits, powers and skills are now laid out. Alyson has developed a much better image of Daron than when she first started, but there are still some things not covered, things that can't be captured by rules and character sheets; specifically, the details that make Daron live and breathe to the other players. Alyson has to think about ways to convey her character's personality to the other players, to create a host of little identifying quirks that come with roleplaying her. Does Daron wear the rebellious garb of so many Brujah, or does she have her own sense of style? Does she still speak with a Southern accent, or has time erased it? Does she crack her knuckles when she's impatient, or sing softly when she's happy? When she walks, does she display ladylike grace or simply get where she's going as quickly as possible? There are countless subtleties that can be added to make a character seem more real, and which make for an entertaining and memorable personality for everyone in a game to interact with. More character history also can't hurt — Alyson has already gone beyond a stereotypical Brujah to create an intriguing past, but more detail is still possible. Did her mortal family approve of her crusading, or did they disown her for her actions? Where did she first meet Jonas? What specific event caused her to change from a warrior to a protector, and what other friends did she lose when she made that decision? What allies did she make? What goals does she have in this city, and how does she plan to attain them? Does she view the Embrace as a curse, or merely another means to her ends? Exploring all of these questions and more will help Alyson further define Daron and her vampiric existence, but for now Alyson is satisfied with the progress she's made, and she knows that a character is only full realized once play begins. After she and Brian work out the details of her introduction at the next game session, Alyson's all ready to begin, and Daron will soon walk under the looming clouds of the Final Nights.
 
@@ -2911,27 +2929,32 @@ Kevin's fangs hovered at her neck, and then he spoke in return. "You don't need 
 
 Before Kevin could think matters through any further, Donata turned in his grasp, tugging him closer with a satisfied smile. "A fair trade indeed. We make a peerless pair," she added, prompting Kevin's ego. The intemperate Brujah needed no further prodding. With a growl, he sank his fangs into Donata's neck, convinced that she would do him no harm. She gasped under the pleasant waves of the Kiss, even as Kevin started down the road to total enthrallment.
 
+# Disciplines
 Though vampirism is a curse, the blood of Caine grants great mystical powers to those with the insight and dedication to pursue them. Called Disciplines, these supernatural abilities grant a vampire exceptional powers — incredible strength or speed, preternatural senses, the ability to hide from mortal sight or even stranger powers. Fueled by blood and will, these Disciplines are the hallmarks of a true vampire. Brash neonates may command a few moderate abilities, but the most fearsome vampires combine the strength of their Disciplines with hundreds of years of experience and practice.
 
 
-
+## Rare Disciplines
 also practice *Melpominee* (manipulation of music and voice), *Obeah* (a power of physical and spiritual healing) and *Thanatosis* (control over the processes of physical death and decay). Some other Disciplines are thought to exist as well, though they and their practitioners are certainly so rare as to be nearly nonexistent.
 
+## Disciplans and Blood Use
 Most of the Disciplines require the use of blood or some other expenditure of effort. The gifts of Caine do not come lightly or easily, after all. Still, they are invaluable tools for hunting and survival, even in the modern age. Times being what they are, modern vampires must be very careful of the Masquerade with their powers; a mortal tourist with a camera can prove the greatest threat to vampiric secrecy.
 
+## Targets
 Unless otherwise noted, a Discipline is only useful against one target at a time, and the subject must be sensed directly by the vampire — seen, heard or otherwise noticed. Sensory-enhancing powers may allow effects to target subjects at a distance outside the range of normal sight, but technological assistance is not sufficient — the subject must be noted with the vampire's own senses and powers. For example, you cannot use a camera or binoculars to locate a victim, but you can use *Auspex*.
 
 Descriptions of the Disciplines usually refer solely to vampires or Cainites using the powers. Unless specifically noted otherwise, these descriptions include ghouls, revenants and other characters who use the appropriate power.
-
+## Physical Touch
 Some Disciplines require a physical touch or grip to affect a subject. Acquiring this grip requires a Physical Challenge, though an unsuspecting victim may be lured in with a handshake. A subject who voluntarily meets your grip relents, and he is automatically affected; otherwise, you must make the challenge as normal, even if striking from surprise or if you actually touch the other player (which violates the No Touching rule in any case). Touch-activated Disciplines can sometimes be used in conjunction with an unarmed strike, in which case the strike does normal damage and the Discipline takes effect as well if the blow connects.
 
-learning Disciplines
+## Learning Disciplines
+Learning Disciplines
 
  All vampires can naturally learn their clan Disciplines with nothing more than the expenditure of Experience Traits. As with any other learned capability, the new powers become available at the next game session.
 
+### Out of Clan Disciplines
 The cardinal eight Disciplines that are shared by every clan — *Animalism*, *Celerity*, *Dominate*, *Fortitude*, *Obfuscate*, *Potence* and *Presence* — require only a willing teacher who is one level above what the student wishes to learn. What payment the teacher requires is best left for the characters to haggle out between themselves. Out of game, the Storyteller may require that the vampire indicate who is teaching him his Discipline
 
-
+### Animalism
 For a vampiric predator, mastery over animals is a simple task; the vampire's Beast is more dangerous than any animal's nature. By drawing on this feral connection, vampires can communicate with and control animals. Indeed, vampires who develop a communion with their animal side often seem attractive or at least masterful to most animals.
 
 This Discipline is practiced by the Gangrel, Nosferatu, Ravnos and Tzimisce clans; the Gangrel and Nosferatu often establish equitable or friendly relationships with natural creatures, while the Tzimisce show their mastery over lesser life forms through this power. Ravnos find animals to be useful scouts, spies and meals in their nomadic travels.
@@ -2956,7 +2979,7 @@ You must expend a Social Trait for each animal that you summon. Only animals tha
 
 Animals summoned with this power may take some time to arrive. Your Storyteller can issue cards for your animals or swarms, as appropriate. Animals summoned with this power remain as long as they are not attacked or threatened (within their conception — a rat would certainly feel threatened by the movements of several people in the area), or until the scene ends. You can use other *Animalism* powers normally to command or control the animals called.
 
-## **Quell the Beast** 
+#### **Quell the Beast** 
 
 Touching (from surprise or with a Physical Challenge) or gazing into the eyes of a victim, you can project the fearsome predatory aspect of your vampiric nature. Your Beast serves to show your ultimate mastery over your prey, cowing humans and animals alike into submission. Without the inner fire of powerful emotions, the subject is apathetic.
 
@@ -2966,7 +2989,7 @@ You must engage in a Social Challenge with your victim in order to use this powe
 
 Cowing the Beast of a vampire is much more difficult. You must expend a Willpower Trait to make the attempt (before engaging in the Social Challenge). If successful, the vampire suffers from the normal effects of this power. Alternately, you may use this power on a vampire in frenzy, causing the Cainite to snap back into lucidity. In such a case, you expend the Willpower Trait and make the Social Challenge as usual, but if you succeed, the vampire merely returns to lucidity instead of suffering the other effects of this Discipline. You may not use this Discipline on yourself.
 
-# **Subsume the Spirit** 
+#### **Subsume the Spirit** 
 
 Locking eyes with an animal, you can now move your consciousness into its body, dominating it completely. Your soul pushes aside the animal's weaker spirit, and your own body falls into a comatose state, while your spirit uses the animal as a vessel. Though influenced by the animal's bestial nature, you can still exercise your intellect and even some of your supernatural capabilities.
 
@@ -3005,6 +3028,7 @@ While the Beast is loosed in a victim, you remain complacent and placid. However
 
 A predator's senses must be fearfully acute, so many vampires hone their sensory talents to incredible sharpness. This improved awareness starts merely by expanding physical senses, but as a vampire's powers of perception grow, consciousness itself becomes fleeting and sublime. Such a heightened awareness encompasses subtle textures and emotional states, transcending the physical limitations of the body while developing sharpness of the mind.
 
+### Auspex
 The powers of Auspex grant the ability to see through supernatural deception. With such focused attention, Auspex can even pierce the veils of Chimerstry and Obfuscate. Whenever Auspex is active (a conscious choice on the vampire's part), a Mental Challenge may be made with an opponent to try to see through the illusions of Chimerstry or the misdirection of Obfuscate. Winning this challenge with Auspex penetrates the deceptive powers. Losing, though, indicates that the vampire is affected normally. For each level of difference between the subject's Obfuscate or Chimerstry and the searcher's Auspex, there is a Trait modifier on a one-forone basis in the event of ties or overbids. For example, a searching vampire with Telepathy (an intermediate level of Auspex) counts two additional Traits against an opponent who only knows Unseen Presence, a Basic level of Obfuscate. This bonus applies even when not using the full level of these Disciplines; an individual hiding with Mask of a Thousand Faces is still very difficult to detect if his mastery of Obfuscate has reached the Advanced level of Cloak the Gathering. A chance to see through supernatural concealment always exists, but doing so is much more likely if the searcher's Auspex powers are highly advanced and/or the opponent's powers are weak. When using a Heightened Sense, hold up a number of fingers based on your power level (one for Basic, two for Intermediate, three for Advanced).
 
 The Auspex Discipline is most evidenced by the Tremere, Tzimisce and Malkavian clans, who use it for supernatural insights, and by the Toreador, who use their superb senses in conjunction with their artistic work.
@@ -3029,7 +3053,7 @@ You must be able to see your target in order to use *Aura Perception*. You then 
 
 intermediate auspex
 
-## **The Spirit's Touch** 
+#### **The Spirit's Touch** 
 
 Every being leaves traces of its thoughts and emotions wherever it goes. With this Discipline, you can read these psychic impressions from objects that others have handled, or that have strong emotional events tied to them. A simple touch and a moment of concentration unlocks a flood of images and sensations, possibly giving insight into the past of the item. Note that you may only use this power on objects or places, not on people, vampires, animals or other living creatures.
 
@@ -3037,7 +3061,7 @@ By touching an item and expending a Mental Trait for a turn of concentration, yo
 
 Using this power on objects charged with particularly powerful emotions — a knife used to kill someone, a blanket clutched during childbirth, a bizarre puzzle that drove someone to insanity — may cause you to be temporarily overcome with emotions that are not your own. At the discretion of a Narrator or Storyteller, you may temporarily suffer from a derangement for the rest of the scene.
 
-# **Telepathy**
+#### **Telepathy**
 
 Projecting your senses outward, you can pierce the shroud of reason in the minds of others, drawing forth their very thoughts. You can link your consciousness to anyone you can see, sending or receiving concepts that you and the target "hear" in your respective minds.
 
@@ -3057,7 +3081,7 @@ Using *Telepathy* on a supernatural creature is a taxing exercise, and it requir
 
 Advanced auspex
 
-# **Psychic Projection** 
+#### **Psychic Projection** 
 
 No longer confined to the physical plane, you can project your senses and awareness outside of your own body. Thus untethered, your consciousness roams various planes of thought, allowing you to spy on areas all over the world as an incorporeal spirit. Without the concerns of mass and matter, you easily pass through any physical barrier and move at the speed of thought to any place on Earth, under the orbit of the moon.
 
@@ -3071,7 +3095,7 @@ You may deal normally with other astral forms that you encounter, conversing and
 
 While astral, your consciousness exists in a mental projection of the material world. You cannot directly interact with or see wraiths, Umbral spirits or Garou (see **Oblivion** and **Laws of the Wild**), unless you find a means to travel to or sense the other spirit worlds. Similarly, your astral form is invisible and intangible to them unless you manifest in the physical world.
 
-# Celerity
+### Celerity
 
 As one of the physical augmenting Disciplines of vampires, *Celerity* represents preternatural speed and reflexes. When angered, stressed or consumed with need, a Cainite can use the power inherent in the blood to fuel her actions, moving with startling quickness.
 
@@ -3117,7 +3141,7 @@ ADVANCED CELERITY
 
 When you call on your blood, you burst into a whirlwind of motion. Your passing extinguishes small flames, whips up flurries of debris and sows confusion among slower-moving entities.
 
-# Chimerstry
+### Chimerstry
 
 The Ravnos tricksters of India live in a world of illusions and dreams. According to their philosophies, the material world itself is only a passing fantasy. Consequently, they wield power over perceptions, shaping their own illusions and crafting dreamstuff to their liking.
 
@@ -3151,7 +3175,7 @@ No longer confined to mere static images, you can create an illusion that appeal
 
 You need only spend a single Blood Trait to give animation to an illusion. Once so imbued, you cause the phantasm to move in one specific pattern that you desire. If you spend a complete turn in concentration, you can change this pattern at no extra cost. You must be present for your illusion to sustain itself.
 
-### **Permanency**
+#### **Permanency**
 
 You no longer need to be present to sustain your illusory creations. Any illusion that you make with *Chimerstry* can be imbued with *Permanency*, allowing it to persist even if you leave the area.
 
@@ -3163,11 +3187,11 @@ Advanced Chimerstry
 
 Your terrifying powers of deception extend directly into the mind of your victim. By focusing your efforts on one individual, you can create terrifyingly realistic phantasms. These illusions can affect the senses and move about in any fashion that you desire, but they affect only one victim. Because of the absolute realism of these phantasms, they can actually convince the victim that he has been injured or affected physically. An illusory fire created with this power burns its target, a phantom wall bars passage and a chimerical stake paralyzes a vampire if thrust through the heart.
 
-## Chimerstry and the Fae 
+#### Chimerstry and the Fae 
 
 If you are using the rules from **The Shining Host**, the Discipline of *Chimerstry*  briefly shapes dreaming energy into chimerical constructs, and pulls them into a pseudo-Wyrd state where onlookers can experience them. Such creations are fully effective against changelings, who are always aware of these dream-fantasies. Thus, a chimerical knife (created with only low levels of *Chimerstry* and thus unable to actually injure people) can and does inflict chimerical damage on changelings. Furthermore, since these illusions are fueled by the power of the caster's blood, they cannot be dismissed with simple Banality; active resistance must disbelieve them.
 
-# Dementation
+### Dementation
 
 The twisted psyches of Clan Malkavian house a passion and insight unmatched among the other lines of Cainites. Through their bizarre powers of *Dementation*, the Malkavians spread their madness, catalyzing insanity among mortal and vampire alike. Though this power was found only among the deranged Freaks of the Sabbat, a recent wave of instability has spread its nightmarish bubbles through Malkavians across the globe.
 
@@ -3190,7 +3214,7 @@ Freakish, fleeting nightmares follow your target. The surreal world seems to com
 
 intermediate dementation
 
-### **Eyes of Chaos** 
+#### **Eyes of Chaos** 
 
 Scrutinizing patterns, you can find wisdom in the cracks of reality. Your insight extends to seemingly random patterns and bizarre manifestations of chance. Watching the interplay of events around you, you can sometimes discern complex patterns in them; observing people in action, you uncover their motives and secrets.
 
@@ -3206,13 +3230,13 @@ Simply by speaking aloud to your victims, you can reduce them to howling fear or
 
 You must expend a Blood Trait to use this power. Then, by speaking to your victims for a full turn, you can attempt to drive them into frenzy. You may affect multiple people at once, as long as they can all hear you. You then make a Social Challenge against your targets; any who lose to you are brought to the verge of frenzy. Mortals immediately flee in terror, as if affected by Rötschreck. Vampires, Lupines and other creatures capable of frenzy make *Self-Control/ Instinct* Tests immediately, with a difficulty of four Traits, or else
 
-## Infection!
+#### Infection!
 
 In the late 1990s, a wave of renewed madness spread among Clan Malkavian, shattering feeble or comical Lunatics and leaving the clan solely as twisted seers and madmen. One rapidly evident effect of this madness was the reintroduction of *Dementation* to the repertoire of many otherwise independent or Camarilla-affiliated Malkavians. Players of existing Malkavian characters may choose to retain *Dominate* as a Discipline or switch their *Dominate* powers for *Dementation* (those rare Malkavians with both Disciplines may choose to swap *Dominate* as a clan Discipline, and all of its levels, for *Dementation*, though the reverse is not possible). For instance, a Camarilla Malkavian with both Basic levels of *Dominate* but only one Basic level of *Dementation* (bought as an out-of-clan Discipline) could keep his Disciplines as they are, or decide to switch them, taking *Dementation* as a clan Discipline and having both Basic levels while losing one level of his *Dominate* Discipline.
 
 Advanced dementation
 
-### **Total Insanity** 
+#### **Total Insanity** 
 
 Madness lies around the nearest corner of every mind. Pulling insanity from the recesses of your target's deepest memories and beliefs, you cause the hapless victim to succumb to a wash of overpowering lunacy.
 
@@ -3220,7 +3244,7 @@ You must gain your target's total attention for a full turn; many Malkavians do 
 
 For ease of use of *Total Insanity*, it may be handy to make up several cards with derangements listed on them, and allow your subject to choose five randomly.
 
-# Dominate
+### Dominate
 
 Many Cainites are willful creatures, casting about their ambitions and bending mortals to their desires. For some, though, the strength of will channels into the power to bend minds and control actions. With a piercing gaze and a forceful word, *Dominate* can cause even the strongest mortal mind to crumble and push even other vampires to accede to one's desires.
 
@@ -3232,7 +3256,7 @@ Retests with *Dominate* use the *Intimidation* Ability, as the vampire exercises
 
 Basic dominate
 
-### **Command**
+#### **Command**
 
 Exerting your will against a single individual, you can give a simple command and demand obedience. A single word, even one embedded in a sentence and stressed slightly, becomes an imperative command to your victim. You need only meet your victim's gaze. As long as your victim sees your eyes and hears your voice, your command carries the authority of your blood.
 
@@ -3284,7 +3308,7 @@ While in the mortal body, you may travel any distance from your unconscious Cain
 
 If your vampiric body is slain while your consciousness resides in another body, you can try to hang onto the form. However, you must make a Simple Test (win or tie) at each sunrise. If you lose, your spirit tumbles into the astral plane, lost forever. A possessed body also cannot be Embraced; your spirit prevents the transfer of the Curse, and the body simply dies.
 
-## Possession
+#### Possession
 
 1 Trait Simple possession
 
@@ -3296,7 +3320,7 @@ If your vampiric body is slain while your consciousness resides in another body,
 
 5 Traits Can also use *Necromancy* and *Thaumaturgy*
 
-Fortitude
+### Fortitude
 
 All vampires are supernaturally resilient, capable of surviving blows, slashes, bullet wounds and falls with impunity. Some few, however, are even more powerfully resilient, able to shrug off the most severe wounds and even resist the powers of fire and sunlight for a short time. The Discipline of *Fortitude* represents such resilience, and its mastery allows survival of situations that would otherwise cause Final Death in lesser Cainites.
 
@@ -3306,7 +3330,7 @@ Retests on *Fortitude* powers use the *Survival* Ability.
 
 Basic Fortitude
 
-### **Endurance**
+#### **Endurance**
 
 While most Kindred still suffer the fatigue and pain of their injuries, you shrug off such hardships. Even the searing injuries of fire and sunlight can barely slow you.
 
@@ -3342,7 +3366,7 @@ Like a bar of steel, a mountain, an immutable constant, you resist all damage an
 
 At any point during a turn, you may declare the use of Aegis. You must expend a permanent Willpower Trait or three permanent Physical Traits to activate this Discipline (though these Traits may be re-purchased later with Experience Traits). When you declare Aegis, you immediately revoke any damage that you suffered in the turn, and you take no damage for the remainder of the turn. You may even declare Aegis after you have been "killed," ignoring the damage that killed you and any other injury suffered in the same turn. If you are "killed," you must use Aegis in the same turn — once a new turn begins, you cannot revoke any previous damage. Use of Aegis is reflexive; it does not count as an action.
 
-#### Melpominee
+### Melpominee
 
 With this Discipline, the very voice of a Cainite is a powerful tool. Inspiring emotion or projecting sound through speech and song, the *Melpominee* Discipline reflects the incredible mastery possessed by the Daughters of Cacophony. The Greek Muse of tragedy surely reflects in this power, as it can be used both to soothe the mind and to inspire insanity. Some Cainites attribute these sirenlike gifts to a hint of fey madness in the Daughters' bloodline.
 
@@ -3375,7 +3399,7 @@ You must make a Social Challenge against every target that you wish to affect wi
 
 You must sing for a full turn for *Madrigal* to take effect. The player need not actually sing to invoke this Discipline, though players so talented are certainly encouraged to do so.
 
-## **Siren's Beckoning** 
+#### **Siren's Beckoning** 
 
 Pulling out the roots of turmoil and despair in a subject, you awaken insanity from the soul. Like the legends of faerie singers and mermaids, you can drive your target into desperation with your melodies.
 
@@ -3389,7 +3413,7 @@ Though most Daughters of Cacophony are limited to affecting a single target with
 
 You need only expend one Blood Trait to use *Phantom Speaker* or *Siren's Beckoning* on up to five targets at once. If you use *Phantom Speaker*, every subject hears the same words or music that you project. If you use *Siren's Beckoning*, you make a mass Social Challenge against all of the victims at once. In either case, you can only use one power at a time — you cannot use *Virtuosa* to project speech to some people while singing to others simultaneously.
 
-# Necromancy
+### Necromancy
 
 The unwholesome practices of the Giovanni family comprise several paths of magic centering on death and the dead. With studies born of centuries of
 
@@ -3400,7 +3424,7 @@ As a study of undead magic, *Necromancy* consists of multiple paths of study and
 Some few magicians outside of the Giovanni family also study *Necromancy*, most notably the rotting Samedi. It is rumored that there exist small bloodlines of extremely potent necromancer Cainites with powers beyond those known to the Giovanni.
 
 
-# The Sepulchre Path 
+#### The Sepulchre Path 
 
 Necromancers generally begin their studies with the *Sepulchre Path*, the means of controlling ghosts. Through the *Sepulchre Path*, the vampire delves into the names of wraiths and the means by which they may be compelled to service. Many Giovanni call on "family wraiths" that have worked in service to the necromancers for several years, especially since most novices lack the ability to see or communicate with wraiths that they do not summon and control directly.
 
@@ -3408,13 +3432,13 @@ The *Sepulchre Path* uses the *Occult* Ability for retests. Storytellers may cho
 
 Basic Sepulchre path Necromancy
 
-### **Insight**
+##### **Insight**
 
 Gazing into the eyes of a corpse, you can see the image burned into its death. A moment's concentration allows you to call up the memories of death itself.
 
 You need only expend a Mental Trait while gazing into the eyes of a corpse in order to use this power. You immediately see the last minute of the individual's existence, generally as flashes of vision and startling sensations. This power can even be used on the corpse of a vampire who has reached Final Death, as long as he had not achieved Golconda and is not in a state of advanced decomposition. However, it does not function on vampires that are still ambulatory.
 
-## **Summon Soul** 
+##### **Summon Soul** 
 
 By calling out the names of the dead, you pull them to attendance. Combined with power over their artifacts from life, you can force them to answer your summons, appearing and obeying your will.
 
@@ -3424,7 +3448,7 @@ You must make a Mental Challenge against the wraith that you call (see **Oblivio
 
 intermediate Sepulchre path Necromancy
 
-#### **Compel Soul** 
+##### **Compel Soul** 
 
 By binding a ghost with its name and your strength of will, you can force it to obey your commands. Once you have summoned a wraith, you may use *Compel Soul* to make it answer your questions and serve your bidding.
 
@@ -3432,32 +3456,32 @@ You must first use *Summon Soul* to cause a wraith to appear for you, then engag
 
 If you successfully *Compel Soul*, you may expend a temporary Willpower Trait to force the wraith to obey you for the entire evening. Expending a permanent Willpower Trait causes the wraith to be bound to your will for a year and a day.
 
-## **Haunting**
+##### **Haunting**
 
 Your powers of necromantic compulsion allow you to force a ghost to remain in a particular location, or near a specific object. With a cryptic phrase and a powerful command, you bind the wraith so that it may not leave.
 
 
 Advanced Sepulchre path Necromancy
 
-#### **Torment**
+##### **Torment**
 
 There is a reason that ghosts fear the most puissant necromancers of the Giovanni. Through the use of *Torment*, the necromancer can inflict actual damage on the dead, punishing them for their indiscretions.
 
 Though you remain in the physical world, you can make Physical Challenges against wraiths. You lash out with supernatural energies, though many Giovanni choose to direct the blow by striking physically. Your attacks inflict lethal damage on the wraith; a wraith discorporated with this power is banished to the deeper levels of the Underworld for a full month, unable to return.
 
-# The Ash Path 
+#### The Ash Path 
 
 
 discretion, the specialized Ability of *Wraith Lore* may be used instead.
 
 Basic ash path Necromancy
 
-#### **Shroudsight**
+##### **Shroudsight**
 
 
 You need only expend a Mental Trait to look across the Shroud for the duration of the scene, or for an hour, whichever comes first.
 
-#### **Lifeless Tongues** 
+##### **Lifeless Tongues** 
 
 The babble of restless spirits is clear to you. By concentrating for a moment, you attune your senses to the Underworld, making yourself capable of both seeing and hearing all that transpires there around you. Furthermore, you can understand the language of the dead, so unless a ghost goes out of the way to use a language that you do not know, you can comprehend the words of any wraith.
 
@@ -3465,13 +3489,13 @@ You must expend a Willpower Trait to attune yourself to the Underworld for a sce
 
 intermediate ash path Necromancy
 
-### **Dead Hand** 
+##### **Dead Hand** 
 
 The structures and entities of the Underworld are very real to you. In a bizarre sort of half-life, you can stretch your physical form across the Shroud, interacting with beings and scenery there even as your physical body remains partially in the living world.
 
 By expending a Willpower Trait, you make yourself capable of touching the contents of the Shadowlands for a scene or an hour (whichever comes first). Each additional scene or hour, you can maintain this power at the cost of one Blood Trait. During this time, you do not actually pierce the Shroud, but your actions affect both worlds. Thus, you can climb a ghostly rope, then turn and step onto a real-world roof. You can also lash out physically and strike or grapple with ghosts, though they can return the attacks. However, you cannot push or pull objects from one world to the next. Effectively, you exist in both realms simultaneously, which can be very disturbing to those watching you climb invisible ropes or grapple unseen opponents.
 
-### **Ex Nihilo** 
+##### **Ex Nihilo** 
 
 
 You must first mark a doorway with chalk or blood on any available surface, taking a full turn to do so. (You need not actually draw such a door, but you should pantomime the appropriate actions.) You must then expend a Willpower Trait and two Blood Traits, and make a Static Physical Challenge with a difficulty of eight Traits. If you succeed, you step through the door into the Underworld. Returning to the material world is a matter of concentration; you need only focus your intent to do so and expend a Willpower Trait, at which point you return to the living
@@ -3482,14 +3506,14 @@ When you travel into the deadlands, you take with you only the inanimate objects
 
 Advanced ash path Necromancy
 
-### **Shroud Mastery** 
+##### **Shroud Mastery** 
 
 
 You must expend a Willpower Trait to exercise *Shroud Mastery*. Then, you may raise or lower the Shroud, as you desire. Each Mental Trait that you expend alters the strength of the Shroud by one point in either direction. A stronger Shroud makes it more difficult for wraiths to interact with the living, while a weaker Shroud has the reverse effect. You can raise the Shroud up to a maximum of 10, or lower it to a minimum of three. The "typical" Shroud rating for most locations is 7 or 8, though areas frequented by vampires or ghosts (cemeteries, crypts, mortuaries and sites of Elysium) may have ratings of 4 or 5.
 
 If you are simply using wraiths as generic antagonists, each point of change in the Shroud's strength grants the wraith bonus Traits when interacting with the living world (if the Shroud is weakened) or acts as a penalty to the wraith's total Traits (if the Shroud is strengthened). If you are using the rules from **Oblivion**, the Shroud's effects are explained on p. 161.
 
-# The Bone Path 
+#### The Bone Path 
 
 The *Bone Path* controls death's physical ends. Corpses are the medium of power for such a vampire, and they can be imbued with unwholesome energies and animated to perform according to their master's bidding. Zombies and soulless automatons are the hallmarks of the *Bone Path*.
 
@@ -3497,13 +3521,13 @@ Retests of the *Bone Path* use the *Occult* Ability. The Storyteller may choose 
 
 Basic Bone path Necromancy
 
-#### **Tremens**
+##### **Tremens**
 
 You can instill a corpse with a brief jolt of life. Though this power is insufficient to actually animate or control bodies, you can make them start or twitch spasmodically. Naturally, this sight frightens those unaccustomed to the mobile dead.
 
 You need expend only one Blood Trait to use *Tremens*. The body then twitches or moves briefly in a fashion that you dictate, from sitting up to blinking to flailing an arm momentarily. If you expend a Physical Trait as well, you can implant a command into the corpse instead, causing it to move (once) as you direct when a certain event comes to pass. Corpses twitching in this fashion cannot actually attack or inflict damage, but they can certainly startle the unwary.
 
-## **Apprentice's Brooms** 
+##### **Apprentice's Brooms** 
 
 Your skills in the *Bone Path* allow you to animate the dead, bringing ambulatory motion and a semblance of understanding to a cold corpse. Though they cannot fight, these zombies follow simple instructions, performing tasks that you set to them.
 
@@ -3511,13 +3535,13 @@ You must expend a Blood Trait and a Willpower Trait to use *Apprentice's Brooms*
 
 intermediate Bone path Necromancy
 
-#### **Shambling Hordes** 
+##### **Shambling Hordes** 
 
 When you raise the dead to do your bidding, they come in skeletal hordes and withered masses that obey your every command, working and fighting until destroyed. Any body, no matter how decomposed, can be raised to serve your will.
 
 You must expend a Willpower Trait to call on the *Shambling Hordes*, and then invest one Mental Trait and one Blood Trait for each corpse animated. As long as the skeleton is reasonably intact, the corpse rises to do your bidding. Such guardians can perform tasks or fight for you with no regard to their own welfare. They typically have four health levels (though heavily damaged corpses may have less), and they suffer no wound penalties. These zombies fight with the same number of Physical Traits that they possessed in life (assume five Traits for randomly chosen corpses). They can be given orders to attack people or to guard an area, and they wait tirelessly until destroyed. Decomposition will continue for corpses in varying states of decay, although completely skeletal guardians will be unaffected.
 
-## **Soul Stealing** 
+##### **Soul Stealing** 
 
 Your mastery of animate flesh and spirit allows you to pull the soul from a living or undead body. With *Soul Stealing*, you draw out the victim's soul, turning it temporarily into a wraith while leaving the body as an empty husk.
 
@@ -3525,13 +3549,13 @@ You must expend a Willpower Trait and engage your target in a Social Challenge t
 
 Advanced Bone path Necromancy
 
-#### **Daemonic Possession** 
+##### **Daemonic Possession** 
 
 Though you are not dealing with actual infernal spirits, you can cast a willing soul into a fresh corpse or inanimate body. Thus embedded, the soul takes control of the body, turning it into a new physical home. Dead bodies continue to decay, and thus, they last no more than a week, but this trick provides a perfect temporary repose for a free-floating soul or summoned ghost.
 
 The body must have died within the same scene in which you use *Daemonic Possession*, or else it must be alive or undead and bereft of consciousness (for instance, if you have removed its soul or if the owner is currently using *Subsume the Spirit*, *Possession* or *Psychic Projection*). Bodies of vampires in torpor do not make suitable hosts, as the vampire's spirit is still inside the torpid body. You need not make any challenge or expenditure — with an appropriate host and spirit, the process is automatic once you exert your power.
 
-# Necromantic Rituals 
+#### Necromantic Rituals 
 
 The sinister secrets of *Necromancy* are not confined to the static paths alone. Skilled necromancers create rituals, forms of magic designed to go beyond the basic capabilities of *Necromancy*. With the appropriate materials, training and time, a necromancer can use rituals to create wide-ranging or long-lasting effects that would otherwise be difficult to do with simple paths.
 
@@ -3543,33 +3567,33 @@ Casting a ritual requires a Static Mental Challenge with a difficulty of nine Tr
 
 Basic Necromantic rituals
 
-## **Call of the Hungry Dead** 
+##### **Call of the Hungry Dead** 
 
 With 10 minutes of time and a hair from the head of your prospective victim (represented by a card), you afflict your target with the cacophonous moaning and wailing beyond the Shroud. The victim is assaulted with a welter of confusing voices and mournful howls. For the remainder of the scene or the next hour, the target suffers the Negative Mental Traits *Oblivious* x 2 due to the confusing hail of otherworldly noise.
 
-#### **Eyes of the Grave** 
+##### **Eyes of the Grave** 
 
 Over a time of two hours, you can concentrate the deathly emotions in a pinch of grave soil and use it to conjure visions of death and horror. Once you complete the ritual, you focus these images at the victim, who sees random intermittent flashes of her own gruesome demise.
 
 Once during the remaining evening, you may force the subject to fail a retest, as a shocking vision of death overcomes her. For instance, if you are engaged in combat with a victim of this ritual, who fails a test but calls for a retest with an Ability, you may use the effects of this ritual to negate the use of the Ability and force the victim to either find an alternate means of retesting or to suffer the outcome of the original challenge. Only you may invoke this benefit — other people may not use this ritual's power against the victim, even if they are aware that you have cast the ritual.
 
-## **Spirit Beacon** 
+##### **Spirit Beacon** 
 
 By casting this ritual over a severed human head, you turn it into a supernatural beacon for ghosts. Within the Shadowlands, the head appears to glow with an unearthly radiance, emitting light from its mouth, ears and eyes. Any wraith viewing the Underworld radiance from this head must expend a Willpower Trait or else be immediately drawn to the light for a full hour (or until the end of the scene). The head loses its light at the next sunrise, though it may be enchanted again.
 
 intermediate Necromantic rituals
 
-#### **Cadaver's Touch** 
+##### **Cadaver's Touch** 
 
 By chanting hideous paeans while melting a wax figure of your victim over a three-hour ritual, you cause the subject to lose all semblance of life. The mortal subject of this spell becomes much like a vampire, with a weak pulse, cool skin and a pale countenance. As long as the wax is melted without boiling off or solidifying, the ritual keeps the victim in such a pallid state.
 
 The mortal subject of *Cadaver's Touch* gains the Negative Trait *Repugnant* for the duration of the ritual, as he literally resembles a walking corpse. However, this ritual can be very useful for sending a mortal unnoticed among vampires, or causing hunters to mistake a mortal for a Cainite.
 
-### **Call on the Shadow's Grace** 
+##### **Call on the Shadow's Grace** 
 
 After casting this potent ritual, you become able to peer through the veil obscuring the Shadowlands, and to detect the dark side of every wraith. You can speak directly to the Shadows of ghosts, conversing with their dark sides and learning their secrets. Furthermore, you can coax deadly plots and treacheries from the recesses of the living or undead, simply by communing with their shadowy sides.
 
-## **Ritual of the Unearthed Fetter** 
+#### **Ritual of the Unearthed Fetter** 
 
 This three-hour ritual is most often used by skilled necromancers of the *Sepulchre Path*. By casting this ritual with the finger bone of a corpse, you attune the bone to any material objects, people or places that may have significance to the finger bone's owner — specifically, to the ghost of the dead individual. You take a chip of a grave marker, crush it and sprinkle it over the bone while intoning the ritual. When complete, the finger bone acts as a sort of spiritual compass, pointing toward objects of vital importance to its wraithly owner.
 
@@ -3577,13 +3601,13 @@ Once you have attuned a finger bone with this ritual, you can use it to find Fet
 
 Advanced Necromancy rituals
 
-## **Grasp the Ghostly** 
+##### **Grasp the Ghostly** 
 
 Casting this potent ritual requires a full six hours of chanting. Once complete, you reach into the Underworld, pulling a ghostly object from there and replacing it with an item of your own of roughly equivalent mass. You can only use this ritual on objects, not on people, vampires or ghosts.
 
 Once you have pulled an item from the Underworld, it maintains a solid existence, though its plasmic matter fades slowly from the real world. After a full year, the item in question vanishes forever. This ritual only works on objects that once existed in the real world and that now have ghostly relic equivalent. Artifacts — objects created by wraiths in the Underworld — are not affected by this power; attempting to bring them across will destroy them.
 
-# Obeah
+### Obeah
 
 Though modern Cainites know the Salubri as soul-stealing demonologists, the powers of *Obeah* are a strange mixture of defense and healing. Indeed, powerful Salubri can apparently repair the very scars of the Beast on a Cainite's psyche. Of course, few would trust the Cyclops enough to undergo such treatment. As these powers irrevocably mark the user as a Salubri or ally of such, they are almost never seen or heard of by other vampires — no Salubri would give away his position to Cainites who might betray him to the Tremere, nor would he teach such fatal secrets to another.
 
@@ -3593,7 +3617,7 @@ Retests of *Obeah* use the *Medicine* Ability.
 
 Basic Obeah
 
-#### **Sense Vitality** 
+## **Sense Vitality** 
 
 The ebb and flow of life is obvious all around you. You can feel the pulse of life force with a touch, even sensing the energies of people or Cainites with whom you come in contact.
 
@@ -3601,7 +3625,7 @@ You must touch your subject to use *Sense Vitality*. With a successful touch, yo
 
 *Sense Vitality* may also be used for medical diagnosis, determining the source of injuries or diseases afflicting a victim. Anything that could be learned with a medical examination — the source of the injury, the wound's severity, the reason behind unnatural mental states or death — can be learned with a touch. Each condition examined in this fashion requires the expenditure of a Mental Trait. Thus, determining that a subject was injured with a poisoned knife would cost two Mental Traits — one to recognize the wound as a knife wound, and one to recognize the poison.
 
-#### **Anesthetic Touch** 
+## **Anesthetic Touch** 
 
 Pain flees at your caress, and a peaceful stillness falls on those under your care. Any voluntary subject touched (other than yourself) can be rendered immune to pain. You can also cause mortals to descend into a natural, healing sleep.
 
@@ -3613,13 +3637,13 @@ Alternately, you can cause a willing mortal to sleep. You must expend a single B
 
 intermediate Obeah
 
-### **Corpore Sano** 
+## **Corpore Sano** 
 
 The power of your blood carries healing vitality. Touching the injuries of a subject, you cause them to close and heal immediately.
 
 You must touch an area on or near an injury to invoke *Corpore Sano*, possibly requiring a Physical Challenge if the victim is for some reason unwilling (a vampire who does not trust the assurances of a diabolical Salubri, for instance). Each Blood Trait that you expend heals one health level of lethal damage on the subject immediately and completely; aggravated damage requires two Blood Traits per level healed. If your generation precludes you from spending enough Blood Traits to heal the target completely, you can maintain your contact over the course of several turns in order to heal severe injuries. You are not required to heal all damage that a target suffers — you can spend as much or as little blood as you like over the course of the healing.
 
-#### **Mens Sana** 
+## **Mens Sana** 
 
 Soothing words and supplicating paeans calm the mind of your subject, gifting mental peace to the disturbed. Whether by psychological discourse or religious exorcism, your words carry away the worries and problems of disturbed individuals.
 
@@ -3644,7 +3668,7 @@ If you fail to care for the subject's body while holding the soul, or try to hol
 
 You cannot use *Unburdening the Bestial Soul* to restore your own Humanity/ Path Traits.
 
-# Obfuscate
+## Obfuscate
 
 As creatures of cunning, intrigue and misdirection, Cainites possess an uncanny knack for deception and stealth. For some, though, this ability goes far beyond normal subterfuge. Such vampires actually cloud the minds of people around them, dulling notice and directing attention elsewhere. As a result, these vampires can remain obscured from observation, perhaps even extending their concealing powers to other objects and people.
 
@@ -3662,7 +3686,7 @@ The Discipline of *Auspex* can sometimes be used to pierce the veil of *Obfuscat
 
 Basic Obfuscate
 
-#### **Cloak of Shadows** 
+### **Cloak of Shadows** 
 
 By remaining still and relying on natural cover, you can blur the apparent lines of your form and make it difficult for people to notice you. While nobody is watching, you can use cover to fade from view. As long as you remain completely silent and unmoving in a shadowed place or behind some sort of cover, you may cross your arms in front of your chest to represent the use of *Obfuscate*. While thus hidden, nobody but a Cainite using *Auspex* (or another supernatural creature with similar sensory acuity) can spot you. This concealment vanishes immediately if you move, speak or interact with your environment in any fashion.
 
@@ -3670,7 +3694,7 @@ By remaining still and relying on natural cover, you can blur the apparent lines
 
 Your powers of concealment allow you to fade from view, and then to wander about while remaining unnoticed. Any time that you are hidden from sight, you may invoke this Discipline, crossing your arms in front of your chest to represent *Obfuscate*. Once concealed, you may move about at a walk and remain unnoticed. This concealment remains as long as you do not speak, make any loud noises or interact with your environment — you can wander about unnoticed, but you automatically become visible if you open a door, attack a person, exert the *Presence* Discipline or knock over a vase, for instance.
 
-# **Mask of a Thousand Faces** 
+### **Mask of a Thousand Faces** 
 
 By twisting perceptions around you, you cause others to see you not as you really are but as someone different from your actual physical appearance. Generally, this power causes people to ignore your features, making you unassuming and average. However, with concentration, you can assume a specific hallucinatory visage, or even copy the features of another individual.
 
@@ -3678,7 +3702,7 @@ While using the *Mask of a Thousand Faces*, your features seem bland and unremar
 
 You still use your normal Social Traits while using the *Mask of a Thousand Faces*. You can copy an image of fewer Traits deliberately, but if you hope to masquerade as someone with more Social Traits, you must expend Blood Traits to match that person's total Social Traits. Otherwise, your appearance and mannerisms mysteriously fail to convey the person's countenance properly. You cannot use the *Mask of a Thousand Faces* to assume more Social Traits than your generation would allow you to possess, so you may have difficulty duplicating the incredible grace of an elder. In either case, you still use your normal Social Traits; the assumption of the *Mask of a Thousand Faces* merely causes you to appear like someone of more or less social acumen and appearance.
 
-## **Vanish from the Mind's Eye** 
+### **Vanish from the Mind's Eye** 
 
 The incredible powers of your stealth allow you to remain hidden even while speaking or moving about. You can even fade from plain sight, disappearing from the view of any onlookers.
 
@@ -3686,7 +3710,7 @@ When using *Vanish from the Mind's Eye*, you gain all the benefits of *Unseen Pr
 
 Additionally, you may speak aloud while using this Discipline, and still attempt to remain hidden. Again, if you speak, you must make a mass Mental Challenge against everyone trying to detect your position, regardless of *Auspex*. Anyone losing to you fails to locate you, simply hearing a disembodied voice; those who best you manage to pierce the veil of your *Obfuscate*. You still cannot remain invisible while interacting physically with your environment, screaming, exerting *Presence* or attacking, but you could take such an action and then try to fade away, as described previously.
 
-# **Cloak the Gathering** 
+### **Cloak the Gathering** 
 
 Your powers of concealment extend beyond your own form. With an effort, you can throw your disguising powers over several people, hiding them all from view or masking them with hallucinatory guises.
 
@@ -3696,7 +3720,7 @@ Individuals under the effects of *Cloak the Gathering* still sense one another n
 
 *Cloak the Gathering* only throws your *Obfuscate* over other creatures or entities. You cannot use *Cloak the Gathering* to shroud a house, for instance, but you can certainly conceal a small group of vampires and all that they wear or carry.
 
-# Obtenebration
+## Obtenebration
 
 The bailiwick of the Lasombra clan, the *Obtenebration* Discipline summons forth and shapes a strange, cloying darkness. This darkness is wholly unnatural. It mutes sound, absorbs light and sometimes seems to have a tangible substance. Some Cainites claim that this darkness is a reflection of the primordial void before Creation, while others hold that it stems from the vampire's blotted soul. Whatever the source, this shadowstuff is certainly terrifying to those unused to its manifestations.
 
@@ -3706,7 +3730,7 @@ Any given vampire can see through her own *Obtenebration* darkness automatically
 
 Basic Obtenebration
 
-#### **Shadow Play** 
+### **Shadow Play** 
 
 You can exert a limited degree of control over existing shadows and darkness. At your mental command, darkness can be made to deepen or retreat, lengthen, move, flicker or undulate disturbingly. Though you can only affect a limited area of shadow, the stuff takes on a hellishly cloying quality and bends to your supernatural will.
 
@@ -3727,7 +3751,7 @@ Your *Shroud of Night*, once created, lasts for the entire scene or hour, or unt
 
 Intermediate Obtenebration
 
-#### Arms of the Abyss 
+### Arms of the Abyss 
 
 From the shadowy corners of a room or the blackness of night itself, you can summon forth tentacle limbs that flail about, ensnaring or attacking as you desire. These black shadow tentacles animate as you direct, even while you take other actions. You can pull many tentacles from a single source, or generate shades from several locations at once.
 
@@ -3742,7 +3766,7 @@ The *Black Metamorphosis* lasts for one scene or one hour.
 
 Advanced Obtenebration
 
-#### **Tenebrous Form** 
+### **Tenebrous Form** 
 
 At this level of skill, you no longer summon forth the darkness within yourself — you *become* it. Your form collapses into a shadowy outline, a pseudo-liquid humanoid shape of utter blackness. While in this form, you can slither about through tiny holes and cracks, and you may see through any normal darkness.
 
@@ -3750,7 +3774,7 @@ You must expend three Blood Traits and spend three full turns in concentration, 
 
 While in *Tenebrous Form*, fire and sunlight are exceedingly painful to you; thus, you suffer a one-Trait penalty on resolution of *Courage* Tests.
 
-# Potence
+## Potence
 
 All vampires are capable of preternatural strength by human standards, simply through the use of blood. With *Potence*, though, this strength extends far beyond such measures. The inhuman might of *Potence* is sufficient to allow a vampire to break bones, shatter stone, even heft and destroy heavy or resilient objects. Vampires using *Potence* in battle are fearsome indeed, delivering telling blows that fell even their undead adversaries.
 
@@ -3764,13 +3788,13 @@ use the normal *Brawl* Ability for retesting.
 
 Basic Potence
 
-#### **Prowess**
+### **Prowess**
 
 You have unearthed a level of strength unusual in vampires. Where others would flag and fail, you redouble your efforts. Your mighty blows land with a force that kills even the hardiest mortals.
 
 With *Prowess*, all of your unarmed or clubbing attacks inflict lethal damage instead of bashing damage, if you so desire. Furthermore, once per game session, you may recoup your lost strength, restoring all used Physical Traits of *Brawny*, *Ferocious*, *Stalwart*, *Tough* and *Wiry*. You must restore all of them at once — if you have some Traits of the appropriate type unused when you invoke *Prowess*, you cannot restore them later. Using *Prowess* costs nothing, and it does not count as an action; it may be done at any time.
 
-#### **Might**
+### **Might**
 
 Your strength daunts even other Cainites. Few would dare to cross you in a test of physical power. You are far more likely than the average vampire to succeed in challenges of strength.
 
@@ -3780,13 +3804,13 @@ You may use *Might* even if your opponent attempts to evade your strength. Your 
 
 intermediate Potence
 
-#### **Vigor**
+### **Vigor**
 
 Your vampiric strength is truly monumental. You can heft hundreds of pounds with ease, deliver enough force to crush bones in a single blow and hammer down any opponent of lesser strength.
 
 When you possess *Vigor*, you may use the Bomb in challenges of strength. The Bomb is a closed fist with the thumb sticking up. The Bomb defeats Rock and Paper, ties with other Bombs and loses to Scissors (the fuse is cut). You are not required to use the Bomb, but you must always state before a Physical Challenge that you are capable of doing so. Using *Vigor* costs nothing. Your use of *Vigor* requires you to use only your strength; your opponent may try to defend with stamina or speed, but his doing so does not prevent you from using the Bomb.
 
-# **Intensity**
+### **Intensity**
 
 Your titanic strength never fails you. Unless sorely pressed or wounded, you can continue incredible feats indefinitely.
 
@@ -3796,7 +3820,7 @@ have been completely exhausted, you can no longer enter challenges.
 
 Advanced Dotence
 
-#### Puissance
+### Puissance
 
 No mortal can match you, and even vampires tremble at your touch. The strength of your dead limbs is truly monumental, crushing anything that stands before you.
 
@@ -3804,7 +3828,7 @@ With Puissance, you win all ties in tests of strength automatically. You need no
 
 Furthermore, your incredible strikes inflict an additional health level of damage in combat. This bonus applies to any attack in which your strength is a factor — unarmed combat or combat with melee weapons. However, use of this incredible strength almost certainly breaks weapons that are not specially designed to stand it.
 
-## Dresence
+## Presence
 
 To many, vampires seem to exude an air of command, sensuality or intimidation. For a master of *Presence*, emotions are playthings to be manipulated and stimulated. When many Cainites survive through careful manipulation of mortal society, the ability to sway emotions and control passions is a powerful capability indeed. More than simply using intrigue or carefully rehearsed acting to influence others, vampires with *Presence* literally project auras of power or dread.
 
@@ -3816,13 +3840,13 @@ Retests with Presence use the Leadership Ability.
 
 BASIC DRESENCE
 
-#### Awe
+### Awe
 
 The sight of you turns heads. When you let your charisma shine, you draw attention naturally. People try to be close to you, and even those disinclined to listen to you give some consideration to anything you say or do.
 
 When you are involved in a Social Challenge, you may expend one Social Trait to invoke Awe, gaining an automatic retest. You may only use this power once per Social Challenge. You may use Awe in a mass challenge, but you must expend one Social Trait for each person retested against.
 
-#### Dread Gaze 
+### Dread Gaze 
 
 By hissing, baring your fangs and allowing your vampiric features to rise to the fore, you can terrify mortals and even shake the resolve of other vampires. Though few would risk the wrath of an angry Cainite, your fearsome visage goes beyond that, driving supernatural terror into the hearts of your victims.
 
@@ -3830,13 +3854,13 @@ By making a Social Challenge against your foe, you strike terror into your victi
 
 intermediate Presence
 
-#### **Entrancement**
+### **Entrancement**
 
 When you bring your charm to bear on an individual, you are almost hypnotically magnetic. Individuals affected by your *Presence* find your manner irresistible.
 
 You must make a Social Challenge against a target to exercise *Entrancement*. If you succeed, the target is favorably disposed toward you, and she will not insult or attack you for the rest of the scene (or for an hour). Indeed, a formerly neutral subject wants to aid you and act as your friend; even a previously hostile target is rendered neutral. If you take a hostile action against the subject, of course, the *Entrancement* is broken immediately, and it may not be used against the subject again in the same scene.
 
-#### **Summon**
+### **Summon**
 
 Extending your incredible manipulative powers, you can draw others to your location. Your victim need not see you, or even be seen by you — as long as the subject is known to you, you can *Summon* him to your side. Once called, the subject tries to get to you by whatever means possible, completely unaware of the supernatural nature of the desire and avoiding situations that would prevent fulfilling the compulsion (like locked rooms and overprotective allies). The compulsion lasts until the victim manages to arrive and make his presence known to you.
 
@@ -3848,7 +3872,7 @@ In the unusual case that *Summon* is used on a false identity (an identity creat
 
 Advanced Presence
 
-#### **Majesty**
+### **Majesty**
 
 The force of your personality makes even the most stalwart tremble. When you exert your *Majesty*, heads bow, hearts break and spines quiver. None would dare to challenge you or risk your ire, for your ambiance is without peer.
 
@@ -3858,7 +3882,7 @@ If you attack someone or undertake a hostile action while using your *Majesty*, 
 
 When attempting to penetrate *Majesty*, a Willpower Trait may be used for a retest. This is an exception to the normal rule that Willpower is used only to defend against Mental and Social Challenges.
 
-# Protean
+## Protean
 
 Survival in the wilds is difficult indeed for vampires, who must find means to avoid sunlight, hunt and evade marauding Lupines. The shapeshifting Gangrel, though, have mastered this craft, and their *Protean* Discipline is thought to be a large factor in their success. With *Protean*, the vampire can alter parts of her body to draw on the strength of natural forces.
 
@@ -3891,7 +3915,7 @@ While bonded with the earth, you remain in a semi-tangible state, partially diff
 
 You must expend a Blood Trait to *Earth Meld*. Sinking into the ground requires a full turn, during which time you can do nothing else (because you are descending slowly into the ground).
 
-## **Shape of the Beast** 
+#### **Shape of the Beast** 
 
 Ancient tales of vampires tell that they assume the forms of wolves and bats. Though most vampires consider this nonsense, elder Gangrel sometimes possess the transmutive power to change into animal forms. With *Shape of the Beast*, you can shift your physical body into that of an undead beast, mimicking a normal animal. Most vampires change into wolves or bats, though some possess different forms dependent on their cultural and geographic ties — jackals in Africa, dingoes in Australia or giant rats in major cities have all been reported.
 
@@ -3903,12 +3927,13 @@ The animal forms granted by this power are in all ways physically identical to n
 
 Advanced protean
 
-## **Mist Form** 
+#### **Mist Form** 
 
 Your control over your physical form is so complete that you can dissolve into a fine cloud of mist. You disperse into a floating cloud, still able to sense your surroundings and able to move about as you desire. This cloud form can slip through tiny cracks and holes, and it cannot be dispersed by the mightiest of natural winds.
 
 Assuming *Mist Form* costs one Blood Trait and takes three full turns (additional Blood Traits reduce this time at a one-for-one cost, with a minimum of one full turn at three Blood Traits). You may change back instantly at any time. You are immune to mundane physical attacks in this form, and you take one less level of damage from fire and sunlight automatically. You are still affected normally by mystical attacks, though of course you have no blood in this form, so much of *Thaumaturgy* is useless against you. Though you cannot affect the world physically, you can still use Disciplines that do not require a physical form (you cannot use *Dominate*, for instance, because you have no eyes, but you could exert *Presence*). While in *Mist Form*, you may move as desired at the pace of a brisk walk, although you can be pushed about by strong winds.
 
+## Quietus
 The deadly assassins of the Assamite clan study the *Quietus* Discipline. By transmuting their blood into poison, they deliver death to their targets in terrible silence and agony. This Discipline has become significantly altered since the report of the broken blood curse, and those Kindred familiar with the clan whisper that such powers have not been seen in centuries.
 
 Though many uses of *Quietus* may involve striking with a blood-covered hand or spitting vitae at one's foes, this transformed blood is more of an alchemical poison than a form of vitae. Thus, blood used with this Discipline cannot later be gathered and used to form blood bonds or as a focus for *Thaumaturgy*.
@@ -3917,13 +3942,13 @@ Most *Quietus* powers are not directly opposed, so they do not use retests. Usin
 
 Basic Quietus
 
-## **Silence of Death** 
+### **Silence of Death** 
 
 The first skill learned by a true assassin is the ability to travel in complete stealth. The mystical *Silence of Death* permits you to extend a field of silence about yourself, blocking all screams, gunshots, explosions and so on.
 
 When you use *Silence of Death*, you muffle all sound within 10 feet of yourself. Although sound from outside can still come into this radius and be heard, no sound emanates from anything or anyone close to you. Using this power costs one Blood Trait to invoke, and the effect lasts for a scene or an hour.
 
-## **Scorpion's Touch** 
+### **Scorpion's Touch** 
 
 With the deadly venom and toxins of your studies, you can transmute your blood into a substance that weakens and poisons your victims. You can then coat weapons with this foul ichor, spit it at your foes or simply bring it to the surface of your skin to affect your victim by touch. Unwary foes may actually drink such tainted vitae.
 
@@ -3933,13 +3958,13 @@ Mortals who lose all of their Physical Traits in this fashion become deathly ill
 
 Any given attack may only use one Trait of blood with this power, though multiple attackers with poisoned weapons could wreak deadly havoc on a single victim. Similarly, you can only spit a single Trait of this tainted vitae or strike unarmed with a single Blood Trait in each action. Altering your blood in this fashion does not require an action on your part — you can strike an opponent with your hand, for instance, and then declare the use of *Scorpion's Touch* with a single Blood Trait. You can concentrate multiple Blood Traits onto a single weapon, though each strike uses only one Trait of blood (and thus reduces only one Physical Trait from the victim). Of course, preparing yourself thus is a legitimate tactic if you think you will be in a protracted fight and you want a weapon sufficient for several strikes.
 
-## **Dagon's Call** 
+### **Dagon's Call** 
 
 With a touch, you can infect a victim with a small quantity of your own vitae; later, with a bit of concentration, you cause that very blood to burst forth from the victim, tearing her apart from the inside.
 
 You must touch your target physically before using this power (which may require a Physical Challenge). Thereafter, at any point in the same scene or within the next hour, you can issue *Dagon's Call* — you need not even be able to see the target. You expend at least one Willpower Trait and call for the aid of a Narrator. Each Willpower Trait that you spend at that point then forces the target to make one Static Physical Challenge; the Narrator will take note of your Physical Traits and go to perform the tests against your subject. Each test that the victim fails indicates one level of lethal damage as her very blood tears its way through her vessels and organs. You must declare all Willpower Traits that you expend at once; once you have activated this power, you cannot invoke it again on the same subject until you manage to touch her again.
 
-## **Baal's Caress** 
+### **Baal's Caress** 
 
 The toxins in your vitae are sufficient to burn through any flesh, living or undead. This poison melts through flesh once it comes in contact with the bloodstream, leaving other materials unharmed. Indeed, even Cainites without blood in their systems can be affected if the poison enters through a wound.
 
@@ -3947,15 +3972,15 @@ To use *Baal's Caress*, you must spend a turn to transform your vitae into poiso
 
 Note that you must actually place this blood on something and it must enter the target's system in order to have any effect. You cannot randomly bleed on a subject and inflict damage.
 
-## Advanced Quietus 
+ Advanced Quietus 
 
-## **Taste of Death** 
+### **Taste of Death** 
 
 Your concentrated blood is so powerfully toxic that you can merely spit it at a foe and watch it burn through her skin. The ichor evoked with this power does not affect metal or stone, but melts through flesh and bone, reducing it to smoking sludge.
 
 You can spit a single Blood Trait at a victim with this power (this counts as a single action). If you successfully strike with a Physical Challenge, the victim takes one level of aggravated damage. You must directly spew this blood out; if it misses the victim or is placed on an object, it loses its toxicity within the turn. Note that the blood must be deliberately converted into a poison in this fashion — your own blood can still be drained from your body without poisoning the drinker.
 
-# Serpentis
+## Serpentis
 
 The Followers of Set use *Serpentis*, a power connected with the snakes that are the hallmark of Set's worship. The uncanny capabilities of this Discipline are disturbing indeed, marking the Follower as something far different from human — or even from other vampires. Despite the cold, reptilian features of this Discipline, many of its manifestations are strangely alluring. Followers of
 
@@ -3965,13 +3990,13 @@ Most *Serpentis* powers involve no challenge to use, or are simply used with com
 
 Basic serpentis
 
-## **The Eyes of the Serpent** 
+### **The Eyes of the Serpent** 
 
 The legendary hypnotic gaze of the serpent is yours. When you meet the gaze of a victim (who need only be able to see your eyes), your eyes become gold with large black irises, capturing the attentions of your subject. As long as you hold the gaze of the target, he remains completely immobilized.
 
 You must make a Social Challenge to affect your target with this power. If you succeed, the target is paralyzed as long as you hold his gaze with your own. Of course, if the target is attacked or injured, the hypnotic spell breaks.
 
-## **The Tongue of the Asp** 
+### **The Tongue of the Asp** 
 
 At will, you can cause your tongue to shift in shape to that of a snake. The supernatural razor-edge on the forked tongue inflicts terrible wounds, striking up to a foot and a half away, and it even lets you drink blood from your victims.
 
@@ -3981,7 +4006,7 @@ You need only decide to use *The Tongue of the Asp* in order to gain the benefit
 
 intermediate serpentis
 
-## **The Skin of the Adder** 
+### **The Skin of the Adder** 
 
 The power of your reptilian blood allows you to erupt into a serpentine form of protective scales and snakelike flexibility. You can thus transform into a monstrous hybrid of humanoid and snake, an effective engine of war or a terrible slithering beast of intimidation.
 
@@ -3989,7 +4014,7 @@ You need only spend a Blood Trait and a Willpower Trait to invoke this power. At
 
 *The Skin of the Adder* remains in effect until you decide to transform back, or until the next sunrise.
 
-## **The Form of the Cobra** 
+### **The Form of the Cobra** 
 
 No longer limited to steps between man and snake, you can literally turn into a giant cobra. This reptile form grants a venomous bite and the ability to slip through small passages, while still allowing you to use any Disciplines that do not require hands or speech. In this form, you retain your normal weight, so you are a tremendous, black-and-gold nightmare serpent.
 
@@ -3997,7 +4022,7 @@ You must expend one Blood Trait to transform into *The Form of the Cobra*. The c
 
 Advanced serpentis
 
-## **The Heart of Darkness** 
+### **The Heart of Darkness** 
 
 Egyptian legend tells that the hearts of the dead are weighed against a feather in the afterlife; those found wanting are devoured, while those found worthy move on to eternal paradise. As you have already cheated death with your immortality, you can now cheat this judgment as well. On the new moon, you can pull your very heart from your unliving body; with several hours of surgery (out of play), you can even do the same to another vampire.
 
@@ -4009,7 +4034,7 @@ If a separated heart is staked, then its vampiric owner (the vampire that the he
 
 Use of *The Heart of Darkness* can also return a stolen heart to its former body. Obviously, trying to use this power on a mortal, even a ghoul, is messily fatal.
 
-# Thanatosis
+## Thanatosis
 
 The corpselike bodies of vampires are innately tied to death. No Discipline reflects this process of arrested decay so clearly as *Thanatosis*. The Samedi bloodline practices this nightmare Discipline, using its powers to control the very steps of death and decay. Indeed, fearful Cainites whisper that *Thanatosis* grants some control over the Curse itself, temporarily suspending the immortality of vampires and even reducing them to rotting masses.
 
@@ -4019,11 +4044,11 @@ Retests of *Thanatosis* involve the *Occult* Ability. Optionally, Storytellers m
 
 Basic thanatosis
 
-## **Hags' Wrinkles** 
+### **Hags' Wrinkles** 
 
 You can contract or expand your skin, sending it into baggy, rippling waves or pulling it taut over your undead flesh. *Hags' Wrinkles* obviously can mask your appearance, but you can also use little pockets of flesh to conceal small objects about your person, although such bulges or depressions may be visible if your skin is not already marred (say, by the signature deformities of the Nosferatu and Samedi) or found during a pat-down search.
 
-## **Putrefaction**
+### **Putrefaction**
 
 The Samedi are feared for their control over decay, and *Putrefaction* is the first manifestation of such power. Supernatural decomposition afflicts any flesh that you touch, if you so will it. Pustulent, festering decay spreads from your point of contact, even rotting the preserved flesh of vampires.
 
@@ -4031,13 +4056,13 @@ The Samedi are feared for their control over decay, and *Putrefaction* is the fi
 
 intermediate thanatosis
 
-## **Ashes to Ashes** 
+### **Ashes to Ashes** 
 
 Tearing apart the bonds that hold your physical form together, you collapse suddenly into a desiccated heap of ash. The power of *Ashes to Ashes* allows you to retain your consciousness, though, keeping you in a pile of fine detritus that can reform later into your original vampiric body.
 
 You must expend two Blood Traits while concentrating for a full turn to use *Ashes to Ashes*. When you take your action, you transform into a pile of thick, sticky ash. You can vaguely sense your surroundings (about 10 feet in all directions) at this time, and you are completely immune to physical attacks, fire and sunlight. If the ashes are separated, though (a tedious and disgusting task, requiring deliberate effort), you reform missing some parts of your body — the largest remaining pile reforms as yourself, but you take lethal health levels of damage depending on how much of your substance was removed. Should you reform while contained in some object, you burst forth, shattering the object as you resume your usual size.
 
-## **Withering**
+### **Withering**
 
 By gripping an enemy and channeling your own dead energy into his limbs, you can cause him to twist into an aged, withered and decrepit form. Terrifying pain results as limbs shrink and snap from *Withering*.
 
@@ -4047,13 +4072,13 @@ By making two successful Simple Tests (win only) after striking with *Withering*
 
 *Withering* is not cumulative on the same limb, but successive strikes can certainly afflict other limbs. Victims with multiple limbs affected suffer all of the Negative Traits appropriately. With no functional arms, a victim cannot attack physically; with no legs, the subject cannot move.
 
-## **Necrosis**
+### **Necrosis**
 
 The hideous decomposition induced with *Necrosis* disgusts and revolts even the hardiest constitution. Accelerating the forces of decay, you cause the target's skin to rot away and slough off, exposing internal organs in a terrifying panoply of pain.
 
 *Necrosis* requires you to touch the victim and expend two Blood Traits. The subject immediately suffers a level of lethal damage as his skin rots and sloughs off in pieces. Furthermore, the victim takes the Negative Traits *Decrepit* and *Repugnant* as a result of the attack; these Negative Traits remain until the damage heals. Multiple strikes can inflict additional damage and Negative Traits in a cumulative fashion, rendering the victim a pool of putrescent liquid.
 
-# Thaumaturgy
+## Thaumaturgy
 
 Vampires are creatures of magic, and tales in the *Book of Nod* tell of rituals and powers unknown to the common spate of Disciplines. For the most part, such strange capabilities — controlling the weather, altering one's own blood, casting mystical lights and so on — remained the province of apocryphal tales. A rare few vampires learned to harness the power of their blood to perform magic, but most used only the gifts granted by the Curse.
 
@@ -4070,7 +4095,7 @@ The majority of Tremere neonates start learning the *Path of Blood* as their pri
 
 Any use of *Thaumaturgy* requires the expenditure of a Blood Trait. Some specific powers may require additional expenditures as well. *Thaumaturgy* does rely on speaking magical phrases and gestures, and as such its use is generally noticeable. Unless otherwise noted, casting *Thaumaturgy* takes a full turn, and the magic takes effect at the time of your action. You cannot accelerate *Thaumaturgy*  with speed-enhancing powers such as *Celerity*.
 
-# The Path of Blood (Rego Vitae) 
+### The Path of Blood (Rego Vitae) 
 
 Almost every Tremere studies the *Path of Blood* as a primary form of magic. Espousing the clan's strengths in subterfuge, detection, manipulation and control, this path allows you to alter the properties of blood within your own system or to detect features of the blood of others.
 
@@ -4078,7 +4103,7 @@ The *Path of Blood* uses the *Occult* Ability for retests.
 
 Basic path of Blood
 
-## **A Taste for Blood** 
+#### **A Taste for Blood** 
 
 With but a small sample of vitae, you can determine a foe's capabilities and weaknesses. You need only taste a bit of blood in order to recognize many salient characteristics.
 
@@ -4086,7 +4111,7 @@ With but a small sample of vitae, you can determine a foe's capabilities and wea
 
 Using *A Taste for Blood* requires you to actually ingest the vitae that you test, so it can be dangerous if the blood is tainted or if you have already sampled some of the subject's blood.
 
-## **Blood Rage** 
+#### **Blood Rage** 
 
 With but a touch you can stir up another Cainite's blood. Thus, you force the subject to expend blood in any fashion that you mentally decide when you touch the victim.
 
@@ -4094,7 +4119,7 @@ With but a touch you can stir up another Cainite's blood. Thus, you force the su
 
 intermediate path of Blood
 
-## **Blood of Potency** 
+#### **Blood of Potency** 
 
 You can mystically concentrate the vitae within your system, making it more potent for a short time. Doing so affords you many of the benefits of a genera-
 
@@ -4106,7 +4131,7 @@ Once you have used *Blood of Potency* in a night, you may not invoke it again un
 
 If you are diablerized during this time, or if you Embrace childer, your real generation is used, not your virtual generation. Thus, even if you are virtually 10th generation while normally 12th, your childer are still 13th generation, and other vampires gain no benefit from diablerie if they are 12th generation or lower.
 
-## **Theft of Vitae** 
+#### **Theft of Vitae** 
 
 Focusing on the call of blood, you can draw forth the vitae in a victim's system. You need only see your target and concentrate. The blood bursts from the victim's pores in a rushing flow, soaring through the air to be mystically absorbed into your own flesh.
 
@@ -4116,13 +4141,13 @@ Needless to say, this rather unsettling power is considered a breach of the Masq
 
 Advanced path of Blood
 
-## **Cauldron of Blood** 
+#### **Cauldron of Blood** 
 
 The blood within any creature is vulnerable to your manipulations. Instead of controlling or stealing blood from a victim, you can bring it to a rolling boil with but a touch. Red mist rises from the victim's body as bubbling blood seeps from his pores and orifices. Few Cainites can withstand this internal furnace, and mortals are almost inevitably killed by such an attack.
 
 Using *Cauldron of Blood* as an action, you must make a Physical Challenge to grasp your target. Then, for each Mental Trait that you expend, up to three, you can boil one Blood Trait in the victim's system (subject to the limit of the victim's actual blood, of course). Each Blood Trait boiled in this fashion inflicts one aggravated level of damage on the target.
 
-# The Lure of Flames (Creo Ignem) 
+### The Lure of Flames (Creo Ignem) 
 
 Perhaps one of the most feared forms of vampire magic, *The Lure of Flames* allows you to summon forth magical fire. The burning power of your blood is shaped into dancing flame that answers your command. Although such fires are small at first, masters of this path can conjure forth veritable hellstorms of unnatural flame.
 
@@ -4130,13 +4155,13 @@ Retests for *The Lure of Flames* use the *Occult* Ability.
 
 Basic lure of Flames
 
-## **Hand of Flame** 
+#### **Hand of Flame** 
 
 A dancing puff of fire surrounds your hand (or both hands) at your command. This palm of flame creates light and allows you to strike with your hand to burn your opponents. Once cast, the *Hand of Flame* remains until you decide to snuff it out. You can even use it in conjunction with other powers like *Celerity*  and *Potence*, becoming a formidable combatant.
 
 The *Hand of Flame* causes aggravated damage, if you strike with your flamewreathed hand(s). You suffer no damage or inconvenience from the *Hand of Flame*; indeed, you may even wear gloves or other clothing, which remain unaffected by the fires. Should you cause something else to catch fire, that fire can later burn you. Invoking the *Hand of Flame* takes one action.
 
-## **Flame Bolt** 
+#### **Flame Bolt** 
 
 By pointing at a target and intoning words of power, you may launch a *Flame Bolt*. This dart of fire streaks through the air to wound whomever it strikes with a searing blast, and it causes readily flammable objects to catch fire.
 
@@ -4144,7 +4169,7 @@ Casting a *Flame Bolt* requires you to challenge your Mental Traits against a ta
 
 intermediate lure of Flames
 
-## **Wall of Fire** 
+#### **Wall of Fire** 
 
 A column of flame erupts from the very air, burning with unnatural vigor at your command. You need only point to the desired location and utter the syllables of this magic in order to generate a veritable *Wall of Fire*. You can create this flaming barrier at any site that you can see, up to 50 feet away from yourself.
 
@@ -4152,7 +4177,7 @@ Casting a *Wall of Fire* takes a single action. A *Wall of Fire* occupies a spac
 
 If you cast a *Wall of Fire* at a flammable object or surface, the target may well ignite, spreading the fire. You have no special immunity to your own fires created with this magic.
 
-## **Engulf**
+#### **Engulf**
 
 By staring intently at a subject and speaking the words of fire creation, you cause the victim to burst into flames, combusting rapidly. This fire burns the subject with horrible power, remaining until the subject manages to extinguish the flame.
 
@@ -4164,7 +4189,7 @@ You may *Engulf* a target multiple times in successive turns, causing cumulative
 
 Advanced lure of Flames
 
-### **Firestorm**
+#### **Firestorm**
 
 When you call to the flames, they come in a searing wash that fills an entire room. A *Firestorm* rains a hail of flame down across a huge area, burning everything within. Any place that you can see, within 50 feet, can be the target of a *Firestorm*.
 
@@ -4172,7 +4197,7 @@ When you call down the *Firestorm*, an area up to 20 feet in diameter is shot th
 
 A *Firestorm* lasts until you stop it, or until you move out of range. It also ends immediately if you are knocked unconscious, sent into torpor or killed. Anyone who remains in the area of the *Firestorm* suffers one level of aggravated damage at the end of every turn after its creation.
 
-## Movement of the Mind (Rego Motus) 
+### Movement of the Mind (Rego Motus) 
 
 Through *Movement of the Mind*, you can manipulate remote objects or even creatures. Though this path does not actually impart any sort of physical force, it allows you to control things as if you held them without actually touching them. You need only see the target in order to affect it.
 
@@ -4182,7 +4207,7 @@ Retests of *Movement of the Mind* use the *Occult* Ability.
 
 Basic movement of the mind
 
-### **Force Bolt** 
+#### **Force Bolt** 
 
 Your concentrated will projects a bolt of force capable of stunning opponents and knocking over objects. A *Force Bolt* is really more of a sudden jar of motion to a target than an actual blow, but the effects are similar.
 
@@ -4190,7 +4215,7 @@ When you attack someone with a *Force Bolt*, you use your Mental Traits in a cha
 
 A *Force Bolt* can be used to lash out at an object no more than a hundred pounds in weight. If the object is not held by anyone, you can push it about five feet in any direction. An object held by someone can only be struck aside if you defeat the holder in a Mental versus Physical Challenge, as described previously. Obviously, though, this power is ideal for disarming foes at a distance, or for knocking aside valuable possessions.
 
-## **Manipulate**
+#### **Manipulate**
 
 Your control of forces allows you to exert fine manipulation over something at range. When you *Manipulate* an object, you can toy with it in any fashion that you could with one hand. Thus, you can remotely pick something up, push a button or fire a gun.
 
@@ -4200,7 +4225,7 @@ Anything you *Manipulate* remains under your control as long as you can see it, 
 
 intermediate movement of the mind
 
-### **Flight**
+#### **Flight**
 
 You can telekinetically hoist a whole person, pulling the individual off the ground. You can also shove large objects around roughly, although you cannot control them easily. This level of power can slam doors, heft desks and snare opponents. *Flight* even lets you lift yourself off the ground and move at a brisk pace through the air.
 
@@ -4210,7 +4235,7 @@ Most spectacularly, *Flight* lets you move yourself smoothly at walking speed in
 
 *Flight* lasts only as long as you concentrate on the effect to the exclusion of all other activities. If you use this power on any subject besides yourself, you must be able to see the target in order to control it with *Flight*.
 
-## **Repulse**
+#### **Repulse**
 
 A wave of motion overtakes everything around you with a simple gesture and a few spoken words. You can push away threatening opponents or shove objects with incredible power.
 
@@ -4220,7 +4245,7 @@ You can *Repulse* anything within your line of sight. Objects flung with *Repuls
 
 Advanced movement of the mind
 
-### **Control**
+#### **Control**
 
 Gripping a target with mental force, you bend its motions to your will. As you direct its movements with your commanding magical phrases and gestures, it spins, flies and moves according to your direction.
 
@@ -4230,7 +4255,7 @@ People grabbed with *Control* can be rendered paralyzed, or they can be flung ab
 
 Exercising *Control* over one object or creature requires all of your concentration. Once you stop concentrating, the power dissipates. *Control* is also lost if you lose sight of the subject.
 
-# The Path of Conjuring (Creo Materia) 
+### The Path of Conjuring (Creo Materia) 
 
 Creating objects from nothingness is a simple power with *The Path of Conjuring*. Just a few words and a mental image of the desired item allow for the sudden appearance of nearly any object. Any conjured object or creature is literally produced from nowhere.
 
@@ -4240,7 +4265,7 @@ Using *The Path of Conjuring* requires a full turn to create any one effect. Ret
 
 Basic path of Conjuring
 
-## **Summon the Simple Form** 
+#### **Summon the Simple Form** 
 
 Your rudimentary conjuring skills allow you to create basic objects made of a single homogenous material. These items are little more than chunks of matter, possibly crudely fashioned and lacking in any complex or moving parts. You can thus conjure a rod of metal, a club, a wooden stake, a rock or a lump of coal.
 
@@ -4248,7 +4273,7 @@ When you *Summon the Simple Form*, you can only make an item of inanimate matter
 
 After you have conjured an item with this power, you must spend a Mental Trait at the beginning of every new turn in which you wish to keep it in existence. If you do not, the object vanishes instantly. You should record your current Mental Traits at the time that you create an object with this power, in case it is dispelled later with *Reverse Conjuration*.
 
-### **Permanency**
+#### **Permanency**
 
 Simple objects that you conjure can now be invested with your power, making them real and permanent. You need not make an item permanent, but if you choose to do so, it remains without any further concentration or effort on your part.
 
@@ -4256,13 +4281,13 @@ Exercising *Permanency* on an item conjured with *Summon the Simple Form*  requi
 
 intermediate path of Conjuring
 
-### **Magic of the Smith** 
+#### **Magic of the Smith** 
 
 Complicated objects, mixed materials and moving parts are now within your purview. As long as you are familiar with an object's workings, you can make a copy of it. The *Magic of the Smith* can make knives, guns, clothes, medicines and other such useful items, and they all have permanent and lasting substance.
 
 Creating an object with *Magic of the Smith* costs five Blood Traits instead of the usual one. Record your current Mental Traits on the item card at the time of creation, in case the object is later challenged with *Reverse Conjuration*.
 
-### **Reverse Conjuration** 
+#### **Reverse Conjuration** 
 
 You can send conjured objects back to the nether planes from which they come. Any item that you can see or feel can be subjected to this power with only a few words and simple gestures.
 
@@ -4270,13 +4295,13 @@ To use *Reverse Conjuration* on an item, you must make a Mental Challenge agains
 
 Advanced path of Conjuring
 
-### **Power over Life** 
+#### **Power over Life** 
 
 Though you cannot make true life, you can conjure creations that bear a semblance of life. *Power Over Life* lets you make any creature up to your own size. Such creatures have no independent will, though. They obey your commands mindlessly instead.
 
 You must expend a phenomenal 10 Blood Traits to conjure a living creature. These simulacra last only for a week, after which time they dissolve back into nothingness. A creature that is killed similarly vanishes, as do any parts that are removed from the being (including blood).
 
-# Hands of Destruction (Perdo Materia) 
+### Hands of Destruction (Perdo Materia) 
 
 The magicians of the Sabbat use magics designed to slay their foes brutally. The painful powers of the *Hands of Destruction* are one such straightforward path. Rumored to be the work of infernalists and demonic tutors, this path delivers agony and decrepitude on its victims.
 
@@ -4286,13 +4311,13 @@ Exerting *Hands of Destruction* requires a single turn of casting. In some cases
 
 Basic hands of Destruction
 
-### **Decay**
+#### **Decay**
 
 Inanimate matter crumbles rapidly under your touch. Even dead organic material quickly melts into a puddle of putrescence.
 
 Although you can age the flesh of a vampire with this power, such a tactic has no functional effect. Vampires do not suffer any changes or decrepitude from this aging, as their supernaturally preserved corpses are immune to such treatment.
 
-## **Gnarl Wood** 
+#### **Gnarl Wood** 
 
 Your merest glance can swell or contract wood, or twist it into strange shapes. You need not touch the wood to affect it, only see it.
 
@@ -4300,13 +4325,13 @@ You can warp up to 50 pounds of wood, rendering it gnarled and useless. This is 
 
 intermediate hands of Destruction
 
-## **Acidic Touch** 
+#### **Acidic Touch** 
 
 Mystically altering your vitae, you cause it to become a thick, black, bilious substance, a caustic fluid that burns flesh, cloth, metal and wood alike. Your *Acidic Touch* has no effect on yourself, but it can leave horrible corroded marks on anything that makes the slightest contact with your coated hands.
 
 The vitriol created with *Acidic Touch* inflicts aggravated damage, and it can eat through most substances (Storyteller's discretion as to time). You can exude this acid from any part of your body, thus potentially making simple contact or even a kiss painfully deadly. Each application of *Acidic Touch* does only one health level of damage, so you may need to use this power repeatedly over several turns to burn through a particularly recalcitrant substance (or subject). No test is necessary to use *Acidic Touch*, though, of course, if you try to strike someone with the acids, you must make the normal Physical Challenge to hit. The acid created with this power is thick and slimy, so it cannot be flung or spat at opponents; you must deliver it by touch.
 
-### **Atrophy**
+#### **Atrophy**
 
 The warping effects of your powers allow you to wither the very limbs of your opponents. A simple touch is all that is required to *Atrophy* a single limb, turning it into a useless, fragile husk.
 
@@ -4314,7 +4339,7 @@ You need to strike your target physically (with a Physical Challenge) in order t
 
 Advanced hands of Destruction
 
-### **Turn to Dust** 
+#### **Turn to Dust** 
 
 Amplifying the process of decay to incredible speeds, you can reduce your victim to little more than a pile of dust. Mortals almost always die instantly and collapse to putrefied remains, while even vampires are withered.
 
@@ -4322,7 +4347,7 @@ If you manage to get a firm grip on your victim with a Physical Challenge, you c
 
 causes the subject to age 10 years. Mortals aged more than 50 years die instantly, reduced to a mass of liquefied tissue and crumbling bone. Vampires attacked with such ferocity (aged 50 years or more) suffer the Negative Trait *Repugnant* for the remainder of the evening as their bodies shrivel slightly, but the immortal curse prevents any actual physical harm. Note that *Turn to Dust* functions only on living or undead targets; use *Decay* on inanimate subjects.
 
-## Thaumaturgical Rituals 
+### Thaumaturgical Rituals 
 
 Through arcane incantations and properly prepared formulae, the effects of *Thaumaturgy* can be extended beyond the brief and limited powers of the various paths. Rituals are used to perform such complex tasks.
 
@@ -4332,72 +4357,72 @@ Actually casting a ritual requires the elements and time listed in each individu
 
 Basic Thaumaturgical rituals
 
-### **Communicate with Kindred Sire** 
+#### **Communicate with Kindred Sire** 
 
 Tremere vampires often use *Communicate with Kindred Sire* to seek advice or aid. You need only meditate for half an hour on an object that once belonged to your sire. When you finish the ritual, you establish telepathic communication with your sire, anywhere in the world. This link lasts for 10 minutes.
 
-### **Defense of the Sacred Haven** 
+#### **Defense of the Sacred Haven** 
 
 
-### **Deflection of Wooden Doom** 
+#### **Deflection of Wooden Doom** 
 
 The wooden stake is the bane of all vampires, but *Deflection of Wooden Doom*  protects against such attacks. You must sit in a circle of wood for a full hour to cast this ritual. When completed, you place a tiny splinter of wood under your tongue. As long as the splinter remains there, or until the next dusk or dawn, you are protected. The first stake to impale your heart mystically crumbles to dust, at which point the ritual ends. The stake must actually enter your body for this ritual to work — a stake simply held near you is unaffected.
 
-## **Devil's Touch** 
+#### **Devil's Touch** 
 
 You can brand a mortal mystically with the *Devil's Touch*. You need only place a penny on the mortal as you complete this ritual, and until the next dawn, the subject suffers the Negative Social Traits *Repugnant* and *Obnoxious*.
 
 **The Open Passage**
 
-## **Principal Focus of Vitae Infusion** 
+#### **Principal Focus of Vitae Infusion** 
 
 Concentrating the power of your blood, you cause your own vitae to sink into a small object. With a touch and a mental command, you can later cause this object to break down back into a pool of your own blood. You can imbue an object between the sizes of a dime and a loaf of bread with a single Trait of your own blood, at which time the object becomes slightly reddish and slick. Alternately, you can use the *Principal Focus of Vitae Infusion* to craft an object of your blood that responds to the touch of another individual, as long as that individual is present during the casting of the ritual. Of course, since your own blood must be used, the subject risks the blood bond.
 
-## **Scent of the Lupine's Passing** 
+#### **Scent of the Lupine's Passing** 
 
 With a mixture of milkweed, wolfsbane and other herbs, you can make a poultice that allows you to sniff out werewolves. The poultice retains its effectiveness for a full scene or hour after its creation; as long as you carry it with you, you can detect Lupines by smell. You must get within five feet of your subject and win a Mental Challenge to determine the *Scent of the Lupine's Passing*.
 
-## **Wake with Evening's Freshness** 
+#### **Wake with Evening's Freshness** 
 
 In case of emergencies or if you fear invasion of your haven, you can *Wake with Evening's Freshness* simply by spreading ashes of burned feathers over your sleeping place while casting this ritual immediately before slumber. Should you be faced with danger, you awaken immediately. For the first two full turns you suffer no penalties for daylight activity (although you can still be injured by sunlight, of course).
 
-## **Ward Versus Ghouls** 
+## ##**Ward Versus Ghouls** 
 
 Spending 10 minutes repeating a warding invocation while pouring a Trait of blood over an object, you shape a mystical glyph that causes extreme pain to any ghoul touching it. The night after you cast the ritual, the ward takes effect, causing a level of lethal damage to any ghoul touching the object (even adding this effect to other damage if, say, a warded sword is used against a ghoul in combat). Any object in size between dagger and door may be warded. You can specifically exclude certain ghouls from the effect if they are present while you cast the ritual and if each donates a Trait of blood to attune the *Ward versus Ghouls*.
 
 intermediate Thaumaturgical rituals
 
-### **Bone of Lies** 
+### #**Bone of Lies** 
 
 
-## **Incorporeal Passage** 
+#### **Incorporeal Passage** 
 
 By looking into a fragment of a mirror while intoning this chant, you become completely incorporeal. Physical attacks pass through you while you may step unhindered
 
-## **Pavis of Foul Presence** 
+#### **Pavis of Foul Presence** 
 
 To combat the powers of the *Presence* Discipline, you tie a blue silken cord around your neck while intoning the *Pavis of Foul Presence*. Until the next sunrise, you are defended against *Presence* powers. If someone manages to exert a *Presence* power on you, it is reflected back instead of affecting you. This ritual is completely unknown outside the Tremere clan, who keep it as a powerful secret in their wars of vampiric influence.
 
-### **Rutor's Hands** 
+#### **Rutor's Hands** 
 
 The terrifying servant created with *Rutor's Hands* is actually one of your own severed hands, with one of your eyeballs set atop it! After casting this ritual, you must cut off your own hand and pluck out your eye, suffering five levels of aggravated damage in the process, in order to complete the spell. (Don't actually inflict physical harm on yourself. Your character does the nasty deed, not you.) The ritual keeps your body parts from crumbling to dust, and it animates them as spies for your use. They follow your mental orders, moving as you direct and allowing you to see and hear whatever they experience. You can create as many as you like, though you must regenerate your hands and eyes fully after each casting before making another set of *Rutor's Hands*. The spying, scuttling… thing made with this ritual needs a single Trait of blood each week (from any source), or else it crumbles to dust.
 
 You can get cards for your *Rutor's Hands*, and then use them to spy on other locations. Simply give the card to a Narrator and direct him to a particular location. If the thing is spotted, of course, it is easily destroyed with a single level of damage (it is considered to have three Physical Traits that it can only use to defend itself).
 
-## **Soul of the Homunculi** 
+#### **Soul of the Homunculi** 
 
 
-## Advanced Thaumaturgical Rituals 
+### Advanced Thaumaturgical Rituals 
 
-### **Blood Contract** 
+#### **Blood Contract** 
 
 By spending three nights in the writing of a contract with your own blood, you create an unbreakable bond between yourself and any one signatory. You use two Blood Traits to make the contract — one to write it, and one for both parties to sign it. The *Blood Contract*  enforces compliance of both parties to the literal terms listed. Should either party break the terms of the contract, the individual immediately suffers enough aggravated health levels of damage to fall into torpor, and this damage cannot be resisted in any way. The only way to finish the contract is to fulfill its terms or to physically burn it.
 
-## **Nectar of the Bitter Rose** 
+#### **Nectar of the Bitter Rose** 
 
 Hidden among the most vile of diablerists, the *Nectar of the Bitter Rose* breaks the usual constraints of diablerie, allowing multiple vampires to share in the fruits of a victim's power. You must restrain the victim in some fashion while casting this ritual over him. At the ritual's completion, up to five vampires may attempt to
 
-## **Umbra Walk** 
+#### **Umbra Walk** 
 
 The Tremere powers of *Auspex* allow them to search sublime planes of consciousness, but there are still other levels of existence to the infinite cosmos. Through the power of this ritual, which requires the sacrifice of an intelligent being (almost certainly costing you a Humanity Trait), you enter the Umbra, a spirit reflection of the physical world. You arrive naked, though certain magical items may come with you at the Storyteller's discretion. You can even bring other people, though each additional traveler requires another sacrifice. The Umbra is a dangerous place, traveled by werewolves and unfriendly spirits. *Umbra Walk* lasts until you choose to step back into the material plane. See **Laws of the Wild** for more detailed information about the spirit worlds.
 
@@ -4411,9 +4436,9 @@ Nosferatu, Samedi and vampires with similar deformities in their blood always he
 
 *Vicissitude* uses the *Crafts: Body Crafts* Ability for retests. Most *Vicissitude* effects require physical contact and a Physical Challenge as the vampire tears into the flesh of the opponent. Such strikes use *Crafts: Body Crafts* for retests, instead of *Brawl*, since the aim is to mutate the flesh. For certain surgical effects, the Storyteller may require some level of *Medicine* Ability as well.
 
-## Basic Vicissitude 
+Basic Vicissitude 
 
-## **Malleable Visage** 
+### **Malleable Visage** 
 
 Bending your flesh under your hands, you can change your own appearance. *Malleable Visage* allows you to duplicate others or simply make your own surface skin different from your natural forms. Cosmetic changes like alterations of voice or skin tone and build are all possible, though you must actually sculpt the desired changes into your flesh.
 
@@ -4433,7 +4458,7 @@ Just as you shape flesh with your touch, you can grasp and twist bone, turning i
 
 Using *Bonecraft* allows you to remake appearances just like *Fleshcraft*, but you can also change someone's height or body structure, reshape bone into unusual or spectacular forms, and even make bone spurs and weapons. You must grab the victim, and then twist, pull or bend the bones appropriately. If you do so without exercising *Fleshcraft*, each such strike causes one level of lethal damage as bones warp and tear their way through flesh. Used in conjunction with *Fleshcraft*, you can rebuild someone's visage completely, or you can create defensive spines or offensive bone weapons. Such alterations allow the subject to inflict lethal damage with otherwise unarmed attacks.
 
-## **Horrid Form** 
+### **Horrid Form** 
 
 Your own body warps and grows into a hideous monstrosity with *Horrid Form*. Your skin becomes black, rubbery and slimy, while sharp bony spikes protrude from your hands and back. You grow to a full eight feet in height, and you shift into something from a nightmare vision. Those unused to such sights may need to make a *Courage* test.
 
@@ -4481,11 +4506,11 @@ Roleplaying does not necessarily have to end when a challenge begins; in fact, r
 
 In order for this system to work, players need to work together. They have to educate each other on the rules and agree on what Traits can be used in a challenge. Compromise and cooperation are the bywords of the game. Arguments over whether or not a particular Trait bid is appropriate wreck both the momentum and the mood of a game.
 
-## Using Traits 
+### Using Traits 
 
 Before you can begin to learn how challenges work, you must first understand what defines a character's capabilities. A character is created by choosing a number of adjectives that describe and define that person as an individual. These adjectives are called Traits, and they are described fully in Chapter Two. These Traits are used to declare challenges against other characters or against static forces represented by a Narrator.
 
-## Initial Bid 
+### Initial Bid 
 
 A challenge begins with a player "bidding" one of her Traits against her opponent. At the same time, she must declare what the conditions of the challenge are — like firing a
 
@@ -4495,7 +4520,7 @@ When players bid Traits against one another, they may only use Traits that could
 
 If the defender relents, she loses the challenge automatically. For example, if she were being attacked, she would suffer a wound. If she matches the challenger's bid, the two immediately go to a test. Those Traits bid are put at risk, as the loser of the test not only loses the challenge, but the Trait she bid as well for the rest of the evening.
 
-## Testing
+### Testing
 
 Once both parties involved in a challenge have bid a Trait, they engage in a test immediately. The test itself is not what you may think — the outcome is random, but no cards or dice are used. The two players face off against one another by playing Rock-Paper-Scissors.
 
@@ -4539,19 +4564,19 @@ been lost. At this point, the two players must reveal the number of applicable T
 
 **Example of Play:** *Favian, Setite manipulator, is attempting to coax information from his pawn Endora. He begins with flattery ("My praise is so* Beguiling *that you have no choice but to tell me what I want to know"), but she resists ("I'm too* Dignified *to be so easily won over"). They test and Endora wins, but Favian is far from thwarted. Gambling that he has more social aptitude than the studious Tremere, Favian bids an additional Trait ("I'm ever so* Seductive *when it comes to getting what I want") and calls for an overbid. Endora, being the defender, does not need to risk an additional trait. Favian announces all 14 of his Social Traits, while Endora admits that she has only five, and so the overbid proceeds. They test again, and this time Favian wins. Endora loses the* Dignified *Trait she bid, and Favian still loses his initial* Beguiling *Trait, but he has won the final challenge and so she must divulge the information he was seeking.*
 
-## Static Challenges 
+#### Static Challenges 
 
 Sometimes you may have to undergo a challenge against a Narrator rather than against another player. For example, a hacker may use a Static Mental Challenge with the *Computer* Ability to break into another computer system. In such circumstances, you bid a Trait that would be appropriate, then perform a test against the Narrator. Before the test is made, the Narrator decides on the difficulty of the task which you are attempting — this is the number of Traits you are bidding against, which is used to compare in the event of a tie. The test proceeds exactly as it would if you were testing against another character. Of course, you may attempt to overbid in a Static Challenge, but beware, because the Narrator can overbid as well. The number of Traits attached to the challenge should represent the difficulty and danger inherent in the challenge.
 
 Sometimes Narrators may leave notes on objects, such as books, doors or even magical items. These notes indicate the type of challenges that must be won for something to occur (such as deciphering a tome or picking a lock).
 
-## Simple Tests 
+#### Simple Tests 
 
 Simple Tests are used to determine if you can do something successfully when there is no real opposition. Simple Tests are often used when using Disciplines. Most Simple Tests do not require you to risk or bid Traits, though some may.
 
 When a Simple Test is called, a test (Rock-Paper-Scissors) is performed against a Narrator. In most cases, the player succeeds on a win or a tie, although in some cases, it may be necessary for the player to win for him to receive any benefit from the challenge.
 
-## Retests
+#### Retests
 
 Certain Traits allow a character to retest. A retest allows a character to ignore the results of the first test and test again for a new result. Retests are most commonly gained through Abilities, but other Traits may also provide them; such Traits are noted in their descriptions. Generally, expending one level of an appropriate Ability allows for one retest.
 
@@ -4599,7 +4624,7 @@ Once the tests have been made, they are resolved in the standard order of action
 
 When the defender in a mob challenge uses Abilities or other powers to gain retests, each attacker's challenge is treated as a separate test. Thus, a defender would need five *Melee* Traits in order to retest against five attackers in a melee combat.
 
-time
+## Time
 
 Time in **Mind's Eye Theatre** works as it does in real life. It moves forward inexorably, relentlessly. For the most part, everything is played out in real time, and players are expected to stay in character unless they have a rules question.
 
@@ -4611,7 +4636,7 @@ Chronicles, stories, sessions and Scenes
 
 **Mind's Eye Theatre** time breaks down into five major allotments: chronicles, stories, sessions, scenes and turns. A chronicle is defined as a series of smaller stories that are all connected somehow, and which may take months or even years to complete.
 
-THENS
+### Turns
 
 To keep everything straight when players start throwing challenges around or attempting complex actions, the time is right to start using turns. Turns are considered to last about four seconds, although this measure may vary from challenge to challenge at the Storyteller's discretion. In any given turn, a character may take one action. Some actions may take multiple turns to complete, such as hacking a sophisticated computer system. Other actions, like speaking a short sentence, do not use up a character's turn at all. Once everyone involved in a turn has taken an action, the turn ends and another turn begins.
 
@@ -4619,11 +4644,11 @@ In some instances a character may be interrupted before he can take his action, 
 
 If a power affects a character for 15 seconds, it is assumed to be in effect for four turns when turn-based time is in effect. In normal roleplaying, such powers work for their allotted amount of time.
 
-#### Downtime
+### Downtime
 
 Many aspects of a character's unlife are critical to her continued existence, yet they do not make for dramatic roleplaying, or they are too intricate to take time during sessions to perform. Storytellers are encouraged to use "downtime" between sessions to allow characters to maintain their holdings, learn Disciplines and see to other facets of their existence. Other actions and interactions may take place during this time, with Storyteller supervision. As long as players don't use abuse downtime privileges, the time between sessions can be a rewarding roleplaying experience in itself.
 
-#### Health
+# Health
 
 A character in a **Masquerade** game has different health levels that represent the amount of injury the character can endure. These levels include: Healthy, Healthy, Bruised, Bruised, Wounded, Wounded, Incapacitated, Torpor and/or Final Death. If a Healthy character loses two health levels from a combat challenge, she becomes Bruised. If she loses three more health levels, she becomes Wounded, and so on.
 
@@ -4669,11 +4694,11 @@ Because their corpselike bodies simply don't bruise and break like those of the 
 
 Wounds that are beyond the normal bounds of even the Kindred's unnatural healing powers are called aggravated wounds. Such wounds are usually caused by injury from fire, sunlight or the teeth and claws of a supernatural creature. A Narrator can also deem any other injury to be aggravated, depending on the circumstances. Three Blood Traits, a Willpower Trait and a night of rest are required to heal one level of aggravated damage.
 
-#### Sunlight
+## Sunlight
 
 Exposure to sunlight is extremely painful for vampires. Indirect sunlight such as through thick curtains or heavy cloud cover causes one automatic aggravated wound per turn of exposure, while direct sunlight causes three automatic levels of aggravated damage per turn. (Heavy clothing may provide some protection, at the Storyteller's discretion.) Vampires confronted by sunlight must also make a Static Courage Challenge or suffer Rötschreck.
 
-#### Fire
+## Fire
 
 Vampires fear and loathe fire, and its slightest touch causes them great agony. Most vampires are extremely uncomfortable around open flame, since it is one of the few things that can destroy them permanently. In game terms, all wounds inflicted by normal or magical fires do aggravated damage to Kindred, and sufficiently large sources of flame will inevitably provoke a *Courage* Test to avoid Rötschreck. A character on fire must win or tie a Simple Test and spend one action dousing the flames.
 
@@ -4689,11 +4714,11 @@ If a player does not respond within three seconds of the declaration of a Physic
 
 Surprise simply means that the outcome of the first challenge in a fight can only harm the surprised defender, not the challenger. For instance, if a player did not respond in time to an attack, but still won the challenge, the challenger would not be injured. Furthermore, if the challenger loses the test, she may call for a second challenge by risking another Trait. After this second challenge, regular challenge rules resume. Overbidding is permitted for both challenger and challenged in surprise situations.
 
-#### Three Step Rule 
+### Three Step Rule 
 
 Anyone in or just entering combat is subject to the "three step rule." You may take up to three steps during any combat action and still attack. Moving one step is considered walking cautiously, two steps is moving directly (down one Trait in Physical Challenges), and three steps is running (also down a Trait in Physical Challenges). A Discipline that allows for an additional action would allow you to take three additional steps, and so on.
 
-## Fair Escape 
+### Fair Escape 
 
 Fair Escape is a simple rule which allows players to escape from potentially dangerous situations without actually bounding over furniture or diving out of windows. This rule also allows players to avoid combat without going through cumbersome challenges to see if they can "get away."
 
@@ -4706,7 +4731,7 @@ When you use this rule, you can call "Fair Escape!" any time you see another pla
 
 These rules are meant to hasten play, not complicate it. Always try to employ common sense when using Fair Escape. (As a rule of thumb, if it takes several minutes to explain why a Fair Escape would be justified, it probably isn't.)
 
-## Weapons
+### Weapons
 
 For obvious reasons, no real weapons are ever allowed in Mind's Eye Theatre games. Even nonfunctional props are forbidden if they can be mistaken for weapons. This system does not use props of any kind, nor are players required (or allowed) to strike one another. Instead, characters should use weapon cards, which display the Traits and pertinent details of a particular weapon.
 
@@ -4716,53 +4741,53 @@ Statistics for weapons are written on cards and carried along with your characte
 
 Some weapons have Negative Traits that can be used by the wielder's oppo-
 
-## **Concealability**
+### **Concealability**
 
 Each weapon has a concealability rating. If the weapon is not concealable, or if you do not have the proper amount of clothing or cover to conceal it, you must have that card on display at all times. You cannot, for example, pull a broadsword out of your pocket. Instead, you must carry that card in hand at all times or, optionally, you could pin the card to your shirt, indicating that the sword is slung over your shoulder.
 
-## **Availability**
+### **Availability**
 
 Serious firearms and archaic melee weapons can take some time to locate. Firearms also require permits to obtain, which involves undergoing background checks or waitingperiods in some areas. A character can turn to more "colorful" channels in order to procure equipment, but the black market often means shady dealings and vastly inflated prices. Weapons that have Influence values listed under Availability indicate the level and type of Influence required in order to procure the weapon through illicit channels. Finally, of course, there's cost: A character must have some level of the *Finance* Ability or money-raising Influence to procure exotic melee weapons and nearly all firearms.
 
 Once a character has a weapon, that doesn't mean he can keep it forever. Too often characters run about firing shotguns and large automatic weapons without facing the massive police manhunts that such battles invariably provoke. Take care that characters with powerful weapons understand the equally powerful repercussions that come from their use. These consequences not only preserve game balance, but enforces a sense of realism and keeps the game from turning into *Die Hard* with fangs.
 
-# Special Weapon Capabilities 
+### Special Weapon Capabilities 
 
 Some weapons have special abilities, allowing an attacker to inflict extra damage, ignore certain types of protection or strike multiple opponents. (Such powers are noted under the weapon descriptions.)
 
-## **Armor-piercing**
+### **Armor-piercing**
 
 Special rounds, generally Teflon-coated, are able to pierce armor with ease. Although they do not inflict extra damage, armor-piercing rounds ignore any defenses from armor. Such rounds are typically tricky to acquire, though, and legal inquiries often follow their use.
 
-## **Destroy Shield** 
+### **Destroy Shield** 
 
 Although rare in this day and age, certain Inquisitors and anachronistic elders still use shields. A weapon capable of destroying a shield penetrates it automatically and renders it useless after a certain number of blows, no matter what the size or strength of the shield may be.
 
-## **Fully Automatic** 
+### **Fully Automatic** 
 
 A firearm with this ability is capable of emptying dozens of rounds into a single target at close range. This attack inflicts an extra health level of damage automatically due to sheer volume of fire; however, after emptying the clip from fully automatic fire, the character must spend one action reloading the weapon before it may be fired again.
 
-## **High-caliber**
+### **High-caliber**
 
 Firearms of particularly high caliber can cause crippling wounds with only a few shots. When a high-caliber weapon hits a target, the attacker should make a Simple Test immediately. A win indicates that the target suffers an additional health level of damage from the shot.
 
-## **Incendiary**
+### **Incendiary**
 
 Mass-Trauma
 
 Certain weapons are so powerful they inflict massive damage on a target, literally tearing away portions of flesh. Such weapons score an extra health level of damage when used appropriately.
 
-#### Speed
+### Speed
 
 Fast weapons can be used to "pre-empt" an opponent's attack, allowing the attacker with the speedier weapon to strike and resolve his challenge first. A character must have the *Melee* Ability to use this special ability, and he must be attacking or otherwise actively using (parrying, disarming) the weapon in order to gain this benefit. Fast weapons only gain a preemptive strike against opponents in hand-to-hand or melee combat.
 
 Since many attacks are handled simultaneously for ease of play (both players testing at once and the winner scoring a hit), this ability is not always very useful. However, if the Storyteller opts to allow each attacker to test individually (attacking striking defender, then defender counter-striking), this ability puts characters with fast weapons on the offensive.
 
-#### Spray
+### Spray
 
 The weapon can strike several targets at once, as noted under the weapon's specific parameters. The shooter makes one test against all the targets simultaneously. Each target who fails the test suffers the weapon's damage, while each target who succeeds avoids the weapon's damage. The shooter risks only the Traits required to test against each member of the group, and he loses only those Traits if any of the defenders wins the test.
 
-## Staking
+### Staking
 
 Staking weapons paralyze vampires when a successful blow penetrates one's heart. The attacker must win or tie two successive Simple Tests in order to successfully stake the vampire.
 
@@ -4770,7 +4795,7 @@ Staking weapons paralyze vampires when a successful blow penetrates one's heart.
 
 During a normal hand-to-hand fight, characters bid Physical Traits against their opponents' Physical Traits. However, if a character is using firearms, he may use Mental Traits instead. If his opponent is also using a firearm, she bids Mental Traits as well. If the opponent is not using a firearm and is merely trying to dodge, then the attacker uses Mental Traits to attack, while the defender uses her Physical Traits to dodge. This instance is one of the few in which Traits associated with different Attributes may be used against one another.
 
-## Weapon Examples 
+### Weapon Examples 
 
 Melee Weapons
 
@@ -4906,7 +4931,7 @@ Negative Traits: *Heavy, Clumsy*
 
 Availability: *Police* 5, or *Underworld* 4
 
-ranged Combat
+## Ranged Combat
 
 Many weapons allow a character to stand at a distance from a target and engage him in combat. In such situations, the character must still go over to the target (after shouting "Bang!" or "Twang!") and engage in a challenge.
 
@@ -4924,7 +4949,7 @@ Fighting with ranged weapons allows combatants to stand some distance apart; par
 
 If cover is extensive, it may be worth more than one Trait. The number of Traits available for cover is left for challengers to agree on, or for a Narrator to decree. Hiding behind a boulder, for example, might be worth two Traits, while hiding behind a thin wood fence might only count as one. If one combatant goes completely under cover (he cannot be seen at all *and* is thoroughly protected), he is considered impossible to hit. The attacker must change his position to get a clear shot.
 
-#### Melee and Brawling 
+## Melee and Brawling 
 
 Melee fighting can only occur when two parties are within weapon's reach of each other. Characters using melee weapons often have access to special abilities if they also possess the *Melee* Ability. For example, a trained character using a fencing foil can take advantage of his weapon's speed when fighting a character wielding a battle ax.
 
@@ -5029,7 +5054,7 @@ and Searing, and it inflicts one level of aggravated damage. If a vampire has th
 
 It is much easier to lose Faith than gain it; any time a character fails a test in which True Faith was involved, he has a crisis of faith. During such a time, he is one Trait down on all Social Challenges for the remainder of the scene and unable to invoke his Faith again until that Faith Trait has been restored (Narrator's discretion).
 
-#### Blood Bond 
+# Blood Bond 
 
 Many undead exploit the heady emotions found in drinking vampiric vitae to stir passion in their dead hearts, but it is a dangerous rush, for if a being drinks from the same vampire three times, on three separate nights, she falls under the sway of a mystical state known as the blood bond. A vampire who holds another in bondage is said to be the victim's regnant, while the being who has been bound is called the thrall. Supernatural powers such as *Dominate* cannot change the victim's feelings for her regnant; only true love has a chance at defeating the bond.
 
@@ -5049,7 +5074,7 @@ A blood bond may be broken permanently only in a few ways. First of all, a thral
 
 Second, the thrall is sometimes released from the bond if she kills her regnant, though this condition is nowhere as certain as it may seem. Third, at the Narrator's discretion, a character who possesses the Merit: *True Love* to someone other than her regnant may be able to break the bond with the power of her love, but doing so requires arduous, in-depth roleplaying. Finally, some vampires whisper that the Sabbat knows of ways to break the blood bond, but it imparts them to only those who join the sect.
 
-## Derangements
+# Derangements
 
 Vampires and mortals alike risk developing derangements when faced with overpowering conditions of extreme terror, guilt or anxiety. The Storyteller may decide a derangement is in order after any experience that generates especially intense and unpleasant emotions, or which violates a character's beliefs or ethics severely. All derangements carry "triggers," circumstances which cause the effects of the derangement to become active; once activated, derangements remain in effect for the rest of the scene, and players must modify their character's Traits, attitudes and behavior in accordance with the derangement description. Characters may resist a derangement by expending a Willpower Trait — this effect lasts for one scene, however, if the trigger is still present at the end of that time, the character must spend another Willpower Trait. In the case of particularly intense mental stress, Narrators may rule additional Willpower Traits or a Static Willpower Challenge is required.
 
@@ -5057,21 +5082,21 @@ It is up to the Storyteller to determine what amount of time and Willpower is re
 
 **Note:** There is nothing funny or arbitrary about the way a "crazy" person acts. The insane character is only reacting to the stimuli that he perceives to be real — to *him*, his behavior is perfectly normal. Players should never forget the **Mind's Eye Theatre** rules of safety still apply when roleplaying derangements.
 
-#### Bulimia
+## Bulimia
 
 Bulimic characters salve their guilt and insecurity by overindulging in activities that comfort them — in this instance, consuming food (or blood, for vampires). Characters with this affliction will gorge themselves as much as possible when under stress, then purge their systems through drastic means and consume more. Characters with this derangement must make a Static Conscience/ Conviction Challenge when feeding; failure means the vampire feeds until his blood pool is full, whether or not he needs the blood. If forcibly kept from feeding, the vampire must resist frenzy.
 
 A character with this derangement is prone to experiencing fits of anger with little provocation. While the two bear certain resemblances, this state is quite different from frenzy — frenzy is the instincts of the vampiric Beast, while *Crimson Rage* is a character's own feelings of helplessness and inadequacy. Characters with *Crimson Rage* are not protected from being pushed over the edge into frenzy while insane, however. Whenever this derangement is active, the character gains the Negative Traits: *Violent* x 2 and *Impatient*.
 
-### **Fugue**
+## **Fugue**
 
 Characters suffering this affliction react to stress by adopting a specific set of behaviors; in the process they suffer "blackouts" or periods of memory loss. Whenever confronted by extreme stress, the character must win a Static Willpower Challenge; failure means the character blacks out and the player must roleplay the character's trancelike state. Otherwise, control of the character passes to a Narrator for a scene, who dictates the actions the character takes in order to remove the stress. At the end of the fugue, the character "regains consciousness" with no memory of his actions.
 
-### **Hysteria**
+## **Hysteria**
 
 Characters with this derangement are unable to properly control their emotions when subjected to stress or pressure, becoming vulnerable to wild mood swings and fits of intense violence. The vampire must test to resist frenzy any time such stress is present; in addition, whenever the vampire fails in a particularly stressful or prominent instance, she enters frenzy automatically. (Narrators have final say on what classifies as such a dramatic failure.)
 
-### **Immortal Terror** 
+## **Immortal Terror** 
 
 An insanity most recently identified with a certain reluctant movie vampire, this madness stems from the Cainite's inability to deal with the true scope of his immortality. Terrified by the real implications of living *forever*, the vampire copes by developing a strong unconscious "death wish." Whenever the character is confronted by direct evidence of his immortality — such as attending a funeral or watching a mortal ally die — the character must make a Static Willpower Challenge (difficulty four Traits) to avoid immediately undertaking actions that might result in his destruction. Such actions can be as indirect as breaching the Masquerade by telling a reporter about Kindred society, as long as the act carries potentially deadly consequences. Note that the vampire is not consciously aware that he seeks his own destruction, and he resists attempts to persuade him otherwise.
 
@@ -5106,7 +5131,7 @@ Individuals with this derangement have had their psyche fractured by terrible, u
 
 Of all the crimes known to the Kindred, none is more feared than the soul-stealing sin known as diablerie, or the Amaranth. Those convicted of this crime suffer the harshest punishments in the Camarilla, and the mere suspicion of diablerie is enough to spark city-wide blood hunts. Still, no punishment is harsh enough to end this forbidden practice, for diablerie offers a seductive way of increasing one's power.
 
-### **Committing Diablerie** 
+# **Committing Diablerie** 
 
 Diablerie is divided into four distinct stages. First the diablerist must incapacitate his target; only after the target is physically immobilized may diablerie commence. The diablerist then drains her victim dry, taking one Blood Trait automatically per turn. Then the diablerist must strip the target's health levels away until she puts him in torpor (if he isn't there already). The target may resist this process with a Physical Challenge per health level, but he may bid only stamina-related Traits, and he cannot injure the diablerist as a result of the challenge. If the diablerist ever cannot match the victim's Physical Traits, she falls away and the target can die quietly. Likewise, a vampire draining health levels cannot be targeted by any Mental or Social Challenges, but she also cannot defend herself, and any attempts to attack her or pull her away succeed automatically.
 
@@ -5114,7 +5139,7 @@ If a victim is drained dry of blood and reduced to torpor, the final struggle be
 
 A character may have other characters assist him in incapacitating his target and even in draining the target of Blood Traits and health levels, but only one Kindred can gain the ultimate benefits of diablerie. However, the seduction of the process is very strong — a character who wishes to halt diablerie after the third stage
 
-| aCtion<br>of Diablerist |             | Challenge Required                                    |  |
+| Action<br>of Diablerist |             | Challenge Required                                    |  |
 |-------------------------|-------------|-------------------------------------------------------|--|
 | Incapacitate target     | Stage One   | Beat 'em, stake 'em                                   |  |
 |                         | Stage Two   |                                                       |  |
@@ -5137,7 +5162,7 @@ A character may have other characters assist him in incapacitating his target an
 
 Note: You *cannot* diablerize anything but another vampire. A mortal soul, with no torpor state in between life and death, flees as soon as its body is killed, as does the soul of a faerie, werebeast or any other supernatural critter some Lick makes a meal out of. You may drain such beings of their blood and even kill them, but soul *tartar* is strictly a Cainite delicacy.
 
-#### Rewards of Diablerie 
+## Rewards of Diablerie 
 
 On successful completion of diablerie, the diablerist is overcome by euphoria, and he must check to avoid frenzy immediately; the diablerist has literally taken the victim's soul into her own. The true benefit of diablerie becomes apparent, however, if the victim was of a lower generation than the diablerist (e.g., a ninth-generation vampire diablerizing a seventh-generation vampire): By stealing the other Kindred's soul, the diablerist effectively raises her own generation by one, bringing her closer to Caine and otherwise conferring all the benefits of the new generation on the vampire. The character also gains two extra Experience Traits at the end of the session.
 
@@ -5145,7 +5170,7 @@ If the victim was of much greater power (five or more generation levels), the di
 
 If the victim was sufficiently powerful, the diablerist may experience a temporary surge in her Disciplines. Any increases are granted solely at the Narrator's discretion, and in no event do these boosted Disciplines last for more than one scene.
 
-#### Perils of Diablerie 
+## Perils of Diablerie 
 
 Many neonates believe diablerie to be the perfect crime: the body is destroyed in the process, making it difficult to secure enough evidence to support an accusation of murder. However, diablerists quickly learn that there are several ways of learning the identity of those who have committed this heinous sin. Storytellers are encouraged to remember the horrific magnitude of the crime and ensure that diablerie never goes on casually.
 
@@ -5155,7 +5180,7 @@ Many neonates believe diablerie to be the perfect crime: the body is destroyed i
 - In the Camarilla, a vampire revealed to have committed diablerie is subject to an immediate blood hunt, and he may even have the blood hunt extended to other cities if her crime was heinous enough. What's worse, many such blood hunts have stipulations allowing the hunters to feed on the blood of the diablerist herself, and many princes look the other way if the hunters "accidentally" diablerize the criminal themselves. This legalized kinslaying makes most young Kindred eager to expose any diablerists among them.
 - Certain legends speak of diablerists displaying some of the mannerisms of their victims, especially if their victim was exceptionally strong-willed or of a greatly lower generation than the diablerist. Naturally, clever Storytellers will be quick to pick up on this trait when dealing with habitual diablerists.
 
-## Status
+# Status
 
 Kindred have developed many intricate rules of protocol and procedure when dealing with each other. Power-hungry vampires vie for positions of im-
 
@@ -5194,28 +5219,28 @@ The following are some examples of the uses and benefits of Status:
 - A clan may remove one Status Trait from an elder of the clan by expending a group total of permanent Status Traits equal to the elder's permanent Status. The primogen may also lower the prince's permanent Status in the same fashion.
 - Remember, you may only gain one Status Trait per story, but you may lose more than one Trait. Again, there are two exceptions to this rule: Status granted or sanctioned by the prince, and Status received for assuming a station.
 
-#### Stations
+## Stations
 
 There are eight official stations that a Kindred may hold, each of which grants Status within a city. Cities with small Kindred populations may double up certain stations, or even leave positions vacant. It is highly recommended that the most powerful stations should remain in the hands of Narrators and more experienced players, with newer players learning the ropes before taking a shot at attaining a station.
 
 Certain powers and responsibilities are inherent in each of these stations, and all powers that a station confers are lost immediately if a character is removed from or relinquishes it. The following is a list of the eight standard stations:
 
-#### The Prince 
+### The Prince 
 
 - The prince of a city automatically gains three additional Status Traits: *Exalted*, *Well-Known* and *Famous*. He can never lose these Traits permanently while remaining prince.
 - The prince can remove one permanent Status Trait from someone at a cost of one temporary Status Trait per Trait removed.
 - The prince can grant permanent Status Traits to any Kindred at a cost of one temporary Trait for each Trait awarded. The prince (and only the prince) may thus break
 
-#### Seneschal
+### Seneschal
 
 - The seneschal gains the following two additional Status Traits: *Cherished* and *Esteemed*. The character can never lose these Traits permanently while remaining seneschal.
 
-#### Primogen
+### Primogen
 
 - Primogen members each receive the additional Status Trait: *Revered* when they join the primogen. As long as the character remains one of the primogen, she cannot lose this Trait permanently.
 - Primogen may grant or remove permanent Status Traits to or from any member of their clan at a cost of one temporary Status Trait for each Trait granted or removed.
 
-#### Harpies
+### Harpies
 
 - The leader of the harpies receives the additional Status Trait: *Influential* on attaining the position. As long as the character remains the leader, he cannot lose this Trait permanently.
 - The harpy automatically gets one temporary Status Trait from each member of the primogen, who bestow these Status Traits to demonstrate their support of the harpies. The harpy, in turn, may use these Traits however she desires, even against the owner.
@@ -5223,31 +5248,31 @@ Certain powers and responsibilities are inherent in each of these stations, and 
 - The harpy may restore Status he has removed at a cost of one temporary Trait per Trait removed.
 - The leader of the harpies may sponsor lesser harpies by giving another Kindred a Status Trait of his own. Lesser harpies may remove temporary Status just as the head harpy removes permanent Status, although their leader may choose to make such loss permanent.
 
-#### Whips
+### Whips
 
 • Whips have the same powers as the primogen, although they do not gain an additional Status Trait, and their powers may be revoked at any time by the primogen of their clan.
 
-#### Sheriff
+### Sheriff
 
 - The sheriff gains the additional Status Trait: Feared when he attains the position. While he remains sheriff, he cannot permanently lose this Trait.
 - The sheriff may demand that any Kindred within the city accompany him for questioning or judgment. Failure to do so causes the offender to lose one permanent Status Trait.
 - The sheriff is immune to the powers of the keeper of Elysium (those conferred by the position, that is; he must still honor the Traditions).
 - The sheriff may sponsor deputies by giving another Kindred a Status Trait of his own. These deputies have the same powers as the sheriff, but the sheriff may revoke their authority at any time.
 
-#### Keeper of Elysium 
+### Keeper of Elysium 
 
 • The keeper of Elysium gains the additional Status Trait: *Honorable* on attaining the office. As long as the character remains the keeper, he cannot lose this Trait permanently.
 
 Kindred he catches breaking the Masquerade. If he does not witness it himself, sufficient evidence must be brought forth. This removal costs the keeper nothing.
 
-#### Scourge
+### Scourge
 
 - The scourge gains the additional Status Trait: Feared when he attains the position. While he remains scourge, he cannot permanently lose this Trait.
 - The scourge can harass, detain or destroy without penalty any Kindred that have been created without permission from the prince, or who have not been presented formally to the prince.
 - If the scourge discovers another character harboring or abetting vampires created without the prince's permission or who have not been presented formally, he may remove a permanent Status Trait from that character immediately. This removal costs the scourge nothing, but he must present sufficient evidence of the crime to the prince. Should the prince find the evidence insufficient or be unconvinced of the crime, he may return the stripped Status to the character.
 - Not all cities have reinstated the office of scourge, and even those that have do not consider it a noble aspiration, but rather a necessary evil born of the Final Nights.
 
-### Drestation
+# Prestation
 
 Prestation is the name the Kindred give for the art of using Status, and technically, it is defined as when one Kindred officially becomes indebted to another vampire for services rendered. In reality, however, prestation is far more complicated a system than that, and its rules are enforced with lethal zeal by its participants.
 
@@ -5256,7 +5281,7 @@ Players should first make it clear who's doing the favor and who's receiving it.
 The bestower may continue to use the Boon Traits just as he would any other loaned Status Traits. However, the bestower's loss of Boon Traits is only temporary – they are restored at the beginning of the next story. The primary difference between Boon Traits and other loaned Traits is that the original owner of the Traits may not request their return as usual with such Traits; they may only be returned once the boon has been settled.
 
 
-# Giving the Devil His Due: Repaying Drestation Debts 
+## Giving the Devil His Due: Repaying Drestation Debts 
 
 Getting yourself out of debt is usually an event arranged through roleplaying. Typically, players eliminate boons by returning equivalent favors. However, if the bestower is in sufficient danger, you might pay off your debt by returning only a small favor; indeed, you might even be able to put the original bestower in your debt! It all rests on a sense of timing and a character's skill at bartering. Other Kindred may resent you for doing so, but in crisis a matter of prestation may seem a small price to pay. A favor is as valuable as the Traits associated with it. Thus a minor boon (two Traits) and a major boon (three Traits) are fair compensation for a life boon (five Traits).
 
@@ -5270,7 +5295,7 @@ Blood boons occur when the bestower places herself in a potentially life-threate
 
 **Life boons** involve the bestower actively risking her immortal life for the receiver so that the receiver may live.
 
-# Camarilla Justice 
+## Camarilla Justice 
 
 Justice within the city is typically handled by the prince. Most Kindred justice is harsh and abrupt, as infractions of the Traditions almost always carry a sentence of either death or exile, though some princes may insist that an offender be blood bound to himself and/or the primogen council instead. Only the primogen council can reverse a prince's decision, and it can do so only when they have the political might to back their veto. The primogen council must collectively spend temporary Status Traits equal to the number of permanent Status Traits possessed by the prince to effectively reverse a decision; failure to reach the appropriate amount of Status causes each of the primogen to lose an additional Status Trait.
 
@@ -5282,7 +5307,7 @@ Justicars typically send representatives, called archons, before arriving themse
 
 # The Sabbat 
 
-#### Sabbat Status Traits 
+## Sabbat Status Traits 
 
 Status within the Sabbat is useful only within the sect, just as Camarilla Status is only useful within the Camarilla. Status does not function between sects because they despise each other so strongly that any Status the other would possess would have little or no effect on their antagonists. The Traits themselves also differ, because the Sabbat holds different values to be worthy of admiration than the Camarilla does.
 
@@ -5290,33 +5315,33 @@ Troupes should feel free to invent new Status Traits to suit their own stories a
 
 Vampires who have not yet acquired the Sabbat Status Trait: *Initiated* cannot have or gain any Status until they acquire that Trait.
 
-#### Sabbat Stations 
+## Sabbat Stations 
 
 Sabbat hierarchy stems from the Regent, the leader of the Sabbat. There is only one Regent at a time, and she is advised by prisci (singular: priscus) and cardinals. Beneath them are archbishops, who control a single city. Within the city, bishops act more or less equivalently to primogen. Paladins/ templars act as bodyguards and enforcers for Sabbat leaders; they are forbidden to join the Black Hand, but are formidable nonetheless. Each pack has a pack leader, who commands and inspires her packmates; a pack priest, who leads rituals and ensures that Sabbat rites are properly observed; and an abbot, who oversees the safety of the communal haven and other day-to-day matters.
 
-#### Gaining and Losing Sabbat Status 
+## Gaining and Losing Sabbat Status 
 
 Most Sabbat are fiercely protective of Status accumulated as a result of deeds they've performed, and they tend to take attempts to remove such recognition very badly. Sabbat may remove Traits from fellow pack members by reaching a pack consensus; if the entire pack feels a removal is necessary, then the Trait is simply scratched off. Traits based on past experience such as *Blooded* cannot be removed unless they were achieved by the pack as a whole, but ones based on pack opinion like *Proven* can be removed easily. Status may also be removed by those with more Status Traits and a higher rank within the Sabbat. Superiors should beware of the great loyalty that packs feel toward their leaders; removing Status might cause a pack to recognize their leader's failings, but it just as easily might cause them to mutiny.
 
 Characters may gain Status in identical ways to how it is lost: pack consensus or a decision from higher up. Individual high-ranking characters who wish to award Status must possess at least five permanent Status Traits themselves; packs seeking to praise their comrade must have a group total of at least seven permanent Status Traits. In order for the pack to award Status, each member of the party must spend one Status Trait. For every two Traits spent, the newly elected character may gain one Status Trait, as long as no more than three new Traits are gained in addition to his current Status.
 
-#### Sabbat Rituals 
+## Sabbat Rituals 
 
 # Using Rituals in a Game Setting 
 
 The Sabbat places great importance on rituals, since they bolster morale and reinforce the doctrines of the sect. Rituals within the Sabbat also serve as tests. Many were created for the sole purpose of testing the strength and endurance of the warriors involved, and the Sabbat respects and encourages this with its many rituals.
 
-#### Kinds of Rituals 
+### Kinds of Rituals 
 
 The rituals of the Sabbat can be divided into three basic groups: the *Auctoritas Ritae*, the *Ignoblis Ritae* and the customs of each particular pack. All Sabbat practice the very traditional *Auctoritas Ritae*. Most packs, depending on their particular pack makeup and goals at the time, practice the *Ignoblis Ritae* in different ways. Each pack also develops its own customs, which often take ritual forms and change with time and battles fought.
 
-#### Auctoritas Ritae 
+### Auctoritas Ritae 
 
 This list of Auctoritas Ritae is, by no means, exhaustive. It merely lists the ones most common to and useful in Laws of the Night games.
 
-#### The Creation Rites 
+### The Creation Rites 
 
-222
+
 
 The Vaulderie
 
@@ -5328,7 +5353,7 @@ War Parties — This ritual occurs when two or more packs go on the warpath to a
 
 Wild Hunt – The Wild Hunt is the Sabbat equivalent of the blood hunt. Archbishops usually call Wild Hunts, but packs have been known to spread the word on their own.
 
-#### Games of Instinct 
+### Games of Instinct 
 
 IGNOBLIS RITAE
 
@@ -5376,7 +5401,7 @@ invented many ways to "relax" and enjoy their power. The Sabbat typically cause 
 
 ## Expanded Rules for Auctoritas Ritae 
 
-#### Creation Rites 
+### Creation Rites 
 
 Ritualistic as they are, Storytellers are encouraged to keep the game mechanics to a minimum during the Creation Rites, and focus instead on making the process as vivid and harrowing as possible.
 
@@ -5389,18 +5414,18 @@ Packs are advised to have a fresh blood on hand, because newly Embraced Cainites
 
 Once all strong new Sabbat members have fed, the pack performs the Vaulderie to cement their loyalty. It is usually the duty of a particular vampire's sire to begin instructing the younger Kindred in the ways of Sabbat doctrine, Discipline use, and any other information the neonate might need to know. After becoming Sabbat, there is no returning to her old ways; former blood bonds are broken, and a new, more powerful one has taken their place.
 
-#### Vaulderie and Vinculum 
+### Vaulderie and Vinculum 
 
 Of all the *Auctoritas Ritae*, the Vaulderie constitutes the most important ritual the Sabbat practices by far. All vampires who share in the Vaulderie are effectively blood bound to each other, but the effects are deeper still than any regular blood bond.
 
-#### Vaulderie Rules 
+### Vaulderie Rules 
 
  Find a chalice, cup, bowl or some other physical representation thereof (hats do nicely in a pinch) and dig around for those Blood Traits.
 
 - Each character present should place between two and four Blood Traits into the chalice. It is the privilege of the pack leader or vampire of highest rank to put in the highest number of Traits, to exceed the number of participants. The pack leader or priest then mixes the Traits around and passes the chalice back around the circle.
 - Each individual randomly draws the same number of Traits he or she contributed. The individuals (indicated by some mark on the Blood Trait) on your ritually acquired Blood Traits are those for whom you feel a heightened bond for the duration of the night or until the Vaulderie is performed again.
 
-# **A Clarification of the Heightened Bond** 
+#### **A Clarification of the Heightened Bond** 
 
 Sometimes, as a result of the Vaulderie, you wind up with a blood pool consisting of numerous Blood Traits from other characters. In such cases, the predominance of certain character's Blood Traits over others' effectively increases your Vinculum rating to them one notch: Once your Vinculum rating rises to a certain level, you must spend Willpower to even plot against the person. You may *not* harm, betray or fail to defend these individuals intentionally. An agreed Monomacy is the only exception.
 
@@ -5410,13 +5435,13 @@ To attempt the destruction of someone for whom the character has a Vinculum rati
 
 Players should remember that the Vinculum is a full-scale blood bond; this sense of unity is the reason the Sabbat has been so successful, since packs operate without the backstabbing and infighting common to the Camarilla.
 
-# **Monomacy, Punishment and Vinculum** 
+## **Monomacy, Punishment and Vinculum** 
 
 If you have a Vinculum rating of 6 or higher toward the person whom you want to fight in Monomacy, you must burn one Willpower Trait to initiate the Monomacy contest. Whenever a challenger loses a fight within the rules of Monomacy, regardless of whether or not he burned Willpower initially, he must spend one more Willpower Trait to continue the contest. There is no cost to the defender, since she is obligated to accept the challenge regardless of the Vinculum.
 
 If you are punishing someone in your pack for whom you have a Vinculum rating of 6 or higher and someone in your pack protests, you must engage in a Social Challenge. If you lose, you must burn a Willpower Trait to continue the punishment.
 
-# Monomacy
+## Monomacy
 
 Sometimes there is no other choice but combat when a disagreement between Sabbat becomes too fierce. As indicated before, most Monomacy contests are battles to Final Death, although any conditions can be agreed on by the participants. As the loser of a Monomacy contest can easily stand to forfeit her soul to diablerie, it is not a process undertaken lightly by even the most warlike Sabbat. Players should keep in mind that, no matter what happens during the "no holds barred" combat of the Monomacy, all the rules of **Mind's Eye Theatre** still apply.
 
@@ -5437,11 +5462,11 @@ Relieved of the burden of an unnatural love for Donata, Kevin clashed out a hars
 
 # Chapter Six: Storytelling 
 
-# Are You a Storyteller? 
+## Are You a Storyteller? 
 
 That's good, because this chapter is for you! This section details essential knowledges for all Storytellers, such as how to create a story from scratch, how to survive your first game and how to manage an ongoing chronicle. You'll learn the basics of establishing mood, creating believable settings and laying down the law with troublesome players. Experienced Storytellers with a few chronicles under their belts will benefit as well from learning how to integrate new players into an existing game, breathe new life into a faltering story and manage the relationship between the game and the real world. Most importantly, this chapter gives you the straight skinny on Storytelling — who should try it, how it works, why it's hard and why it's the most rewarding challenge **Masquerade** has to offer.
 
-# Taking up the Mantle 
+### Taking up the Mantle 
 
 
 Realize now that while many players will engage in a game session once a week or once a month, Storytellers usually deal with some aspect of an ongoing chronicle nearly ever day. You may well find the game pervading your life in ways you never imagined. Over-enthusiastic players will call you late at night to talk about the new ritual they want to research. Plot elements will pop into your imagination at the most inconvenient mo-
@@ -5454,7 +5479,7 @@ Being a Storyteller can do some surprising things to your blood pressure. Someti
 
 The bad news is that as tiring as all this can sometimes seem, it comes with the territory. The good news is that it's all manageable, and the end product can be all the more worthwhile for it. You can learn to minimize the game's intrusion into your life, to become an expert at coping with the unexpected, to deal with your frustrations without taking them out on anyone, and to reap the very real rewards Storytelling offers. Remember: It's a genuine pleasure to run a game and witness your players' excitement and enjoyment of your creative efforts firsthand. Some players won't be at all aware of the sheer amount of effort you expend on being a good Storyteller, but many will, and they'll appreciate it. They might even thank you for it.
 
-# Building Stories 
+### Building Stories 
 
 Storytelling is less like engineering and more like experimental chemistry. It isn't a matter of adhering to accepted procedures, choosing well-known materials and assembling them according to a precise mathematical equation. It's more like approaching each new project as an experiment that combines familiar and unfamiliar ingredients to create a completely new compound. The results may differ wildly from your original plan, but this won't always be a bad thing. Part of the joy of Storytelling is the fact that each new story is an adventure into uncharted territory, because you simply cannot predict with greater than average accuracy where your efforts will take you. Regardless of the outcome, however, each project — each story — will teach you something you didn't know when you started, and every one will become another experience that will make you a good Storyteller.
 
@@ -5466,11 +5491,11 @@ players — the settings, scenes and events of each game session exist only with
 
 Fortunately, a good **Masquerade** game features one important characteristic that is less prevalent in standard game sessions: The players will take the key ingredients the Storyteller provides and create many of their own stories. Together, the Storyteller and players realize a roleplaying experience that is more intense than most traditional tabletop games.
 
-# Key Story Ingredients 
+#### Key Story Ingredients 
 
 Assemble your story ingredients like a master chef — or a mad scientist, if you prefer — paying careful attention to the type, form and shape of each before adding it to your creation. Careless selection of important story elements has led to the early death of more than one game, and you must learn to separate the truly good ideas from those that sound good on paper. It isn't always easy to tell one from the other, but exercising your own best judgment is often the means to learn to distinguish between them. Remember, however, that in this endeavor, experimentation will often produce results more interesting than you might expect!
 
-theme
+# Theme
 
 The theme is the organizing principle of your story. It is the unifying idea of your story, the one or two word description of what your story is about on its most basic level. The theme is the question your story answers throughout its course, and it is the means by which you will convey its ideas and messages. It is absolutely essential that you select a theme, or more than one, if your story is to rise above the merely common and become truly interesting and entertaining.
 
@@ -5492,7 +5517,7 @@ Morality — Who or what determines mortality? Who are the keepers of morals and
 
 Chaos — Why do things tend to fall apart? Doesn't anything last? Is chaos sometimes necessary? How do we handle chaos?
 
-mood
+# Mood
 
 Mood is the general tone of the story, the underlying emotions you want your players to feel as they interact with the tale. Mood is one of the most difficult story elements to capture, and it is all the more rewarding for its elusive nature. Don't tell your players what the mood you are trying to convey is, but let them feel it in every aspect of your tale.
 
@@ -5538,7 +5563,7 @@ Murder Most Foul — This thread is the classic "whodunnit" scenario with a Cain
 
 Civil Blood — Strife and unrest are part and parcel of Cainite society, whether one glides through the sophisticated salons of the Camarilla or courts death with a Sabbat raiding party. Tensions rise as rumors of Gehenna circulate and become ever more insistent, and more than a few bold souls decide that the time to make their move is now.
 
-setting
+# Setting
 
 The setting of your story is as much a character as the fictitious individuals who populate it. Before choosing your setting, consider your theme and mood. Are there settings that will enhance or detract from them? It's difficult to convey a brooding or somber mood when your setting is a circus or a car wash.
 
@@ -5546,7 +5571,7 @@ Setting your story in familiar territory is a good option: It's fun to pretend t
 
 Remember that your stories aren't restricted to familiar stomping grounds. Feel free to set the action in another city altogether. Libraries, bookstores and online sources will yield a wealth of information on nearly any municipality of any size, include population figures, government structures and handy maps. Don't even feel obligated to tell your story in the modern nights — vampires have existed for many centuries, and you can achieve some splendid effects by staging the game in the historical period of your choice. Some themes and moods that work well in a modern setting can be even more effective in other places and times. Experienced troupes often find great enjoyment in moving their story from the familiar world to one in either the distant pass or even the future. Each of these periods offer unique story opportunities: Antiquity (ancient Greece or Rome), the Dark Ages (see **The Long Night**), the Renaissance, the Victorian Age, the Wild West, the Roaring Twenties and the Cold War.
 
-Pacing
+# Pacing
 
 The value of pacing becomes clear when you accept, as you must, the Storyteller's axiom that nothing will go exactly as planned. Characters will sometimes miss vital clues for no apparent good reason and then spend the remainder of the evening scratching their hands as the session drags on to a helplessly late hour. Characters will also cooperate with one another in a frighteningly efficient manner from time to time, solving all the puzzles and conundrums that you thought would take them the entire night to understand. More occasionally the players
 
@@ -5562,7 +5587,7 @@ Forced to choose between these extremes — too fast or too slow — opt for too
 
 The story considerations will generally be easier for you to pin down than the key ingredients, mostly because their impact on the story is less immediate. If you do your homework and build your stories with due care, you'll find that these story elements fall into place more easily.
 
-Scale
+## Scale
 
 The scale of your story is its relative size, the number of players who want to play. You can run stories for as few as two players or as many as 200, but stories for 20 to 30 players are the most common. The scale of many stories is often
 
@@ -5572,7 +5597,7 @@ Scale can get out of hand if you are the only Storyteller and the number of play
 
 Give some special thought to scale if you are running a plot that will require many months of continuous play to complete. Spend some time thinking about how scale changes will affect your long-range plots before you start them. Sudden or dramatic changes in scale can wreak havoc on long-term plots, requiring you to do some fancy Storytelling footwork to repair the damage and keep everything on track. Stories for extended chronicles must be more flexible in order to withstand the changes in scale that will inevitably occur as some players drop out and others arrive. How will your story be affected by the sudden departure of several players midway through the tale? Can your story cope if a particular clan or sect sees unexpected growth over the course of the action, or if you gain players at a rate faster than anticipated? If the outcome of your plot hinges on only one character, think about what you will do if that character's player is suddenly obligated to leave the game, or if that character dies unexpectedly before the story's climax. Planning a few "escape routes" for your long-term plots will help you handle scale changes in stride.
 
-Scope
+## Scope
 
 Your story's scope describes the range of possibility for character action and impact — essentially, it's what is at stake in your story. Are you telling a low-key tale wherein the characters are concerned primarily with their own personal agendas? Or are you planning to give the characters the chance to save an entire city from some dire outside threat? Scale can modify your story's scope to a degree — it's easier to tell the story of an entire city of vampires if one has enough players to represent them — but in the end, the stakes can be as big or small as you want.
 
@@ -5590,19 +5615,19 @@ Key questions to ask your players before embarking on a new Storytelling effort:
   - What should take precedence the story, the characters or the rules?
 - Should the characters be members of the Camarilla, the Sabbat, mixed sects or unaligned?
 
-# The Stages 
+## The Stages 
 
 Good stories have definitive stages — opening, climax and denouement. These points are your story's milestones, the markers which tell you where your players are in the story and what should happen to them next.
 
-#### **Opening**
+### **Opening**
 
 Lavish plenty of attention and detail on the opening of your story! Too many **Mind's Eye Theatre** stories start with all the characters sitting or standing around in a room, with no exploration of how they got there or why they are together. Set the time, place and conditions of the opening scene by distributing common information that every character knows before the game begins. Are the characters all present because each received an anonymous invitation? Are they gathered in an art gallery to view a new work by the Toreador primogen's latest protégé? Are they meeting to mourn the death of their pack leader and begin finding out who killed her? However sketchy, a briefing will allow your players to plunge directly into the story and begin roleplaying at once.
 
-#### **Climax**
+### **Climax**
 
 When the characters have discovered all they need to know to face final revelation, solve the key mystery or otherwise resolve the main plot, the story is at its climax. This is your story's high point, when the end toward which your players and their characters have been striving is in sight, and therefore the tension will be at its highest. If the opening was sufficiently intriguing and the players were enthusiastic, you need do little to help the story reach its climax. But if the players are confused or missed vital clues, you or your Narrators may find it necessary to take a more direct hand in guiding the action to its conclusion, perhaps by distributing more clues or somehow reminding characters of information they should recall. If you find that you must interfere in order to begin the climax, try to do so in such a way that does not rob the players of the joy and satisfaction of accomplishment.
 
-#### **Denouement**
+### **Denouement**
 
 The story winds down after its climax. The excitement and tension abates, and all the story pieces (most of them, at least) come together at last to form an
 
@@ -5610,7 +5635,7 @@ identifiable, coherent whole. Try to manage the resolution so that your players 
 
 You will find that your players will often want to gather immediately after the game session ends, to talk about the game and plan for future sessions. **Masquerade** players usually see only a few pieces of the story each time they play, and it's fun for them to learn more about the big picture. Players enjoy relating the night's events from their own point of view, and hearing the other players' version of events, too. You should keep one ear open at these wrap-up gatherings, both for news of exceptional roleplaying and potential plot complications.
 
-# Something for Everyone 
+## Something for Everyone 
 
 The best stories are collaborative efforts between players and Storyteller. The Storyteller provides the players with an interesting backdrop and framework, and the players build on it. You must give your players ample materials with which to do their part, however, or they will grow bored with the story rapidly. Try to make your major plots broad enough in their appeal that they will interest nearly every player in the story, perhaps by giving them a vested interest in the outcome. Even if you are able to do so for most of your players, you may find that it's difficult to shoehorn some characters into a specific plot. When that happens, try to develop a minor plot or subplot for them instead.
 
@@ -5670,22 +5695,22 @@ Devote time and attention to your setting and the stage on which it occurs. Your
 
 Think about what happens during any given 24-hour period in any community. People are born and die, they transact business, they obtain goods and services, they construct new buildings and tear old ones down, they commit crimes and infidelities, they end relationships and begin new ones and they embark on hundreds of minor projects and enterprises that, when combined, make up their daily and nightly lives. What happens in your setting when the characters depart the Elysium for the night? How might these events be reflected on your stage when the characters next meet? Your setting should reflect this ebb and flow of mortal life, so that your characters will know and understand that they live in a place that is not static, but that is as active as they are.
 
-### Ambiance
+## Ambiance
 
 This game is about vampires. These creatures dwell in a world remarkably like our own, but with subtle differences. This world is the epitome of the Gothic-Punk environment, and establishing its look and feel in your game can be a challenge. Lighting, music and stage dressing will all help bring your story and scenes to life and make it all the more real for your players.
 
-### Lighting
+## Lighting
 
 
 Avoid bright, direct lighting, as it brings the mundane world into sharp focus. Try replacing white lights with lower wattage, softer bulbs. You can even use multicolored lights to help create mood and atmosphere. A red light bathing one corner of a room helps convey an angry, tense mood, while blue light often indicates cooler, more subdued emotions. Strobe lights and black lights both work well to convey the energy and appearance of a nightclub, while phosphorescent glow sticks make great light sources for sewers (and the red ones give off a glow that's reminiscent of firelight). If you can't turn off some of the lights or replace them with dimmer bulbs, try draping a screen of dark cloth over them to cut down the direct light, being careful not to create a fire hazard.
 
 Consider the emotional messages you want to send with each story session. Music can help you create these feelings, underscoring the sensations of fear, anger, love or joy that you're trying to bring into the game. Bring a variety of music to your games so that you can change it to reflect your story's changing moods, and tailor the music volume to the current story environment. Keep the volume at a background level when your players are trying to interact — don't force them to compete with the music. Try not to let the music overpower your settings. Your choice of music should suggest the mood, not dictate it. Movie soundtracks are ideal for many stories because they have few distracting lyrics and usually have multiple tracks that convey the changing moods and scenes of the film. Try classical music or light jazz to evoke a more sophisticated atmosphere, or techno and dance to establish a higher energy level. Gregorian chants and plainsong create a feeling of antiquity, while New Age music can evoke a mysterious atmosphere.
 
-### Props
+## Props
 
 Consider props as one of your final touches. They are one of the last details needed to make your story believable, and they fall into two categories: stage props and personal props.
 
-#### **Stage Props** 
+## **Stage Props** 
 
 Stage props are those pieces of set dressing that decorate your game location to suggest the fictional locale where the story takes place. Whether set in the chantry or the sewers, you need some props to help bring the game to life. Good story props include furniture, works of art (especially art created by your players), costume jewelry, old clothes, legal documents, electronic bits and pieces from appliances that no longer function, scrolls, pieces of old Halloween costumes and unidentifiable oddments from your basement and attic. The limitations on props include resources, space, portability and storage.
 
@@ -5695,7 +5720,7 @@ Make sure your stage props are appropriate to the space in which you will use th
 
 Props small and large don't just find their way to the game site by themselves. Before you invest in any huge or awkward stage props, consider how you will get them from their storage place to the game and back. Smaller props can present the same problem if you have many boxes of them or if some of them are fragile. Check with the owners of your game site about prop storage. You might be able
 
-#### **Personal Props** 
+## **Personal Props** 
 
 More than costumes, personal props help identify particular characters or Narrator characters. Hats, canes, gloves, scarves, old medals, cloaks, briefcases, stethoscopes, riding crops, lab coats and jewelry all help give characters a distinctive appearance. The number one rule about personal props is: They must be safe. Never allow a player or Narrator to carry anything that might injure another person, and never permit any real or prop weapons in the game. Doing so is an invitation to disaster, and it is the hallmark of a foolish and immature Storyteller.
 
@@ -5703,13 +5728,13 @@ Economy is often a primary consideration in securing personal props. Many people
 
 so you want to tell a story… You've got some players, a place to play, a plot and a collection of great Cds — you're ready to play, right? Nope. Here's a checklist of important things you'll have to work out before the game even starts:
 
-### Bookkeeping
+## Bookkeeping
 
 You will want to keep a careful, exact record of certain things throughout the course of your story. You will be tempted to blow off the bookkeeping, but don't. Part of the fun for players is watching their characters grow and change over time. They will want to know how many Experience Traits they have, how close they are to gaining a new Ability Trait, and whether their latest Influence actions have borne fruit yet. A good Storyteller should be able to answer these questions with a minimum of fuss, but you won't be able to if you don't keep accurate records. If the scale of your story is too large for you to keep all the records easily by yourself, it's time to get some organizational help (see "Narrators").
 
 If you have regular access to a computer or word processor, take advantage of some of the terrific record-keeping and contact management software available today. You can maintain one spreadsheet page for each player, or combine them all into one sheet for easy comparisons. Resist the temptation to maintain this database in electronic format only — if your hard drive ever crashes, you'll be very happy you kept paper copies in your notebook!
 
-### Character Sheets 
+## Character Sheets 
 
 Maintain a hard copy of each player's character sheet, even if you're using a personal computer for most of your record-keeping and maintenance. Insist that every player turn in a copy of her character sheet to you before participating in a single game, even if it means that she sits out the first hour of the game to copy out a character sheet for you by hand. Keep this original copy in your files and make
 
@@ -5741,17 +5766,17 @@ Regardless of the character creation method you employ, take ample time to revie
 
 Once the story commences, your concern should turn from character creation to character development. Encourage your players to keep records, diaries or journals written from their characters' point of view as a roleplaying exercise. Talk with players about their characters from time to time to get a sense of how they perceive the characters' actions within the context of the story, and how they think the characters are developing.
 
-### An Evening's Events 
+# An Evening's Events 
 
-#### Вегове Тне Даме 
+## Веfore the Game
 
 Abandon any hope of accomplishing anything not game-related in the hours before the session actually starts. You'll be too busy making final adjustments to the night's plots and subplots, reviewing character sheets, packing up props and answering last-minute player questions. No matter how hectic or busy these hours might be, however, don't fail to take a few moments to relax and prepare yourself mentally for the game. If possible, meet with your Narrators and make certain they know about any special expectations or goals you have for the evening.
 
-#### Pre-game Setup 
+## Pre-game Setup 
 
 Be one of the first people to arrive at the game site. Establish yourself in a convenient table, chair or corner and tell your players when you think you'll be ready to get the game underway. Check out the game site — is everything as it should be? Unpack and set up your props, enlisting help from your players if necessary. Set aside some time to check in your players before the game starts — many of them will want to talk with you briefly and ask questions. Have your copies of character sheets handy. Check all props for safety, remembering that no real weapons of any kind are allowed in the game, ever.
 
-#### Game On 
+## Game On 
 
 Give your players a minute or two to collect themselves and get "into character." Advise them that they should remain in character henceforth unless
 
@@ -5779,7 +5804,7 @@ degree of visibility in the city. If she pursues her character goal actively dur
 
 Remember, while dispensing these snippets of advice and fielding dozens of zealous questions, to respect your players. Without them, there is no story! This doesn't mean you should allow your players to run your life or run amok without consequences. Showing respect does mean that you should listen attentively when they ask questions, value their opinions and strive to give them the best story you can. Meanwhile, keep an eye out for players whose characters come into conflict with one another during the course of the story. These players will sometimes tend to allow these inter-character conflicts to spill over into tension and hostility between themselves. If this happens, don't hesitate to remind the players that they must learn to distinguish between the events that occur in the story and their own, genuine emotions. Such conflicts can, if ignored, become serious problems and damage your story.
 
-### New Players 
+# New Players 
 
 Coming into a new situation is always nerve-wracking. Now imagine that you're going into a new place, meeting a group of strangers, yet you aren't even yourself! That's what every new player is staring at when they make the giant step into roleplaying. These new players may become your veterans eventually, so it's important to give them some attention.
 
@@ -5803,7 +5828,7 @@ Narrators can help new players create characters, handle Experience Trait expend
 
 # Downtimes:
 
-# The Games-between-games 
+## The Games-between-games 
 
 
 The most inconvenient aspect of downtime or "off-line" gaming is that you cannot be present to personally adjudicate every activity. The best means of
@@ -5817,13 +5842,13 @@ Good downtime information includes:
 
 If you have access to a personal computer and have the skills, you may find it useful to create a Web page which offers your players a ready-made downtime form which they can complete and submit online.
 
-HANDLING PLAYER QUESTIONS
+## HANDLING PLAYER QUESTIONS
 
 There will be times during which you must engage a player in a discussion that obliges her to drop out of character. It's unavoidable, but try to keep such interactions as brief as possible. Avoid protracted discussions or arguments about the rules; save them for after the game. If you must interpret a complex situation that threatens to seriously retard the pace of the game, make your ruling as quickly as possible and deal with any consequences later.
 
 Often one of the most distracting questions comes from players who arrive to the game substantially after the designated starting time. These players may have excellent excuses or they may simply be inconsiderate, but regardless you must decide how to handle the intrusion. One method is to force these players to jump right into play immediately without benefit of conferring with a Story-teller — this penalizes their tardiness by giving them no opportunity to spend Experience Traits or clear new equipment cards before plunging into the action. Another method is to oblige these players to wait, not taking part in the game, until you have the time and opportunity to deal with their tardy arrival.
 
-Troubleshooting
+## Troubleshooting
 
 PLAYER BOREDOM: "THERE'S NOTHING TO DO IN THIS GAME!"
 
@@ -5864,29 +5889,29 @@ Encourage your players to respect the story. If the source of the argument is th
 
 Sometimes players will argue among themselves about the game or their characters. You have the final authority to resolve such disputes. Don't let these situations grow into shouting matches or hysterics: Put a stop to them long before they reach that stage. If the arguing players can't resolve their disagreement, resolve it for them as quickly and fairly as possible; if they can't accept your decision, remove them from the game and try to help them work it out later. You've got a story to run, and you can't let this kind of situation delay the game for everyone else.
 
-STORYTELLER BURNOUT: "I CAN'T THINK OF ANY MORE STORIES."
+## STORYTELLER BURNOUT: "I CAN'T THINK OF ANY MORE STORIES."
 
 This game should not take precedence over your life. If you ever find it becoming a burden or unpleasant chore, get some help or arrange to take a break from Storytelling until you feel like returning to the helm. Let someone else take over the story for a while, or try playing a new type of game to recharge your Storytelling batteries. The game should be fun for you as well as for the players. Storytelling should never feel like a completely thankless task, a burden you grudgingly accept because no one else will — if you catch yourself feeling this way, it's vital to give yourself some well-deserved time off before taking up the mantle again.
 
-Player Cheating: "Hey, you didn't have that Discipline a few minutes ago!"
+## Player Cheating: "Hey, you didn't have that Discipline a few minutes ago!"
 
 It's an unpleasant fact of life that some players will cheat. A player might try to use Attribute Traits, Disciplines or resources her character doesn't have, or he might try to fudge the amount of Experience he has to spend. Take the alleged cheater aside and try to get to the bottom of the problem immediately — don't let accusations of cheating fester, for they will only undermine your players' confidence in you and their enthusiasm for the game. If you actually catch a player cheating, you really have only two options: Give the player another chance or remove him from the game.
 
 Sometimes players "cheat" on a massive scale, "forgetting" to cross off Blood and Willpower Traits they expend during a game. You can combat these problems by having your carry cards or tokens denoting Blood and/or Willpower Traits. When a character expends either Trait, the player must turn over the appropriate token(s) to you. When a player runs out of tokens, she runs out of those Traits. Tokens can be a very graphic reminder of how precious Blood and Willpower Traits are to characters!
 
-FAILED STORIES: "THIS GAME SUCKS."
+## FAILED STORIES: "THIS GAME SUCKS."
 
 Keep an ear to the ground for the murmurs of discontent among your players. None of us are infallible, and you are no exception. Sure, some players seem to never stop complaining, and you'll learn to screen unwarranted gripes. But don't dismiss all complaints as idle whining because sometimes your players will have a genuine beef. Encourage them to bring real problems to your attention, and be appreciative when they offer you constructive criticism and suggestions for improvement.
 
 Sooner or later you'll tell a story that doesn't work right. Maybe the players weren't as interested in the main plot as you'd hoped they would be; maybe you miscalculated the characters' relative power levels and unbalanced the game. Don't let it discourage you from telling future stories! On the contrary, it's important that you learn from these less successful attempts and apply the knowledge you gain to later endeavors. It's sometimes true that failure, as frustrating and disheartening as it may be, teaches us far more than our successes.
 
-favoritism: "You're only letting him play an elder because he's your royerend!"
+## favoritism: "You're only letting him play an elder because he's your royerend!"
 
 The best antidote to accusations of favoritism lies in refusing to practice it. Explain your decision-making process to your players and share your criteria with them. Strive to make your decisions about the game as impartial and objective as possible without injuring the story itself. It's particularly important to adjudicate rules situations fairly and not to favor people or characters you particularly like. If you place limitations on certain types of characters or powers in the game, rotate these elements so that players get a fair shot at them.
 
 Unfortunately, no matter how careful you are to remain objective, accusations of favoritism will surface from time to time. Sometimes they are unjustified, masking other issues: A player's character died, and he wants to blame someone for his loss; a player felt she was unfairly denied the opportunity to play a special role in the game; a player thinks the Storyteller's decisions are motivated by friendship rather than the desire to tell a good story. Deal with the accusation directly — take the accuser aside and discuss why she feels that she's the victim of favoritism. Don't overlook the possibility that she might actually be right. Sometimes it's possible to practice favoritism without consciously realizing we're doing so. If the accusation is deserved, amend your behavior accordingly.
 
-Problem Players: "He's ruining the game again!"
+## Problem Players: "He's ruining the game again!"
 
 Don't ever be afraid to lay down the law with problem players. The integrity of your story is your responsibility, and everyone has equal opportunity to enjoy the story. Most players will usually present no problems, but occasionally someone will cross the boundary of acceptable behavior. Often the transgression is accidental and requires only a reminder to keep players from getting out of hand. But you might encounter a player who actually enjoys getting out of control and wrecking the game through constant disruption. Maybe he likes the attention or the feeling of power it gives him, but whatever his motivation you must deal with him quickly, calmly and decisively. It's your story, and you're well within your rights to remove such offenders from your game permanently.
 
@@ -5920,9 +5945,9 @@ The anarch simply sneered at him, the glasses making a tiny clink like the settl
 
 # Chapter Seven: Allies and Antagonists 
 
-There are far more beings than vampires roaming under the dark skies. Some are allies, some are enemies and some defysimple definitions altogether. This chapter presents basic material on the many other supernatural factions of the World of Darkness, as well as some idea of how to present them in a **Masquerade** game.
+There are far more beings than vampires roaming under the dark skies. Some are allies, some are enemies and some defy simple definitions altogether. This chapter presents basic material on the many other supernatural factions of the World of Darkness, as well as some idea of how to present them in a **Masquerade** game.
 
-### Anarchs
+## Anarchs
 
 TRUE FREEDOM NEVER DIES
 
@@ -5940,7 +5965,7 @@ Anarch characters are created the same as any other vampire character, with the 
 
 # Ghouls
 
-those who serve
+Those who serve
 
 Vampires employ many human servants in their nightly games, but perhaps none are so useful — or dangerous — to Kindred as ghouls. Created when a living being drinks vampire blood, ghouls gain a measure of immortality and supernatural power, but they pay a stiff price for these benefits. Most ghouls are blood bound to their domitors (masters), and they all depend on a steady supply of vitae to keep their special "gifts." Valued for their ability to walk during the daytime and interact with mortals in ways inhuman vampires no longer can, competent and loyal ghouls can earn places of great respect in the eyes of the Kindred. Would-be servitors beware, however. Particularly skilled ghouls are frequently targets of a vampire's enemies (or even other ghouls vying for a master's favor), and when it comes to a question of survival or social advancement, few Kindred have qualms about sacrificing their retainers. Walking such a delicate tightrope without losing all personal identity takes an extremely strong-willed and talented individual, but the rewards of immortality and a generous domitor can be beyond one's wildest dreams.
 
@@ -5957,7 +5982,7 @@ More detailed rules and background for playing ghouls and revenants can be found
 
 # Hunters
 
-### Souls Who Brave the Darkness 
+## Souls Who Brave the Darkness 
 
 Despite the Camarilla's strict enforcement of the Masquerade and the clumsy efforts at secrecy that the Sabbat makes, some mortals inevitably learn of the undead menace that
 
@@ -5975,7 +6000,7 @@ This list is far from comprehensive. Other hunting groups form constantly, each 
 # The Changing Breeds 
 
 
-### Exchange Rates 
+## Exchange Rates 
 
 Sometimes a vampire will want to use a power on a target that calls for the target to spend a type of Trait he doesn't have (such as requiring a Lupine to spend Blood Traits), or enter into an alien mental state (such as putting a mortal in frenzy). The Storyteller's word is final on what powers are allowed across supernatural lines — some powers are designed specifically against a certain supernatural type, and they will not work on another, while others are more flexible. However, if a crossover is needed, here are some general guidelines: If a Discipline calls for a non-Kindred to spend Blood Traits, the target may substitute Gnosis/ Pathos/ Glamour/ etc. Traits instead, or a Willpower Trait if no other Trait applies. Likewise, Kindred subjected to powers that call for them to spend foreign Traits may substitute Blood Traits instead. This rule applies only if the target would normally *spend* Blood Traits, such as the *Blood Rage* Discipline of Thaumaturgy; powers which cause a target damage through drain of Blood Traits still function normally, since the target is not supposed to *use* the blood, only lose it.
 
@@ -5998,15 +6023,14 @@ Complete, detailed rules about playing Lupines can be found in **Laws of the Wil
 - Werewolves are as susceptible to frenzy as Kindred, and they must check for berserk fury (frenzy) and fox frenzy (so called because the Lupine flees her fear; equivalent of Rötschreck) at the same times and difficulties that Kindred do.
 - Lupines can apparently travel invisibly through the spirit world, appearing from thin air to attack their enemies and even surprising unwary users of the *Auspex* power of *Psychic Projection* caught wandering lost the spirit plane. (**Note**: In the spirit world Lupines have no silver cords, since they are actually physically "there;" this does not stop them from attacking the silver cord of a Kindred, however. Should a Lupine and a Kindred attack each other in the Umbra, the Kindred bids Mental Traits and the Lupine bids Physical Traits.)
 
-weavers on the Loomof reality
-
+Weavers on the Loom of Reality
 
 Most Kindred have no dealings with wizards, and they like to keep it that way. However, the Tremere have an uneasy truce with the sect of wizards they used to belong to, the Order of Hermes. While open feuding is a thing of the past, the two sides spy on each other constantly, and subtle traps are not uncommon between the two sides. Demon wizards called the Nephandi sometimes forge dark alliances with Setites or Sabbat on the Path of Evil Revelations, while their opposite number, the Celestial Chorus, has spent centuries battling the Lasombra and others who would pervert the church to their own ends. Shapeshifting witches known as the Verbena have been known to consort to with the Gangrel from time to time, and their form of pagan blood-magic has been whispered in the halls of Elysium for centuries. Finally, some Kindred with influence in cutting-edge technology and at the highest levels of government have long heard rumors about a gigantic wizard "Technocracy" that supposedly has its hooks deep into the world power structure. Naturally, the elders scoff at such rumors, claiming such a takeover would have required hundreds of years of highly secret manipulations that somehow also managed to escape their notice, and surely not even the most powerful wizards could accomplish such a monumental feat of magical treachery... could they?
 
 
 • All wizards have high Willpower Traits; bending reality demands no less. Most mages also have a high number of Mental and Social Traits, as well as many Abilities related to their style of magic (*Computer* and *Science* for a technowizard, *Brawl* and *Meditation* for a wandering yogi). Ultimately wizards *are* mortal, however — they heal as slowly as mortals do unless they employ some form of
 
-#### Vitae from Supernatural Sources 
+## Vitae from Supernatural Sources 
 
 Sooner or later, Kindred in contact with other supernatural forces will try drinking their blood, whether due to urgent need, simple curiosity or any number of other reasons. Likewise, sometimes vampires put the bite on what they believe to be a normal mortal, only to discover — too late — that they are supping on something else entirely. Some twisted Kindred may even become addicted to a specific "vintage" of supernatural vitae (e.g., Malkavians to faerie blood, thrill-seeking Licks to Lupine vitae), and he will go to great lengths to get his fix. Most of these Kindred are hunted down by the very prey they enjoy. Whatever the case, Narrators should consult the following guidelines as to what befalls the poor fool who drinks the vitae of a supernatural creature.
 
@@ -6020,15 +6044,15 @@ Each Blood Trait taken counts double (a Kindred who takes two Blood Traits from 
 
 Storyteller's discretion; the vampire may hallucinate, experience wracking pains, have a sudden flash of insight or find that nothing out of the ordinary occurs. Storytellers are encouraged to base any special results on the power and type of wizard in question.
 
-#### • Wraith/risen 
+## • Wraith/risen 
 
 If the wraith is Embodied, the blood tastes foul and is useless for feeding or fueling Disciplines. Otherwise, the vampire has nothing to bite on. Risen blood has been described as a mix of curdled milk, vinegar and embalming fluid, and may (at Storyteller discretion) cause the Kindred to vomit up twice as many Blood Traits as she drank from the Risen, not to mention angering the Risen who was bitten.
 
-### Changeling
+## Changeling
 
 The Kindred immediately gains an active derangement of Storyteller's choice, which lasts until one hour after the last Blood Trait from the changeling has left the vampire's system. Vampires may also perceive the hidden world of changelings during this time, although most vampires will believe such visions to be nothing more than hallucinations. (Note: Drinking faerie blood may be enough to place a vampire under enchantment. See The Shining Host for more on those who fall under faerie enchantment.)
 
-#### The Reborn 
+## The Reborn 
 
 Mummy blood is described as tasting stale or like dust, but it will provide nourishment and fuel Disciplines. At Storyteller discretion, the vampire may be be briefly assaulted by a flood of memories, which will continue to hover on the fringes of his consciousness until the blood is gone. Mummies can die
 
@@ -6065,9 +6089,9 @@ for wraiths to affect the Skinlands. **Note:** Mortals (excluding ghouls) who se
 
 • Giovanni scholars have encountered two rare types of wraiths in their studies. The first are dark spirits who seem bent on inflicting misery to anyone they contact; other ghosts seem to fear these phantoms and refer to them as Spectres. The second is *extremely* rare, consisting of wraiths who manage to re-inhabit their bodies and walk the Skinlands again. Dead as they are, these wraiths—called Risen—are often mistaken for vampires by less learned observers, and they have been known to display unique powers and amazing devotion to their wraithly Passions; indeed, some misguided hunters have realized their mistake only after an irritated Risen plucked the stake from its heart and continued on its way...
 
-#### Faeries
+## Faeries
 
-#### Immortal Dreams in Mortal Flesh 
+## Immortal Dreams in Mortal Flesh 
 
 Long ago, the world was a different place, filled with legendary heroes and mythical beasts. That time has since faded into antiquity, but not everyone has forgotten it. Certain Kindred whisper of faeries, mystical creatures of dream who seek to uphold the ancient ways of magic and chivalry, and who live secret lives hidden from the sight of mortal and Kindred alike. Though few vampires these days have much truck with the wild ones, those that do tend to come back *changed* for the experience. Those individuals report that faeries have changed little over the centuries, save for the fact that they now adopt human disguises to protect themselves from the prying eyes of the mortal world. Indeed, most Kindred walk by faeries without ever realizing their true nature, and only those knowledgeable in the unique glamours of the fae have any chance of piercing their masks against their will. However, when a faerie does choose to reveal her true form, her beauty is second only to the tremendous power she wields. Many vampires are left weeping blood tears at a faerie's presence, the presence of such magic and innocence filling them with such poignant longing for their mortal days that even the most jaded elder cannot deny. Some Kindred even succumb to madness in the wake of a faerie's visit, unable to stand their unlives any longer.
 
@@ -6080,7 +6104,7 @@ More on faeries can be found in **The Shining Host**; a brief summary of pertine
 - Faeries fight boredom and anti-creativity (which they call Banality) actively, and they avoid people and places that tend to attract such negative forces — like IRS inspectors, office cubicles, overbearing teachers or prisons. Fear of Banality is also the reason most fae avoid vampires, whose deathly existences tend to attract much suffering and negative emotion over time. Only Malkavians, Ravnos on the Path of Paradox and Toreador with real artistic talent tend to have low enough Banality to offset this natural disadvantage, and even then, most fae are extremely cautious about dealing with the notoriously predatory Kindred.
 - Illusions created by the *Chimerstry* Discipline are actually dangerous to faeries; an illusory wall presents special difficulty to them, and an illusory gun actually harms them. In their terms, *Chimerstry* creations are chimerically real to changelings, and they can even inflict chimerical damage on a changeling's faerie form. The same holds true even if the changeling knows she is looking at an illusion — another reason faeries avoid the Ravnos clan if at all possible. For their part, the Ravnos are completely unaware of this side effect, and the faeries intend to keep it that way.
 
-# United Under the Final Nights: Crossover Powers 
+## United Under the Final Nights: Crossover Powers 
 
 In many games, Kindred will encounter at least a few of the different supernatural creatures described previously, and in some games, players may even be allowed to play characters from these other denizens of the shadows. While such games can be a wonderful chance to roleplay the interaction between the different hidden cultures in the Gothic-Punk world, it is likewise inevitable that clashes will occur between character types as players use different supernatural powers against each other. Therefore, Storytellers and Narrators alike should be prepared to adjudicate what happens when the Gifts/ Spheres/ Arcanoi/ Arts/ Numina/ etc. of other supernaturals come in conflict with vampiric Disciplines. Before the nitty-gritty rules of such adjudication are put forth, however, there are a few basic points to remember:
 
