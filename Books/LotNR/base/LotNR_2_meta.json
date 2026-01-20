@@ -1,0 +1,523 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ghouls \u2014 those who serve",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          63.703125,
+          146.90679931640625
+        ],
+        [
+          191.5789031982422,
+          146.90679931640625
+        ],
+        [
+          191.5789031982422,
+          160.90679931640625
+        ],
+        [
+          63.703125,
+          160.90679931640625
+        ]
+      ]
+    },
+    {
+      "title": "who hunts the hunters",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          52.3125,
+          384.5186767578125
+        ],
+        [
+          194.23731994628906,
+          384.5186767578125
+        ],
+        [
+          194.23731994628906,
+          402.51866149902344
+        ],
+        [
+          52.3125,
+          402.51866149902344
+        ]
+      ]
+    },
+    {
+      "title": "In These Nights...",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          72.0,
+          109.16015625
+        ],
+        [
+          178.5,
+          109.16015625
+        ],
+        [
+          178.5,
+          121.18359375
+        ],
+        [
+          72.0,
+          121.18359375
+        ]
+      ]
+    },
+    {
+      "title": "LEXICON",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          70.875,
+          386.015625
+        ],
+        [
+          132.46875,
+          386.015625
+        ],
+        [
+          132.46875,
+          399.0
+        ],
+        [
+          70.875,
+          398.671875
+        ]
+      ]
+    },
+    {
+      "title": "Bloodrights",
+      "heading_level": null,
+      "page_id": 27,
+      "polygon": [
+        [
+          72.0,
+          118.75872802734375
+        ],
+        [
+          144.38330078125,
+          118.75872802734375
+        ],
+        [
+          144.38330078125,
+          136.75872802734375
+        ],
+        [
+          72.0,
+          136.75872802734375
+        ]
+      ]
+    },
+    {
+      "title": "allegianCes",
+      "heading_level": null,
+      "page_id": 27,
+      "polygon": [
+        [
+          70.03125,
+          369.3187561035156
+        ],
+        [
+          139.68701171875,
+          369.3187561035156
+        ],
+        [
+          139.68701171875,
+          387.3187561035156
+        ],
+        [
+          70.03125,
+          387.3187561035156
+        ]
+      ]
+    },
+    {
+      "title": "the Camarilla",
+      "heading_level": null,
+      "page_id": 28,
+      "polygon": [
+        [
+          53.3671875,
+          53.45947265625
+        ],
+        [
+          136.65550231933594,
+          53.45947265625
+        ],
+        [
+          136.65550231933594,
+          71.45947265625
+        ],
+        [
+          53.3671875,
+          71.45947265625
+        ]
+      ]
+    },
+    {
+      "title": "the saBBat",
+      "heading_level": null,
+      "page_id": 28,
+      "polygon": [
+        [
+          53.578125,
+          174.89947509765625
+        ],
+        [
+          116.96880340576172,
+          174.89947509765625
+        ],
+        [
+          116.96880340576172,
+          192.89947509765625
+        ],
+        [
+          53.578125,
+          192.89947509765625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 20,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          116
+        ],
+        [
+          "Line",
+          54
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          66
+        ],
+        [
+          "Span",
+          23
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 22,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          125
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "Text",
+          30
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 23,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          129
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "Text",
+          31
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 24,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 25,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          81
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "Text",
+          10
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 26,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          54
+        ],
+        [
+          "Line",
+          29
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 27,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          89
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 28,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          99
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 29,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          27
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\LotNR"
+}

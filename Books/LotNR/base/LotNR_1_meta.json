@@ -1,0 +1,855 @@
+{
+  "table_of_contents": [
+    {
+      "title": "CHAPTER ONE: \nINTRODUCTION",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          98.71875,
+          76.88671875
+        ],
+        [
+          360.28125,
+          76.88671875
+        ],
+        [
+          360.28125,
+          221.80078125
+        ],
+        [
+          98.71875,
+          221.80078125
+        ]
+      ]
+    },
+    {
+      "title": "stories around the Fire",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          71.71875,
+          234.8792724609375
+        ],
+        [
+          253.96875,
+          234.8792724609375
+        ],
+        [
+          253.96875,
+          258.8792419433594
+        ],
+        [
+          71.71875,
+          258.8792419433594
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          70.875,
+          488.84765625
+        ],
+        [
+          263.25,
+          488.84765625
+        ],
+        [
+          263.25,
+          503.40234375
+        ],
+        [
+          70.875,
+          503.40234375
+        ]
+      ]
+    },
+    {
+      "title": "CharaCters",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          54.0,
+          161.79873657226562
+        ],
+        [
+          119.58470153808594,
+          161.79873657226562
+        ],
+        [
+          119.58470153808594,
+          179.79873657226562
+        ],
+        [
+          54.0,
+          179.79873657226562
+        ]
+      ]
+    },
+    {
+      "title": "vampire: the masQuerade and laws oF the night",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          62.4375,
+          469.0795135498047
+        ],
+        [
+          280.125,
+          469.0795135498047
+        ],
+        [
+          280.125,
+          483.0795135498047
+        ],
+        [
+          62.4375,
+          483.0795135498047
+        ]
+      ]
+    },
+    {
+      "title": "the storyteller",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          71.0859375,
+          130.5987548828125
+        ],
+        [
+          165.43560791015625,
+          130.5987548828125
+        ],
+        [
+          165.43560791015625,
+          148.59872436523438
+        ],
+        [
+          71.0859375,
+          148.59872436523438
+        ]
+      ]
+    },
+    {
+      "title": "howto use this Book",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          71.71875,
+          361.9587707519531
+        ],
+        [
+          197.1259002685547,
+          361.9587707519531
+        ],
+        [
+          197.1259002685547,
+          379.9587707519531
+        ],
+        [
+          71.71875,
+          379.9587707519531
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          66.65625,
+          111.05859375
+        ],
+        [
+          176.34375,
+          111.05859375
+        ],
+        [
+          176.34375,
+          120.55078125
+        ],
+        [
+          66.65625,
+          120.55078125
+        ]
+      ]
+    },
+    {
+      "title": "no weapons",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          64.80000305175781,
+          163.04763793945312
+        ],
+        [
+          120.0234375,
+          163.04763793945312
+        ],
+        [
+          120.0234375,
+          177.04763793945312
+        ],
+        [
+          64.80000305175781,
+          177.04763793945312
+        ]
+      ]
+    },
+    {
+      "title": "no drugs or drinking",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          64.80000305175781,
+          216.48764038085938
+        ],
+        [
+          162.36990356445312,
+          216.48764038085938
+        ],
+        [
+          162.36990356445312,
+          230.48764038085938
+        ],
+        [
+          64.80000305175781,
+          230.48764038085938
+        ]
+      ]
+    },
+    {
+      "title": "it's only a game",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          64.80000305175781,
+          269.9276428222656
+        ],
+        [
+          137.1529998779297,
+          269.9276428222656
+        ],
+        [
+          137.1529998779297,
+          283.9276428222656
+        ],
+        [
+          64.80000305175781,
+          283.9276428222656
+        ]
+      ]
+    },
+    {
+      "title": "Be mindFul oF others",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          64.80000305175781,
+          384.8076171875
+        ],
+        [
+          161.2111053466797,
+          384.8076171875
+        ],
+        [
+          161.2111053466797,
+          398.80760192871094
+        ],
+        [
+          64.80000305175781,
+          398.80760192871094
+        ]
+      ]
+    },
+    {
+      "title": "do what works For you",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          64.80000305175781,
+          468.2475891113281
+        ],
+        [
+          172.1956024169922,
+          468.2475891113281
+        ],
+        [
+          172.1956024169922,
+          482.2475891113281
+        ],
+        [
+          64.80000305175781,
+          482.2475891113281
+        ]
+      ]
+    },
+    {
+      "title": "have Fun",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          63.9140625,
+          553.1276016235352
+        ],
+        [
+          105.81199645996094,
+          553.1276016235352
+        ],
+        [
+          105.81199645996094,
+          567.1276016235352
+        ],
+        [
+          63.9140625,
+          567.1276016235352
+        ]
+      ]
+    },
+    {
+      "title": "the world oF darkness",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          72.0,
+          48.27923583984375
+        ],
+        [
+          250.59375,
+          48.27923583984375
+        ],
+        [
+          250.59375,
+          72.27923583984375
+        ],
+        [
+          72.0,
+          72.27923583984375
+        ]
+      ]
+    },
+    {
+      "title": "the kindred",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          70.6640625,
+          254.1014404296875
+        ],
+        [
+          145.24330139160156,
+          254.1014404296875
+        ],
+        [
+          145.24330139160156,
+          272.1014404296875
+        ],
+        [
+          70.6640625,
+          272.1014404296875
+        ]
+      ]
+    },
+    {
+      "title": "THE CAMABILLA",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          52.3125,
+          461.953125
+        ],
+        [
+          164.25,
+          461.953125
+        ],
+        [
+          164.25,
+          474.75
+        ],
+        [
+          52.3125,
+          474.609375
+        ]
+      ]
+    },
+    {
+      "title": "the traditions",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          178.03125,
+          312.1102600097656
+        ],
+        [
+          268.8555908203125,
+          312.1102600097656
+        ],
+        [
+          268.8555908203125,
+          330.1102600097656
+        ],
+        [
+          178.03125,
+          330.1102600097656
+        ]
+      ]
+    },
+    {
+      "title": "THE SABBAT",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          54.0,
+          175.2890625
+        ],
+        [
+          138.0,
+          175.2890625
+        ],
+        [
+          138.0,
+          186.6796875
+        ],
+        [
+          54.0,
+          186.6796875
+        ]
+      ]
+    },
+    {
+      "title": "the generation spread",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          71.71875,
+          209.63864135742188
+        ],
+        [
+          205.80081176757812,
+          209.63864135742188
+        ],
+        [
+          205.80081176757812,
+          227.63864135742188
+        ],
+        [
+          71.71875,
+          227.63864135742188
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 10,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          73
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          129
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          109
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          114
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          113
+        ],
+        [
+          "Line",
+          53
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          61
+        ],
+        [
+          "Span",
+          13
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          97
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "Text",
+          18
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          59
+        ],
+        [
+          "Span",
+          10
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          107
+        ],
+        [
+          "Line",
+          53
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data\\LotNR"
+}
