@@ -136,7 +136,7 @@ Coleman stared after her, rubbing his mouth absently with the back of his hand. 
 
 **Playtesters:**Kathryn Abromovich, Chris Arnold, David Blackwell, Michael Blank, Brian Clark, Shaun Crawford, Michael Dent, Julian Dillard, Jim Fillmore, David Flannery, Brian Gates, Misty Gates, Alyson Gaul, Jody Gerst Crystal Greenlee, Jason Hale, Brock Hall, James M. Hendricks, Geoff Hinkle, Matthew Kauffman, Tim Leber, Chris Loeffler, Tori Mauslein, Jeremiah Mccoy, Glenys Ngaire Mcghee, Sarah Mcilvaine, Mike Metcalf, Laura Middleton, Joshua Patterson, Sarah Riggs, John Sargent, Matthew Skipper, Marc Spencer, Bill Terry, Golden Sky Tullis, Jim Vasquez, Peter Woodworth, W. Andrew Woodworth
 
-## Specialthanks to: You, the Fans — It's All for You. 
+## Special Thanks to: You, the Fans — It's All for You. 
 
 © 2010 CCP hf. All rights reserved. Reproduction without the written permission of the publisher is expressly forbidden, except for the purposes of reviews, and one printed copy which may be reproduced for personal use only. White Wolf, Vampire, Vampire the Masquerade, Vampire the Dark
 
@@ -149,15 +149,15 @@ Check out White Wolf online at <http://www.white-wolf.com> PRINTED ON DEMAND
 
 ## Contents
 
-| Rendezvous: A Cautionarytale              | 1   |
+| Rendezvous: A Cautionary Tale              | 1   |
 |-------------------------------------------|-----|
-| Chapterone: Introduction                  | 10  |
+| Chapter One: Introduction                  | 10  |
 | Chapter<br>Two: The Clans                 | 24  |
-| Chapterthree: Character Creationandtraits | 58  |
-| Chapter Four: Discplines                  | 128 |
-| Chapter Five: Rules, Systemsanddrama      | 186 |
+| Chapter Three: Character Creation and Traits | 58  |
+| Chapter Four: Disciplines                  | 128 |
+| Chapter Five: Rules, Systems and Drama      | 186 |
 | Chapter<br>Six: Storytelling              | 222 |
-| Chapterseven: Alliesandantagonists        | 248 |
+| Chapter Seven: Allies and Antagonists        | 248 |
 
 # Chapter One: Introduction 
 
@@ -169,7 +169,7 @@ Time marched on, and technological developments began to change, if not interfer
 
 Now we come to the 1970s, and the era of roleplaying. A group of players sits around a table, listening to their leader describe scenes of dank dungeons and dark cities, and they choose which path to take next. At one of these sessions, someone gets the idea to start standing up, moving and thinking as her character might. Over time, more players do the same, creating what will become known as live-action roleplaying (or LARP). In fact, this "new" entertainment is a return to the oldest the leader was the storyteller, taking his listeners on a new journey, and the listeners were responding in kind, taking on the roles of the characters in the story, telling this new tale to the storyteller, the other player-listeners and to themselves.
 
-what isMind's Eye Theatre? This game is probably unlike anything you have played before. In many ways, it's not really a game, because it doesn't have a lot of the trappings of games — such as cards, dice or a playing board. It's also far more concerned with the stories to be told along the way than "winning." It's far more like the make-believe of childhood than what most people typically think of when they imagine "games." This book contains all the information you'll need to start playing and telling your own stories. You create the action, you choose the path to follow, you decide what risks to accept. We call this style of game **Mind's Eye Theatre.**
+What is Mind's Eye Theatre? This game is probably unlike anything you have played before. In many ways, it's not really a game, because it doesn't have a lot of the trappings of games — such as cards, dice or a playing board. It's also far more concerned with the stories to be told along the way than "winning." It's far more like the make-believe of childhood than what most people typically think of when they imagine "games." This book contains all the information you'll need to start playing and telling your own stories. You create the action, you choose the path to follow, you decide what risks to accept. We call this style of game **Mind's Eye Theatre.**
 
 Playing **Mind's Eye Theatre** is like being in a movie. You and your friends are the characters, but there is no script. There may be a framework or setting that determines the parameters of the world around you, but you and the others around you are creating the story as you play. The "director" of this movie is the Storyteller, assisted by Narrators. The Storyteller creates the stage and the minor characters that the players interact with to tell this story.
 
@@ -318,7 +318,7 @@ the third tradition: the progeny
 
 Thou shalt sire another one with permission of thine elder. If thou createst another without thine elder's leave, both thou and thy progeny shall be slain.
 
-the Fourth tradition: the aCCounting
+the Fourth tradition: the Accounting
 
 Those thou create are thine own childer. Until thy progeny shall be released, thou shalt command them in all things. Their sins are thine to endure.
 
@@ -593,7 +593,7 @@ The Camarilla claims the allegiance of six great clans, the Sabbat's core comes 
 
 For several hundred years, the Assamites, Followers of Set, Giovanni and Ravnos were the only four independent clans. Recently, though, the Gangrel left the Camarilla *en masse*, taking up a neutral position once more. Whether the Camarilla's shaky foundations will further erode, or whether a new clan will take the Gangrel's place, remains to be seen.
 
-With Donata's influence, it was a simple matter to convince Kevin to return with her and Peter to the old loft where the next part of the plan could proceed. The uncom- fortable union made its way out of the projects and closer to the uptown areas, near art galleries and museums. Peter finally parked in a nearby structure. Donata guided Peter and Kevin across the street and up a flight of stairs to studios in a historical building, above a busy restaurant.
+With Donata's influence, it was a simple matter to convince Kevin to return with her and Peter to the old loft where the next part of the plan could proceed. The uncomfortable union made its way out of the projects and closer to the uptown areas, near art galleries and museums. Peter finally parked in a nearby structure. Donata guided Peter and Kevin across the street and up a flight of stairs to studios in a historical building, above a busy restaurant.
 
 Once in the studio, Donata shut and locked the door. Peter noted that most of the artistic furnishings were somewhat substandard. Doubtless, this tiny studio served only as a meeting ground, and not as a true haven. He made a mental note to check up on the ownership of the building anyway, while he removed a small vial and a lighter from his pocket.
 
@@ -601,7 +601,7 @@ Kevin turned to regard Peter as the lighter was flicked into operation. Donata r
 
 "This will settle matters. Nobody will be able to confirm anything out of Kristof, and that simply leaves Warburton to take all of the blame," Peter said in a reverential whisper. And, he thought to himself, when the sheriff finds the paraphernalia in Donata's property, she'll take the fall for Kristof's death.
 
-Now simultaneously entranced and repulsed by the flame, Kevin watched the unfa- miliar proceedings, eyes flicking occasionally to regard the impassive Donata.
+Now simultaneously entranced and repulsed by the flame, Kevin watched the unfamiliar proceedings, eyes flicking occasionally to regard the impassive Donata.
 
 Peter closed his eyes and traced a slow circle in the air, then steeled himself as he passed his fingers through the flame. Tiny wisps of smoke rose from the fire, and the blood on his fingers vaporized, but he held his hand steady, his dry, dead flesh resisting the hungry heat. Peter knew better than to push his luck, though, and withdrew his hand as quickly as possible, opening his eyes.
 
@@ -698,7 +698,7 @@ Disciplines: *Dominate*, *Necromancy*, *Potence*
 
 Disciplines: *Dominate*, *Obtenebration*, *Potence*
 
-• Malkavians — (Camarilla) The deranged Lunaticsclaim a fractured insight into the workings of reality.
+• Malkavians — (Camarilla) The deranged Lunatics claim a fractured insight into the workings of reality.
 
 Disciplines: *Auspex*, *Dementation*, *Obfuscate*
 
@@ -734,7 +734,7 @@ Disciplines: *Fortitude*, *Melpominee*, *Presence*
 
 Disciplines: *Auspex*, *Fortitude*, *Obeah*
 
-• Samedi — (Independent) Rotting and monstrous, the Stiffsclaim terrifying control over the processes of death and the secrets of immortality.
+• Samedi — (Independent) Rotting and monstrous, the Stiffs claim terrifying control over the processes of death and the secrets of immortality.
 
 Disciplines: *Fortitude*, *Obfuscate*, *Thanatosis*
 
@@ -1366,7 +1366,7 @@ Uses: Subterfuge, seduction.
 
 Uses: At parties. Entertaining someone. Goading or insulting someone.
 
-negative soCial traits
+negative Social traits
 
 **Bestial:** You have started to resemble the Beast of your vampiric nature. Maybe you have clawlike fingernails, heavy body hair or a feral glint in your eyes; however your Beast manifests, you definitely seem inhuman.
 
@@ -2642,7 +2642,7 @@ Lucky (3 trait merit)
 
 You were born lucky — or the Devil looks after his own. Either way, you get three retests per story (for which you bid a *Lucky* Trait: "I got *Lucky* — you missed me last time."), though you may not use more than one retest on any challenge.
 
-Oracular aBility (3 trait merit)
+Oracular Ability (3 trait merit)
 
 The signs and portents of everyday life are clear to you, offering up the course of the future. Once per session, you may attempt to read a particular omen by making a Static Mental Challenge with a difficulty of eight or more Traits (Narrator's discretion). If you succeed, you receive some insight into the current situation, allowing you to claim one retest at some point during the night as you draw on the visions that you interpreted.
 
@@ -2817,7 +2817,7 @@ Many Merits were removed from the game, or changed in Trait value. As with Flaws
 
 Lastly, spend five Free Traits — under the Free Trait costs, not Experience Trait costs — to finish the conversion.
 
-### Converting Characters from Tabletod Dlay 
+### Converting Characters from Tabletop Play 
 
 Moving a character from tabletop play to live-action can be a little tricky, but it's generally worth the effort. Watching your favorite character blossom into full flower as you take on the role physically is both rewarding and exhilarating.
 
@@ -5111,7 +5111,7 @@ If a victim is drained dry of blood and reduced to torpor, the final struggle be
 
 A character may have other characters assist him in incapacitating his target and even in draining the target of Blood Traits and health levels, but only one Kindred can gain the ultimate benefits of diablerie. However, the seduction of the process is very strong — a character who wishes to halt diablerie after the third stage
 
-| aCtion<br>of Diablerist |             | Challenge Required                                    |  |
+| Action<br>of Diablerist |             | Challenge Required                                    |  |
 |-------------------------|-------------|-------------------------------------------------------|--|
 | Incapacitate target     | Stage One   | Beat 'em, stake 'em                                   |  |
 |                         | Stage Two   |                                                       |  |
@@ -5917,7 +5917,7 @@ The anarch simply sneered at him, the glasses making a tiny clink like the settl
 
 # Chapter Seven: Allies and Antagonists 
 
-There are far more beings than vampires roaming under the dark skies. Some are allies, some are enemies and some defysimple definitions altogether. This chapter presents basic material on the many other supernatural factions of the World of Darkness, as well as some idea of how to present them in a **Masquerade** game.
+There are far more beings than vampires roaming under the dark skies. Some are allies, some are enemies and some defy simple definitions altogether. This chapter presents basic material on the many other supernatural factions of the World of Darkness, as well as some idea of how to present them in a **Masquerade** game.
 
 ### Anarchs
 
