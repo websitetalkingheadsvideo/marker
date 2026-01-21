@@ -341,7 +341,7 @@ The battle ground to a stalemate, and both sides called for parley. The Treaty o
 
 The Sabbat organizes itself in a parody of the Catholic Church, from which much of its ritual springs. At the lowest level is the pack, which is led by a leader and a priest. Above the pack are the bishop and archbishop, who oversee Sabbat activity in a city. Cardinals coordinate Sabbat activity in regions, while the regent in Mexico City oversees the entire sect, aided by the prisci. Paladins and templars serve as assassins and bodyguards for the regent, prisci and cardinals.
 
-## Indepentants
+## Independents
 All the Rest
 
 The other clans — including the Gangrel, Assamites, Giovanni, Followers of Set, Ravnos and the minor bloodlines (the Daughters of Cacophony, Salubri and Samedi) — do not claim membership in either sect. Those who choose to join the sects are a minor handful in comparison to their clanmates.
@@ -545,7 +545,7 @@ Now, though, it was back to business. That meant bringing Kevin back to heel, an
 
 Donata had scowled in response to Peter's complaints. "The 'fool' only responds to my commands and my power. I must question him directly."
 
-Peter simply shook his head as he passed the burned-out wreckage of adandoned businesses. He could very well tear the information from the anarch's weak mind with the strength of his commanding will, but best not to let Donata know the full extent of his capabilities. In the back of his mind, he calculated expenses and possibilities involved in restoring business to the projects, tabulating any angle for profit out of habit.
+Peter simply shook his head as he passed the burned-out wreckage of abandoned businesses. He could very well tear the information from the anarch's weak mind with the strength of his commanding will, but best not to let Donata know the full extent of his capabilities. In the back of his mind, he calculated expenses and possibilities involved in restoring business to the projects, tabulating any angle for profit out of habit.
 
 "Wait here." Donata directed Peter to pull up to the curb, and he did so smoothly, setting the alarm on his car as they exited, as if it would do some good. A small gathering of youths loitered on the corner, and Kevin chatted in hushed tones among them.
 
@@ -560,7 +560,7 @@ Kevin nodded amicably. "Of course," he murmured, shooting a jealous look at Pete
 ## Bloodlines
 Further removed from the clans and Antediluvians are the bloodlines. While technically any lineage of vampires may be considered a bloodline, the term (in common parlance) refers specifically to members of a peculiar sub-clan, a grouping of vampires with common powers and interests like a clan but lacking an Antediluvian founder. These bloodlines are small and rare; indeed, few neonates are even aware of their existence. However, any clan can be humbled and brought to the level of mere bloodline should its Antediluvian be devoured and his power stolen by a claimant to a new clan — a process that has happened more than once in times past.
 
-## The Catiff
+## The Caitiff
 Occasionally, some new fledglings are abandoned by their sires, knowing little of the clans or the ways of vampiric society. These clanless, referred to as Caitiff, are often a threat to the Masquerade, and they rarely survive without instruction. Some vampires claim that such weak-blooded mules lack identifying clan characteristics and upbringing, and thus, they herald the coming End Times. These paranoid vampires hunt the clanless ones whenever they can.
 
 # Bloodrights
@@ -1105,7 +1105,7 @@ Long have the Carpathian Fiends studied the ways of the flesh. Through *Vicissit
 | Two    | Considering others; failing to experiment                              |
 | One    | Neglecting to practice alteration and evolution;<br>showing compassion |
 
-|        | Path of Night Hiebarchy of Sins                                            |
+|        | Path of Night Hierarchy of Sins                                            |
 |--------|----------------------------------------------------------------------------|
 | Traits | Violations                                                                 |
 | Five   | Killing a mortal for food; acting altruistically                           |
@@ -1781,7 +1781,7 @@ When you make an effort to exert your *Contacts*, Influence or *Resources* over 
 | Fame x 4    | Adjoining states              |  |
 | Fame x 5    | Entire country                |  |
 
-In a less mechanical fashion, your *Fame* also dictates how recognizable you are to mortals, for one reason or another. The Storyteller will certainly make the effects of your *Fame* apparent, and mortals may take notice of you at bothersome times. Being profiled on "America's Most Wanted" or spotted at the Academy Awards does things to one's repuation, after all.
+In a less mechanical fashion, your *Fame* also dictates how recognizable you are to mortals, for one reason or another. The Storyteller will certainly make the effects of your *Fame* apparent, and mortals may take notice of you at bothersome times. Being profiled on "America's Most Wanted" or spotted at the Academy Awards does things to one's reputation, after all.
 
 Fame does have its limitations. It makes little sense for you to have this Background if you're known to be dead in the mortal world. Also, Fame does not always indicate widespread instant name recognition; you may only be known to a subset of a particular group, or a recognized expert in a field who's unknown to those outside.
 
@@ -1920,7 +1920,7 @@ Manipulating markets, stock reports and investments is a hobby of many Cainites,
 |   | credit rating alterations)                      |  |
 |   | Ruin a small business                           |  |
 | 5 | Control an aspect of city-wide banking          |  |
-|   | (shut off Atms, arrange a bank "holiday")       |  |
+|   | (shut off ATMs, arrange a bank "holiday")       |  |
 |   | Ruin a large business                           |  |
 |   | Purchase a major company                        |  |
 |   |                                                 |  |
@@ -2055,7 +2055,7 @@ The hidden world of the supernatural teems with secrets, conspiracies and unusua
 | 5    | Access minor magic items                          |
 |      | Unearth an Advanced ritual from your sect         |
 
-## Dofice
+## Office
 
 "To protect and serve" is the motto of the police, but these days, Kindred and kine alike may have cause to wonder who is being protected and served. That said, *Police* Influence can be very handy to assist with the Masquerade, to protect one's holdings or to raid the assets of another. After all, attitude won't save the anarchs whose haven is the target of a daylight raid. Police of all ranks, detectives, clerical staff, dispatchers, prison guards, special divisions (such as SWAT or homicide) and local highway patrol make up these ranks.
 
@@ -2248,7 +2248,7 @@ Your starting Blood Trait total is determined by your generation. When you come 
 ## Hunger
 When you have expended a great deal of blood, you become hungry. A hungry vampire is susceptible to the Beast and to frenzy due to the ravenous lust for vitae. You are considered hungry if at five or fewer Blood Traits; you may be susceptible to frenzy at the sight, smell or taste of blood (see *Self-Control/Instinct*, on p. 109). If you have two or fewer Blood Traits, you are ravenous, and your difficulty to resist frenzy due to hunger goes up by one Trait, making it very likely that you enter frenzy at the first opportunity to feed.
 
-## Replenishing Bloood
+## Replenishing Blood
 Feeding is the only way to replenish blood. You can take Blood Traits from mortals, other vampires or other creatures with blood, such as animals or Lupines. When you bite someone to drain blood, you invoke the Kiss; your bite causes a rapturous helplessness in normal mortals, and it is pleasurable even to other creatures. However, each Blood Trait drained inflicts a level of lethal damage on the victim. Up to three Blood Traits may be drained each turn. You can close the wound by licking it to seal up traces of your feeding. You may only heal such wounds that were made by your fangs.
 
 ## Expending Blood Traits
@@ -2570,7 +2570,7 @@ You cannot abide suffering, because of the emotional disturbance or pain that it
 
 Speech Impediment (I Trait flaw)
 
-Astammer, Tourette's Syndrome or other speech deficiency makes communication difficult for you. Roleplay your deficiency, and suffer a two-Trait penalty on all verbal communication. You cannot have this Flaw with the Merit: *Enchanting Voice*.
+A stammer, Tourette's Syndrome or other speech deficiency makes communication difficult for you. Roleplay your deficiency, and suffer a two-Trait penalty on all verbal communication. You cannot have this Flaw with the Merit: *Enchanting Voice*.
 
 AMNESIA (2 TRAIT FLAW)
 
@@ -2584,7 +2584,7 @@ DHOBIA (2 TRAIT FLAW)
 
 Some object, creature or circumstance fills you with dread. This fear goes far beyond the normal level of phobias: Your vampiric Beast instinctively flees the
 
-thing, treating it as a dire threat. When confronted by the object of your fear, you must make a *Courage* Virtue Test with a difficulty of at least three Traits (more if the Narrator decides that the circumstances are particularly severe). Should you fail, you suffer the usual penalties of failed *Courage* and R^tschreck.
+thing, treating it as a dire threat. When confronted by the object of your fear, you must make a *Courage* Virtue Test with a difficulty of at least three Traits (more if the Narrator decides that the circumstances are particularly severe). Should you fail, you suffer the usual penalties of failed *Courage* and R^Rotschreck.
 
 SHORT FUSE (2 TRAIT FLAW)
 
@@ -2936,7 +2936,7 @@ Though vampirism is a curse, the blood of Caine grants great mystical powers to 
 ## Rare Disciplines
 also practice *Melpominee* (manipulation of music and voice), *Obeah* (a power of physical and spiritual healing) and *Thanatosis* (control over the processes of physical death and decay). Some other Disciplines are thought to exist as well, though they and their practitioners are certainly so rare as to be nearly nonexistent.
 
-## Disciplans and Blood Use
+## Disciplines and Blood Use
 Most of the Disciplines require the use of blood or some other expenditure of effort. The gifts of Caine do not come lightly or easily, after all. Still, they are invaluable tools for hunting and survival, even in the modern age. Times being what they are, modern vampires must be very careful of the Masquerade with their powers; a mortal tourist with a camera can prove the greatest threat to vampiric secrecy.
 
 ## Targets
@@ -3442,7 +3442,7 @@ You need only expend a Mental Trait while gazing into the eyes of a corpse in or
 
 By calling out the names of the dead, you pull them to attendance. Combined with power over their artifacts from life, you can force them to answer your summons, appearing and obeying your will.
 
-To call a ghost, you must know its name, or at least have a clear image of its persona from *The Spirit's Touch*. You must also have an object with which the ghost had some contact while it was alive. If this object has particular importance to the wraith (a Fetter), you gain a free retest on your attempt to *Summon Soul*. Some wraiths cannot be summoned regardless of your efforts; many ghosts are lost in the eternal storm of the Underworld, or go on to their final rewards. Vampires who were diablerized or who achieved Golconda before Final Death likewise cannot be summoned in this fashion.
+To call a ghost, you must know its name, or at least have a clear image of its persona from *The Spirit's Touch*. You must also have an object with which the ghost had some contact while it was alive. If this object has particular imimportance to the wraith (a Fetter), you gain a free retest on your attempt to *Summon Soul*. Some wraiths cannot be summoned regardless of your efforts; many ghosts are lost in the eternal storm of the Underworld, or go on to their final rewards. Vampires who were diablerized or who achieved Golconda before Final Death likewise cannot be summoned in this fashion.
 
 You must make a Mental Challenge against the wraith that you call (see **Oblivion**, or use the guidelines for wraiths on p. 264 of this book). If the wraith wishes to be summoned, it can appear voluntarily. The wraith finds itself pulled to your location, and it becomes visible and audible to you. You may ask a single question of the ghost, which it must answer truthfully. After a single turn, the ghost fades away unless it chooses to remain or is coerced with further *Necromancy*. Even if the ghost stays nearby, you must use other *Necromancy* powers to see and hear it again, unless you exercise *Summon Soul* on it again.
 
@@ -3595,7 +3595,7 @@ After casting this potent ritual, you become able to peer through the veil obscu
 
 #### **Ritual of the Unearthed Fetter** 
 
-This three-hour ritual is most often used by skilled necromancers of the *Sepulchre Path*. By casting this ritual with the finger bone of a corpse, you attune the bone to any material objects, people or places that may have significance to the finger bone's owner — specifically, to the ghost of the dead individual. You take a chip of a grave marker, crush it and sprinkle it over the bone while intoning the ritual. When complete, the finger bone acts as a sort of spiritual compass, pointing toward objects of vital importance to its wraithly owner.
+This three-hour ritual is most often used by skilled necromancers of the *Sepulchre Path*. By casting this ritual with the finger bone of a corpse, you attune the bone to any material objects, people or places that may have significance to the finger bone's owner — specifically, to the ghost of the dead individual. You take a chip of a grave marker, crush it and sprinkle it over the bone while intoning the ritual. When complete, the finger bone acts as a sort of spiritual compass, pointing toward objects of vital imimportance to its wraithly owner.
 
 Once you have attuned a finger bone with this ritual, you can use it to find Fetters of a particular wraith, assuming that the remains in question are of an individual who became a ghost. You can therefore determine whether a particular place, object or person is a Fetter for a wraith. By spending a turn testing a suspect item with the finger bone, you can ask a ghost or Narrator whether it is a Fetter to that particular ghost. Remember, though, that the finger bone only finds Fetters of its owner.
 
@@ -3818,7 +3818,7 @@ Whenever you enter a challenge of strength, you may use *Potence* as your bid Tr
 
 have been completely exhausted, you can no longer enter challenges.
 
-Advanced Dotence
+Advanced Potence
 
 ### Puissance
 
@@ -4428,7 +4428,7 @@ The Tremere powers of *Auspex* allow them to search sublime planes of consciousn
 
 ## Vicissitude
 
-The Fiends of Eastern Europe harbor twisted secrets that make other vampires shudder. *Vicissitude*, the signature Discipline of the Tzimisce clan, reflects the inner nature of the most alien of vampires. Through *Vicissitude*, the wielder can reshape flesh under his very touch, whether into gross deformity or uneathly beauty.
+The Fiends of Eastern Europe harbor twisted secrets that make other vampires shudder. *Vicissitude*, the signature Discipline of the Tzimisce clan, reflects the inner nature of the most alien of vampires. Through *Vicissitude*, the wielder can reshape flesh under his very touch, whether into gross deformity or unearthly beauty.
 
 When used on mortals, ghouls, revenants and vampires of weaker generation than the user, *Vicissitude*'s effects are permanent. Vampires of equal or more potent generations can heal back each *Vicissitude-* inflicted scar as an aggravated wound. Of course, a user of this Discipline can always shape his own flesh as desired.
 
@@ -4747,7 +4747,7 @@ Each weapon has a concealability rating. If the weapon is not concealable, or if
 
 ### **Availability**
 
-Serious firearms and archaic melee weapons can take some time to locate. Firearms also require permits to obtain, which involves undergoing background checks or waitingperiods in some areas. A character can turn to more "colorful" channels in order to procure equipment, but the black market often means shady dealings and vastly inflated prices. Weapons that have Influence values listed under Availability indicate the level and type of Influence required in order to procure the weapon through illicit channels. Finally, of course, there's cost: A character must have some level of the *Finance* Ability or money-raising Influence to procure exotic melee weapons and nearly all firearms.
+Serious firearms and archaic melee weapons can take some time to locate. Firearms also require permits to obtain, which involves undergoing background checks or waiting periods in some areas. A character can turn to more "colorful" channels in order to procure equipment, but the black market often means shady dealings and vastly inflated prices. Weapons that have Influence values listed under Availability indicate the level and type of Influence required in order to procure the weapon through illicit channels. Finally, of course, there's cost: A character must have some level of the *Finance* Ability or money-raising Influence to procure exotic melee weapons and nearly all firearms.
 
 Once a character has a weapon, that doesn't mean he can keep it forever. Too often characters run about firing shotguns and large automatic weapons without facing the massive police manhunts that such battles invariably provoke. Take care that characters with powerful weapons understand the equally powerful repercussions that come from their use. These consequences not only preserve game balance, but enforces a sense of realism and keeps the game from turning into *Die Hard* with fangs.
 
@@ -4971,7 +4971,7 @@ The Merit Ambidextrous means that you suffer no penalty for an off-hand, since b
 
 hands. Thus, if you're *Ambidextrous*, you can perform a task with either hand without penalty, but if you use both hands at once, you must bid two Traits for each hand.
 
-When you specialize in a fighting style you can choose *Two-Weapon Combat* or *Florentine* for your specialty. This negates one penalty Trait from your attacks with the specified form of combat. Thus, instead of bidding two Traits with your primary hand and three with your off hand, you would bid one and two Traits, respectively. Combined with *Ambidexterous*, you can use two weapons at no penalty whatsoever. Storytellers, take note of combat monsters in the making who try this combination. Developing such a specialty should take *months* of training.
+When you specialize in a fighting style you can choose *Two-Weapon Combat* or *Florentine* for your specialty. This negates one penalty Trait from your attacks with the specified form of combat. Thus, instead of bidding two Traits with your primary hand and three with your off hand, you would bid one and two Traits, respectively. Combined with *ambidextrous*, you can use two weapons at no penalty whatsoever. Storytellers, take note of combat monsters in the making who try this combination. Developing such a specialty should take *months* of training.
 
 When using both hands, you only get one extra action, regardless of *Celerity*  and similar speed-altering powers. Split your actions equally between your hands — if you have *Legerity* good for two bonus actions and you're using both hands, you get your normal action, your two *Celerity* actions and your extra hand action, for a total of four actions. These would be split up to two actions with each hand; if you took an action or two to do other things, you'd split the remainder evenly. A leftover action is automatically applied to your primary hand.
 
@@ -5184,7 +5184,7 @@ Many neonates believe diablerie to be the perfect crime: the body is destroyed i
 
 Kindred have developed many intricate rules of protocol and procedure when dealing with each other. Power-hungry vampires vie for positions of im-
 
-portance in the great Jyhad constantly, and a vampire's reputation can be more valuable than any Influence or Discipline in some situations. Learning to play the power-games of the elders is a long and arduous task for neonates, but in the end one that serves most of them well — or hastens their demise.
+importance in the great Jyhad constantly, and a vampire's reputation can be more valuable than any Influence or Discipline in some situations. Learning to play the power-games of the elders is a long and arduous task for neonates, but in the end one that serves most of them well — or hastens their demise.
 
 Status is the measure of a vampire's reputation, and is measured in Traits. Most often, it usually stems from an office held among the local Kindred, from prince to primogen to scourge. Such posts are never given out, and those who hold them tend to defend them zealously. However, a vampire may also gain Status by being influential in the city's business, performing extraordinary deeds or by simply catching the right eyes at the right time.
 
@@ -5281,7 +5281,7 @@ Players should first make it clear who's doing the favor and who's receiving it.
 The bestower may continue to use the Boon Traits just as he would any other loaned Status Traits. However, the bestower's loss of Boon Traits is only temporary – they are restored at the beginning of the next story. The primary difference between Boon Traits and other loaned Traits is that the original owner of the Traits may not request their return as usual with such Traits; they may only be returned once the boon has been settled.
 
 
-## Giving the Devil His Due: Repaying Drestation Debts 
+## Giving the Devil His Due: Repaying Prestation Debts 
 
 Getting yourself out of debt is usually an event arranged through roleplaying. Typically, players eliminate boons by returning equivalent favors. However, if the bestower is in sufficient danger, you might pay off your debt by returning only a small favor; indeed, you might even be able to put the original bestower in your debt! It all rests on a sense of timing and a character's skill at bartering. Other Kindred may resent you for doing so, but in crisis a matter of prestation may seem a small price to pay. A favor is as valuable as the Traits associated with it. Thus a minor boon (two Traits) and a major boon (three Traits) are fair compensation for a life boon (five Traits).
 
@@ -5329,7 +5329,7 @@ Characters may gain Status in identical ways to how it is lost: pack consensus o
 
 # Using Rituals in a Game Setting 
 
-The Sabbat places great importance on rituals, since they bolster morale and reinforce the doctrines of the sect. Rituals within the Sabbat also serve as tests. Many were created for the sole purpose of testing the strength and endurance of the warriors involved, and the Sabbat respects and encourages this with its many rituals.
+The Sabbat places great imimportance on rituals, since they bolster morale and reinforce the doctrines of the sect. Rituals within the Sabbat also serve as tests. Many were created for the sole purpose of testing the strength and endurance of the warriors involved, and the Sabbat respects and encourages this with its many rituals.
 
 ### Kinds of Rituals 
 
@@ -5641,7 +5641,7 @@ The best stories are collaborative efforts between players and Storyteller. The 
 
 Some of the tools you can use to ensure that all characters get something to do are character histories and subplots.
 
-## Blast Fromthe Past 
+## Blast From the Past 
 
 All characters in your story have pasts, which can prove an essential Storytelling aid. Encourage — no, make that insist — that your players submit character histories to you along with copies of their character sheets. These histories can be narrative descriptions of a character's past experiences, a simple timeline or any other format that defines a character's history. The character history is one of the most important tools in your Storyteller kit. All too often, a Storyteller who is fresh out of ideas for plots and subplots need look no further than these character backgrounds for the perfect story thread. Did the Sabbat pack priest have an illicit liaison with a Camarilla Kindred at some point in her history? Introduce this former lover as a Narrator character into the current story and watch the dramatic sparks fly. Does the Toreador neonate search for her sire's lost works of art? Put the missing pieces on display at a museum or in a nightclub, and let the character try to discover how they got there and how to obtain them. Character backgrounds will be lousy with ex-lovers, past misdeeds, hidden indiscretions, mortal enemies and personal quests, and they all make great subplots and plot threads.
 
@@ -5867,7 +5867,7 @@ Paradoxically, you might hear cries of boredom even when you go out of your way 
 
 The more players that participate in your story, the more likely it is that one or more of them will eventually claim to be bored. The player may be bored because she's not pursuing her character's goals actively or worse, doesn't have any character goals. If you think such is the case, remind the player that the easiest way for her to exclude herself from the story and grow bored is to remain inactive and silent during a game session. Characters who do not interact with other characters or who do not make an effort to participate in the action will be forgotten quickly by their peers. While some players may be shy or may prefer to participate more passively, suggest that they locate at least one other character with whom to interact — otherwise, they probably won't enjoy the game, and there's probably little you can do to alleviate their boredom.
 
-too Much Violence: "not anothermass Combat!"
+too Much Violence: "not another mass Combat!"
 
 Conflict is endemic to the Cainite world, and sometimes conflict will lead to violence. It's a part of the game, but it need not be the focus of each and every story. If you believe your story is plagued by unnecessary or ceaseless violence, talk with the players you believe are responsible. Do they truly believe they are roleplaying their characters' Natures and Demeanors appropriately, or are they using that as an excuse to kick the snot out of everything that moves? If every session devolves into a mob scene combat or extended series of Physical Challenges, you probably do have a problem.
 
@@ -5875,7 +5875,7 @@ Try moving the fictional location of the game to a place where the characters mu
 
 If you believe the source of the excessive bloodletting is a particular player who seems to enjoy the game only if he's attacking or killing other characters, don't let this person ruin the game for everyone else. Deal with him calmly but firmly, informing him that if he can't rein in his behavior you must ask him to leave the game. If he can't handle such a stricture, get rid of him and don't look back.
 
-metagaming: "hey, your Character Can't Possibly knowthat!"
+metagaming: "hey, your Character Can't Possibly know that!"
 
 If your players seem confused about the differences between what occurs in character and out of character, advise them to adopt a means of determining when a conversation or other communication is occurring outside the context of the game. Suggest that the players remain in character at all times for the
 
@@ -6008,7 +6008,7 @@ If a vampire is using supernatural powers to instill frenzy or Rötschreck into 
 
 as they seem to find the disconnection from nature too uncomfortable. However, as the Final Nights loom closer, more and more the sound of wolves howling chases the setting sun from the sky, and Lupines roam the streets in search of undead prey.
 
-Werewolves appear to be divided by families, and the shifters place a great deal of importance on lineage. Licks who slaughter a lone Lupine carelessly had best beware the wrath of the fallen one's kin. What's worse, like their animal cousins, most werewolves travel in packs, and as such, their numbers and ferocity make even a fairly young pack a potential threat to powerful Kindred. Few hard facts are known of the various Lupine families, although an increasing number of Kindred have faced growing competition over urban centers of influence from a tribe known as the Glass Walkers. These Lupines seem to be adapting to life in the city, and as such, they are deemed a great threat by the elders. Furthermore, Nosferatu are said to have gossip pacts with a family of downtrodden Lupines called the Bone Gnawers, and Tremere have clashed many times with the mysterious, magically adept Uktena tribe. Beyond the cities there are whispers of Lupine tribes even more feral and vicious than that, and of other, rarer shifters too: curious raven-folk, inscrutable cat-people, prankster coyotes and even cunning wererats, the latter who are also said to have a pact with the Nosferatu stretching back centuries. Most Kindred scoff at the notion of such exotic werebeasts — if they have heard of shifters at all — but being walking dead themselves, who are they really to question such anomalies?
+Werewolves appear to be divided by families, and the shifters place a great deal of imimportance on lineage. Licks who slaughter a lone Lupine carelessly had best beware the wrath of the fallen one's kin. What's worse, like their animal cousins, most werewolves travel in packs, and as such, their numbers and ferocity make even a fairly young pack a potential threat to powerful Kindred. Few hard facts are known of the various Lupine families, although an increasing number of Kindred have faced growing competition over urban centers of influence from a tribe known as the Glass Walkers. These Lupines seem to be adapting to life in the city, and as such, they are deemed a great threat by the elders. Furthermore, Nosferatu are said to have gossip pacts with a family of downtrodden Lupines called the Bone Gnawers, and Tremere have clashed many times with the mysterious, magically adept Uktena tribe. Beyond the cities there are whispers of Lupine tribes even more feral and vicious than that, and of other, rarer shifters too: curious raven-folk, inscrutable cat-people, prankster coyotes and even cunning wererats, the latter who are also said to have a pact with the Nosferatu stretching back centuries. Most Kindred scoff at the notion of such exotic werebeasts — if they have heard of shifters at all — but being walking dead themselves, who are they really to question such anomalies?
 
 Of all the Kindred, only the bestial Gangrel typically have any chance at dealing with Lupines without the encounter dissolving into combat, and relations between the two are still standoffish at best. As long as each side honors the territory of the other, and does not prey on the other's protectorate (a Gangrel who dares to feed on or Embrace a Lupine's relative is still assured a quick Final Death), the Outlanders and the Lupines leave each other in peace. As for the rest of the Kindred, Lupines tend to kill first and ask questions later, an attitude vampires eagerly reciprocate. Some especially diplomatic
 

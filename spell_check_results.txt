@@ -1,0 +1,833 @@
+================================================================================
+Spell checking files...
+================================================================================
+
+Checking: LotNR-Headers.md
+Found 478 potential spelling errors:
+
+  'Abromovich' appears 1 time(s):
+    Line 137: **Playtesters:**Kathryn Abromovich, Chris Arnold, David Blackwell, Michael Bl...
+
+  'Adian' appears 2 time(s):
+    Line 2314: **Example:** Adian Gray, a rather cold Ventrue with a Humanity of three Trait...
+      -> Suggestions: apian, dian, adrian
+    Line 2316: Later, Adian steals some documents while sneaking about the local police buil...
+      -> Suggestions: apian, dian, adrian
+
+  'Agers' appears 1 time(s):
+    Line 2038: The hidden world of the supernatural teems with secrets, conspiracies and unu...
+      -> Suggestions: ages, pagers, avers
+
+  'ammuni' appears 1 time(s):
+    Line 4876: Availability: Any, if registered; *Police* 4, *Street* 4 or *Underworld* 3 ot...
+      -> Suggestions: amount, ammonia, amman
+
+  'Angeles' appears 1 time(s):
+    Line 5955: Things began to change in earnest with the 20th century. As individual rights...
+      -> Suggestions: angles, angel's, angelus
+
+  'animalistic' appears 2 time(s):
+    Line 1013: The Embrace strips a fledgling vampire of all ties to life and humanity. Turn...
+      -> Suggestions: anomalistic
+    Line 1389: **Feral:** The animalistic predator in you is evident in your actions. You sc...
+      -> Suggestions: anomalistic
+
+  'aren' appears 7 time(s):
+    Line 184: Creating a character for **Masquerade** is easy, and it takes just a few minu...
+      -> Suggestions: daren, karen, yaren
+    Line 2645: A powerful and dangerous mortal hunter has decided you are a danger to the wo...
+      -> Suggestions: daren, karen, yaren
+    Line 5572: Remember that your stories aren't restricted to familiar stomping grounds. Fe...
+      -> Suggestions: daren, karen, yaren
+    Line 5787: If you aren't actively portraying a character or answering a player's questio...
+      -> Suggestions: daren, karen, yaren
+    Line 5809: Coming into a new situation is always nerve-wracking. Now imagine that you're...
+      -> Suggestions: daren, karen, yaren
+    ... and 2 more occurrence(s)
+
+  'Arithon' appears 2 time(s):
+    Line 2330: **Example:** Starved, stumbling down a side alley, Arithon catches sight of a...
+      -> Suggestions: archon, writhen, briton
+    Line 2332: Later, full of blood, Arithon is at a local club when he is accosted by an As...
+      -> Suggestions: archon, writhen, briton
+
+  'ATMs' appears 1 time(s):
+    Line 1923: |   | (shut off ATMs, arrange a bank "holiday")       |  |
+      -> Suggestions: atoms, arms, aims
+
+  'attri' appears 1 time(s):
+    Line 892: Some characters have particular weaknesses or shortcomings. Others just never...
+      -> Suggestions: atari, attrit
+
+  'belongeth' appears 1 time(s):
+    Line 333: Thou art forbidden to destroy another of thy kind. The right of destruction b...
+      -> Suggestions: belonged
+
+  'Benney' appears 2 time(s):
+    Line 129: **Art by:**Pauline Benney,Louis Cahill
+      -> Suggestions: benne, bennet, benny
+    Line 133: **Layout and typesetting by:**Pauline Benney
+      -> Suggestions: benne, bennet, benny
+
+  'Bozon' appears 1 time(s):
+    Line 6121: **Relax! —** Cooperation is the most valuable key to working out the details ...
+      -> Suggestions: boon, bozos, bozo
+
+  'Bratoviches' appears 1 time(s):
+    Line 5974: although such mortals are seldom allowed to enjoy their ghouldom longer than ...
+
+  'breathily' appears 1 time(s):
+    Line 46: favorite runner, now, could we? All this," and she paused breathily, "is for ...
+      -> Suggestions: breathy, breathier, breathing
+
+  'butes' appears 1 time(s):
+    Line 906: butes. Such hindrances are represented with Negative Traits. Though Negative ...
+      -> Suggestions: lutes, utes, butts
+
+  'Cahill' appears 1 time(s):
+    Line 129: **Art by:**Pauline Benney,Louis Cahill
+      -> Suggestions: chill
+
+  'Cassull' appears 1 time(s):
+    Line 4866: **Heavy Pistol** — This designation covers the monsters of the handgun range,...
+      -> Suggestions: cassel, capsule, casual
+
+  'Cds' appears 2 time(s):
+    Line 1621: The world of money and business awaits your whim. You understand interest, Cd...
+      -> Suggestions: cods, cdr, cads
+    Line 5729: so you want to tell a story… You've got some players, a place to play, a plot...
+      -> Suggestions: cods, cdr, cads
+
+  'Ceos' appears 1 time(s):
+    Line 1903: Manipulating markets, stock reports and investments is a hobby of many Cainit...
+      -> Suggestions: leos, cess, eos
+
+  'clawlike' appears 1 time(s):
+    Line 1383: **Bestial:** You have started to resemble the Beast of your vampiric nature. ...
+      -> Suggestions: catlike, crablike
+
+  'clusive' appears 1 time(s):
+    Line 1961: |                        | clusive social circles. Among these circles, one f...
+      -> Suggestions: elusive
+
+  'comest' appears 1 time(s):
+    Line 329: Honor one another's domain. When thou comest to a foreign city, thou shalt pr...
+      -> Suggestions: comet, comes, comets
+
+  'corpselike' appears 5 time(s):
+    Line 1049: Humanity Two — Hey, some people ought to die. Killing is very acceptable to t...
+    Line 2364: - If you have Humanity, you appear more like a normal mortal. Vampires with l...
+    Line 3761: Spewing forth your own stained inner spirit, you meld your corpselike body wi...
+    Line 4039: The corpselike bodies of vampires are innately tied to death. No Discipline r...
+    Line 4691: Because their corpselike bodies simply don't bruise and break like those of t...
+
+  'Cosa' appears 1 time(s):
+    Line 2148: The world of crime offers lucrative possibilities to strong-willed or subtle ...
+      -> Suggestions: sosa, casa, cost
+
+  'couldn' appears 3 time(s):
+    Line 44: "Because," Donata said, "we know how important your friends are to you, Kevin...
+      -> Suggestions: could
+    Line 4477: As Donata took down a painting, looking for a better way to compose it with t...
+      -> Suggestions: could
+    Line 5920: The conniving Toreador certainly had a plan of her own, Peter surmised. She w...
+      -> Suggestions: could
+
+  'countertops' appears 1 time(s):
+    Line 2439: You have trouble seeing over things, interacting with tall people and escapin...
+      -> Suggestions: countertype
+
+  'createst' appears 1 time(s):
+    Line 321: Thou shalt sire another one with permission of thine elder. If thou createst ...
+      -> Suggestions: greatest, creates
+
+  'Dansky' appears 1 time(s):
+    Line 119: **Additional writing by:**Richard E. Dansky
+      -> Suggestions: dandy, lanky, dank
+
+  'Daron' appears 14 time(s):
+    Line 2889: Alyson begins by looking for a concept, a basic idea which she can build her ...
+      -> Suggestions: daren, darin, aron
+    Line 2893: Alyson has to prioritize Daron's Attribute categories now, to determine her b...
+      -> Suggestions: daren, darin, aron
+    Line 2897: Now Alyson has to choose Daron's Abilities. Although she sees so many she'd l...
+      -> Suggestions: daren, darin, aron
+    Line 2900: Disciplines come next; here too is another area Alyson wants to have a broad ...
+      -> Suggestions: daren, darin, aron
+    Line 2902: Camarilla vampire, Daron begins play with three levels of Disciplines, and af...
+      -> Suggestions: daren, darin, aron
+    ... and 9 more occurrence(s)
+
+  'Das' appears 1 time(s):
+    Line 1999: Since many of the operations that Cainites undertake are at least marginally ...
+      -> Suggestions: dah, dak, as
+
+  'demenses' appears 1 time(s):
+    Line 380: It might be supposed from all this talk that the Kindred are powerful enough ...
+      -> Suggestions: defenses, demesnes
+
+  'demonologists' appears 1 time(s):
+    Line 3612: Though modern Cainites know the Salubri as soul-stealing demonologists, the p...
+      -> Suggestions: demonologist
+
+  'des' appears 2 time(s):
+    Line 2237: For more about ghouls, see Liber des Goules.
+      -> Suggestions: de, les, does
+    Line 5976: More detailed rules and background for playing ghouls and revenants can be fo...
+      -> Suggestions: de, les, does
+
+  'didn' appears 7 time(s):
+    Line 28: Kevin skulked up the storm drain tunnel, his boots making only the slightest ...
+      -> Suggestions: dion, dian, dido
+    Line 103: First, he thought, he would go to Warburton and bear false witness against tw...
+      -> Suggestions: dion, dian, dido
+    Line 4475: Donata had some time to herself, once Peter and Kevin had both left. She took...
+      -> Suggestions: dion, dian, dido
+    Line 5454: Replacing the bag, Kevin leaned against the wall, sliding down to a comfortab...
+      -> Suggestions: dion, dian, dido
+    Line 5484: Storytelling is less like engineering and more like experimental chemistry. I...
+      -> Suggestions: dion, dian, dido
+    ... and 2 more occurrence(s)
+
+  'Djs' appears 1 time(s):
+    Line 2022: opinion, with Djs, editors of all varieties, reporters, cameramen, photograph...
+      -> Suggestions: d's, dos, dis
+
+  'doesn' appears 23 time(s):
+    Line 172: What is Mind's Eye Theatre? This game is probably unlike anything you have pl...
+      -> Suggestions: does
+    Line 248: Likewise, if you see something that you want in your game that doesn't appear...
+      -> Suggestions: does
+    Line 657: A concept shouldn't be an exercise in pulling teeth, or another frustrating b...
+      -> Suggestions: does
+    Line 1020: Each Path (including Humanity) has a Hierarchy of Sins. This Hierarchy elabor...
+      -> Suggestions: does
+    Line 1599: Though most people can drive in the modern age, you can drive well. You're eq...
+      -> Suggestions: does
+    ... and 18 more occurrence(s)
+
+  'Donata' appears 53 time(s):
+    Line 12: Coleman rolled his eyes, he hoped invisibly. "As you say, Donata. I humbly be...
+      -> Suggestions: donate, sonata
+    Line 18: Donata took a step to the left, gritting her teeth almost audibly. "Whatever ...
+      -> Suggestions: donate, sonata
+    Line 22: "His kind always is," said Donata, and sat in the darkness beside him. He gla...
+      -> Suggestions: donate, sonata
+    Line 30: ("He's coming," Donata said, a quarter mile ahead. "I can hear him." Coleman ...
+      -> Suggestions: donate, sonata
+    Line 40: Beside Coleman, Donata could barely swallow her laughter. Kristof the Nosfera...
+      -> Suggestions: donate, sonata
+    ... and 48 more occurrence(s)
+
+  'Dracos' appears 1 time(s):
+    Line 4662: **Example of Play:***Dracos is caught in a Sabbat ambush. His first attacker ...
+      -> Suggestions: draco, draco's
+
+  'empt' appears 3 time(s):
+    Line 4782: Fast weapons can be used to "pre-empt" an opponent's attack, allowing the att...
+      -> Suggestions: emp, emit, tempt
+    Line 4814: Special Ability: Speed: In close combat against any weapon that has the Negat...
+      -> Suggestions: emp, emit, tempt
+    Line 4840: Special Ability: Speed: In close combat against any weapon that has the Negat...
+      -> Suggestions: emp, emit, tempt
+
+  'Endora' appears 1 time(s):
+    Line 4565: **Example of Play:** *Favian, Setite manipulator, is attempting to coax infor...
+      -> Suggestions: indore, mendoza, pandora
+
+  'etc' appears 17 time(s):
+    Line 1561: Animal Ken is often used with the Animalism Discipline. With Animal Ken, you ...
+      -> Suggestions: eta, tc, etch
+    Line 1887: |      | marriage, burial, etc.)                             |
+      -> Suggestions: eta, tc, etch
+    Line 2135: |      | mundane threats (robbery, terrorism, sunlight, etc.)    |
+      -> Suggestions: eta, tc, etch
+    Line 2140: |      | (bus lines, ships, planes, trains, etc.) temporarily    |
+      -> Suggestions: eta, tc, etch
+    Line 2471: A physical deformity of some sort not only mars your appearance, but it makes...
+      -> Suggestions: eta, tc, etch
+    ... and 12 more occurrence(s)
+
+  'eyepatch' appears 1 time(s):
+    Line 2459: Whether by injury or defect, you are missing an eye or one of your eyes does ...
+
+  'Faqs' appears 1 time(s):
+    Line 6111: **Check the Faqs — Mind's Eye Theatre** has evolved considerably since its cr...
+      -> Suggestions: fa's, fats, fads
+
+  'Favian' appears 1 time(s):
+    Line 4565: **Example of Play:** *Favian, Setite manipulator, is attempting to coax infor...
+      -> Suggestions: fabian, avian
+
+  'flamewreathed' appears 1 time(s):
+    Line 4162: The *Hand of Flame* causes aggravated damage, if you strike with your flamewr...
+
+  'Flannery' appears 1 time(s):
+    Line 137: **Playtesters:**Kathryn Abromovich, Chris Arnold, David Blackwell, Michael Bl...
+      -> Suggestions: flankers, tannery, flattery
+
+  'forone' appears 2 time(s):
+    Line 3032: The powers of Auspex grant the ability to see through supernatural deception....
+      -> Suggestions: fordone, forgone
+    Line 3683: The Discipline of *Auspex* can sometimes be used to pierce the veil of *Obfus...
+      -> Suggestions: fordone, forgone
+
+  'gangbangers' appears 1 time(s):
+    Line 1725: Word on the street is known to you. Even if you don't have any particular fri...
+
+  'Geoff' appears 1 time(s):
+    Line 137: **Playtesters:**Kathryn Abromovich, Chris Arnold, David Blackwell, Michael Bl...
+      -> Suggestions: goff, feoff
+
+  'Gerst' appears 1 time(s):
+    Line 137: **Playtesters:**Kathryn Abromovich, Chris Arnold, David Blackwell, Michael Bl...
+      -> Suggestions: erst, verst, gest
+
+  'getters' appears 1 time(s):
+    Line 5813: If the new person has never roleplayed before, pitching them out into the gam...
+      -> Suggestions: betters, letters, wetters
+
+  'Glenys' appears 1 time(s):
+    Line 137: **Playtesters:**Kathryn Abromovich, Chris Arnold, David Blackwell, Michael Bl...
+      -> Suggestions: glen's, glens
+
+  'Gnps' appears 1 time(s):
+    Line 1621: The world of money and business awaits your whim. You understand interest, Cd...
+      -> Suggestions: gnp's, gyps, gnus
+
+  'gramaphone' appears 1 time(s):
+    Line 1713: You're exceptionally good at finding *stuff*. Whether it's a crucial part for...
+      -> Suggestions: gramophone
+
+  'Gras' appears 1 time(s):
+    Line 6098: Kindred scholars have noticed that faeries are typically most active around t...
+      -> Suggestions: gris, grab, grays
+
+  'Greenlee' appears 1 time(s):
+    Line 137: **Playtesters:**Kathryn Abromovich, Chris Arnold, David Blackwell, Michael Bl...
+      -> Suggestions: greenlet
+
+  'hadn' appears 1 time(s):
+    Line 556: Kevin nodded amicably. "Of course," he murmured, shooting a jealous look at P...
+      -> Suggestions: hade, hahn, hand
+
+  'hasn' appears 2 time(s):
+    Line 2904: Finally, Daron's Camarilla status gives Alyson five levels of Backgrounds to ...
+      -> Suggestions: hash, hahn, hasp
+    Line 2912: Alyson now has the option to choose Flaws and Negative Traits for her charact...
+      -> Suggestions: hash, hahn, hasp
+
+  'hauntings' appears 1 time(s):
+    Line 6077: Not every mortal lingers on as a wraith, but all those that do are anchored t...
+      -> Suggestions: haunting
+
+  'Heinig' appears 1 time(s):
+    Line 117: **Written by:**Jason Carl, Jess Heinig, Peter Woodworth
+      -> Suggestions: heinie
+
+  'hellstorms' appears 1 time(s):
+    Line 4152: Perhaps one of the most feared forms of vampire magic, *The Lure of Flames* a...
+      -> Suggestions: hailstorms
+
+  'Hinkle' appears 1 time(s):
+    Line 137: **Playtesters:**Kathryn Abromovich, Chris Arnold, David Blackwell, Michael Bl...
+      -> Suggestions: tinkle, inkle, winkle
+
+  'hitmen' appears 2 time(s):
+    Line 2148: The world of crime offers lucrative possibilities to strong-willed or subtle ...
+      -> Suggestions: batmen, vimen, mitten
+    Line 5996: Finally, Kindred have long had their talons in the affairs of organized crime...
+      -> Suggestions: batmen, vimen, mitten
+
+  'im' appears 1 time(s):
+    Line 5185: Kindred have developed many intricate rules of protocol and procedure when de...
+      -> Suggestions: ir, ibm, ia
+
+  'imimportance' appears 4 time(s):
+    Line 3445: To call a ghost, you must know its name, or at least have a clear image of it...
+      -> Suggestions: importance, unimportance
+    Line 3598: This three-hour ritual is most often used by skilled necromancers of the *Sep...
+      -> Suggestions: importance, unimportance
+    Line 5332: The Sabbat places great imimportance on rituals, since they bolster morale an...
+      -> Suggestions: importance, unimportance
+    Line 6011: Werewolves appear to be divided by families, and the shifters place a great d...
+      -> Suggestions: importance, unimportance
+
+  'inventslang' appears 1 time(s):
+    Line 398: A new existence calls for new words. Many young vampires often inventslang, w...
+
+  'ious' appears 1 time(s):
+    Line 6165: A Abilities 93 Specializations 86 Anarchs 254 Archetypes 73 Armor 206 Attribu...
+      -> Suggestions: nous, yous, imus
+
+  'Ipos' appears 1 time(s):
+    Line 12: Coleman rolled his eyes, he hoped invisibly. "As you say, Donata. I humbly be...
+      -> Suggestions: ipod, ipoh, epos
+
+  'isn' appears 14 time(s):
+    Line 16: Peter smiled and sat down on a projecting ledge. The concrete was surprisingl...
+      -> Suggestions: sn, in, inn
+    Line 910: Unlike other Attributes, you should only take Negative Traits from the list h...
+      -> Suggestions: sn, in, inn
+    Line 1611: Even though knowing which fork to use isn't as important to Kindred society, ...
+      -> Suggestions: sn, in, inn
+    Line 2884: The Merits and Flaws from **Vampire: The Masquerade** have direct corresponde...
+      -> Suggestions: sn, in, inn
+    Line 4713: If a player does not respond within three seconds of the declaration of a Phy...
+      -> Suggestions: sn, in, inn
+    ... and 9 more occurrence(s)
+
+  'jetsetters' appears 1 time(s):
+    Line 1962: |                        | any stripe, old money families, models, rock stars...
+
+  'Judeo' appears 1 time(s):
+    Line 5028: Some vampires pursue a mystical state of being known as Golconda, where the v...
+      -> Suggestions: jude, judo, judea
+
+  'Kauffman' appears 1 time(s):
+    Line 137: **Playtesters:**Kathryn Abromovich, Chris Arnold, David Blackwell, Michael Bl...
+      -> Suggestions: kaufman
+
+  'knowledges' appears 1 time(s):
+    Line 5467: That's good, because this chapter is for you! This section details essential ...
+      -> Suggestions: knowledge, knowledge's
+
+  'Kristof' appears 7 time(s):
+    Line 38: "You really don't want to test me, Kevin," the voice said wearily. "I'm right...
+      -> Suggestions: kristin, kristen, kristy
+    Line 40: Beside Coleman, Donata could barely swallow her laughter. Kristof the Nosfera...
+      -> Suggestions: kristin, kristen, kristy
+    Line 556: Kevin nodded amicably. "Of course," he murmured, shooting a jealous look at P...
+      -> Suggestions: kristin, kristen, kristy
+    Line 606: "This will settle matters. Nobody will be able to confirm anything out of Kri...
+      -> Suggestions: kristin, kristen, kristy
+    Line 616: "I did it just as the Warlock instructed. He said to make that symbol, to bur...
+      -> Suggestions: kristin, kristen, kristy
+    ... and 2 more occurrence(s)
+
+  'lawyering' appears 1 time(s):
+    Line 5815: Some older players exhibit a disturbing tendency to view new players as "fres...
+      -> Suggestions: layering
+
+  'Leatherworking' appears 2 time(s):
+    Line 1587: You can build things. Depending on your area of expertise, you know how to ma...
+    Line 1805: Max. Abilities is the maximum levels you can take in any one Ability. With a ...
+
+  'Leber' appears 1 time(s):
+    Line 137: **Playtesters:**Kathryn Abromovich, Chris Arnold, David Blackwell, Michael Bl...
+      -> Suggestions: leger, lever, leper
+
+  'Lemke' appears 1 time(s):
+    Line 135: **Mind's Eye Theatre Design:** Mark Rein•Hagen, Ian Lemke and Mike Tinney
+      -> Suggestions: lepke, lemme
+
+  'll' appears 36 time(s):
+    Line 14: "Must you do that?" she said, an edge of real irritation coloring her voice. ...
+      -> Suggestions: lt, lx, lm
+    Line 18: Donata took a step to the left, gritting her teeth almost audibly. "Whatever ...
+      -> Suggestions: lt, lx, lm
+    Line 30: ("He's coming," Donata said, a quarter mile ahead. "I can hear him." Coleman ...
+      -> Suggestions: lt, lx, lm
+    Line 38: "You really don't want to test me, Kevin," the voice said wearily. "I'm right...
+      -> Suggestions: lt, lx, lm
+    Line 48: Kevin snarled. "And you get nothing out of it? Bullshit. You don't want your ...
+      -> Suggestions: lt, lx, lm
+    ... and 31 more occurrence(s)
+
+  'Loeffler' appears 1 time(s):
+    Line 137: **Playtesters:**Kathryn Abromovich, Chris Arnold, David Blackwell, Michael Bl...
+
+  'Los' appears 1 time(s):
+    Line 5955: Things began to change in earnest with the 20th century. As individual rights...
+      -> Suggestions: kos, les, log
+
+  'mages' appears 3 time(s):
+    Line 2625: A particular enemy is out to ruin you, or worse, to kill you. You may even ha...
+      -> Suggestions: mags, manes, images
+    Line 6031: • All wizards have high Willpower Traits; bending reality demands no less. Mo...
+      -> Suggestions: mags, manes, images
+    Line 6066: - Mages are limited in the scope of their magics by a mysterious factor known...
+      -> Suggestions: mags, manes, images
+
+  'Mardi' appears 1 time(s):
+    Line 6098: Kindred scholars have noticed that faeries are typically most active around t...
+      -> Suggestions: mahdi, mari, marci
+
+  'Marsilio' appears 1 time(s):
+    Line 4553: Example of Play: Joshua the Gangrel is attacking Marsilio, a Toreador sociali...
+      -> Suggestions: massilia
+
+  'masse' appears 2 time(s):
+    Line 598: For several hundred years, the Assamites, Followers of Set, Giovanni and Ravn...
+      -> Suggestions: tasse, massy, massey
+    Line 2764: Similarly, clans remain largely unchanged. The Gangrel may have left the Cama...
+      -> Suggestions: tasse, massy, massey
+
+  'Mauslein' appears 1 time(s):
+    Line 137: **Playtesters:**Kathryn Abromovich, Chris Arnold, David Blackwell, Michael Bl...
+      -> Suggestions: mullein, muslin, maudlin
+
+  'Mcghee' appears 1 time(s):
+    Line 137: **Playtesters:**Kathryn Abromovich, Chris Arnold, David Blackwell, Michael Bl...
+      -> Suggestions: mcgee
+
+  'Mcilvaine' appears 1 time(s):
+    Line 137: **Playtesters:**Kathryn Abromovich, Chris Arnold, David Blackwell, Michael Bl...
+
+  'ments' appears 1 time(s):
+    Line 5474: ments, demanding to be recorded before they are forgotten. Dinner gets cold w...
+      -> Suggestions: tents, menes, mens
+
+  'metagaming' appears 1 time(s):
+    Line 5878: metagaming: "hey, your Character Can't Possibly know that!"
+
+  'metamorph' appears 1 time(s):
+    Line 5996: Finally, Kindred have long had their talons in the affairs of organized crime...
+      -> Suggestions: metamorphic, mesomorph
+
+  'Metcalf' appears 1 time(s):
+    Line 137: **Playtesters:**Kathryn Abromovich, Chris Arnold, David Blackwell, Michael Bl...
+      -> Suggestions: metals, mescals, mescal
+
+  'Morgana' appears 1 time(s):
+    Line 3162: #### **Fata Morgana**
+      -> Suggestions: morgans, morgan
+
+  'nec' appears 1 time(s):
+    Line 3562: On learning *Necromancy*, the individual learns one Basic ritual. For each le...
+      -> Suggestions: nev, net, ne
+
+  'needn' appears 1 time(s):
+    Line 5717: You don't need to spend a fortune on props. You'll find many excellent pieces...
+      -> Suggestions: needy, need, needs
+
+  'Ngaire' appears 1 time(s):
+    Line 137: **Playtesters:**Kathryn Abromovich, Chris Arnold, David Blackwell, Michael Bl...
+      -> Suggestions: nacre, claire, nairn
+
+  'Nostra' appears 1 time(s):
+    Line 2148: The world of crime offers lucrative possibilities to strong-willed or subtle ...
+      -> Suggestions: rostra
+
+  'nots' appears 1 time(s):
+    Line 258: Gothic-Punk is the term used to describe the attitude of the World of Darknes...
+      -> Suggestions: hots, nits, mots
+
+  'nunchaku' appears 1 time(s):
+    Line 1671: If you've got something in your hands, you're a deadly fighter. Be it a sword...
+
+  'Obertuses' appears 1 time(s):
+    Line 5974: although such mortals are seldom allowed to enjoy their ghouldom longer than ...
+      -> Suggestions: overuses, overtures
+
+  'oppo' appears 1 time(s):
+    Line 4742: Some weapons have Negative Traits that can be used by the wielder's oppo-
+      -> Suggestions: mokpo, otto, poop
+
+  'pance' appears 1 time(s):
+    Line 6233: Let the midnight pance begin....
+      -> Suggestions: pace, pence, lance
+
+  'Pickpocketing' appears 1 time(s):
+    Line 1205: **Dexterous:** General adroitness and skill involving the use of one's hands....
+
+  'Playtesters' appears 1 time(s):
+    Line 137: **Playtesters:**Kathryn Abromovich, Chris Arnold, David Blackwell, Michael Bl...
+
+  'plotline' appears 1 time(s):
+    Line 5580: You can help yourself pace stories more successfully by learning to narrate s...
+      -> Suggestions: hotline, proline, trotline
+
+  'pp' appears 2 time(s):
+    Line 2381: Derangements are tools of advanced roleplaying, and they should only be taken...
+      -> Suggestions: pt, up, pg
+    Line 2385: As listed previously under Attributes, you can take Negative Traits to specif...
+      -> Suggestions: pt, up, pg
+
+  'pre' appears 4 time(s):
+    Line 4782: Fast weapons can be used to "pre-empt" an opponent's attack, allowing the att...
+      -> Suggestions: pres, pe, pore
+    Line 4814: Special Ability: Speed: In close combat against any weapon that has the Negat...
+      -> Suggestions: pres, pe, pore
+    Line 4840: Special Ability: Speed: In close combat against any weapon that has the Negat...
+      -> Suggestions: pres, pe, pore
+    Line 5775: ## Pre-game Setup
+      -> Suggestions: pres, pe, pore
+
+  'predatorial' appears 1 time(s):
+    Line 755: Every vampire struggles with the Beast Within, the predatorial drive of hunge...
+      -> Suggestions: predatorily
+
+  'Prev' appears 1 time(s):
+    Line 6165: A Abilities 93 Specializations 86 Anarchs 254 Archetypes 73 Armor 206 Attribu...
+      -> Suggestions: pres, prov, perv
+
+  'puppeteering' appears 1 time(s):
+    Line 5459: His hand coming down in a strident chord, Kevin's thoughts turned inward, and...
+
+  'Pustulent' appears 1 time(s):
+    Line 4053: The Samedi are feared for their control over decay, and *Putrefaction* is the...
+      -> Suggestions: pustulant
+
+  'querent' appears 1 time(s):
+    Line 3070: can be uncovered are anything that could be discerned with *Aura Perception*,...
+      -> Suggestions: gerent, querist, current
+
+  'rapidfire' appears 1 time(s):
+    Line 3106: Since *Celerity* simply grants additional actions or modifiers to speed, it d...
+
+  'reador' appears 1 time(s):
+    Line 6098: Kindred scholars have noticed that faeries are typically most active around t...
+      -> Suggestions: reader
+
+  'roleplay' appears 14 time(s):
+    Line 912: Remember to take Negative Traits that you can roleplay accurately and well. T...
+      -> Suggestions: replay, teleplay, foreplay
+    Line 919: In addition to Negative Traits, you can choose derangements for your characte...
+      -> Suggestions: replay, teleplay, foreplay
+    Line 1018: When you create a vampire character, you default to the morality of Humanity....
+      -> Suggestions: replay, teleplay, foreplay
+    Line 2279: - You can spend a Willpower Trait to try to control yourself briefly while in...
+      -> Suggestions: replay, teleplay, foreplay
+    Line 2479: More than simply suffering from a twitchy limb like the *Lame* Negative Physi...
+      -> Suggestions: replay, teleplay, foreplay
+    ... and 9 more occurrence(s)
+
+  'roleplayed' appears 5 time(s):
+    Line 3025: You must be on the verge of frenzy to use this Discipline. You exert this pow...
+      -> Suggestions: replayed
+    Line 4980: Contests of will are an ancient tradition in Kindred society. They occur when...
+      -> Suggestions: replayed
+    Line 5065: **First drink:** At this stage, the drinker has strong flashes of emotion reg...
+      -> Suggestions: replayed
+    Line 5747: Every player should earn at least one Experience Trait automatically for part...
+      -> Suggestions: replayed
+    Line 5813: If the new person has never roleplayed before, pitching them out into the gam...
+      -> Suggestions: replayed
+
+  'roleplaying' appears 31 time(s):
+    Line 170: Now we come to the 1970s, and the era of roleplaying. A group of players sits...
+      -> Suggestions: replaying
+    Line 238: Remember to leave the game behind when the session's over. "Soft" roleplaying...
+      -> Suggestions: replaying
+    Line 655: Many Storytellers and Narrators think that when creating characters, the play...
+      -> Suggestions: replaying
+    Line 921: Remember that playing a derangement is an exercise in advanced roleplaying. I...
+      -> Suggestions: replaying
+    Line 2300: Regaining Virtue Traits requires the expenditure of Experience, as well as co...
+      -> Suggestions: replaying
+    ... and 26 more occurrence(s)
+
+  'rousers' appears 1 time(s):
+    Line 5996: Finally, Kindred have long had their talons in the affairs of organized crime...
+      -> Suggestions: mousers, rouses, roulers
+
+  'royerend' appears 1 time(s):
+    Line 5908: ## favoritism: "You're only letting him play an elder because he's your royer...
+      -> Suggestions: rogered, reverend
+
+  'rulebook' appears 1 time(s):
+    Line 2671: A ghostly companion and guide follows you about, exercising its powers on you...
+      -> Suggestions: rebook
+
+  'rulebooks' appears 1 time(s):
+    Line 6111: **Check the Faqs — Mind's Eye Theatre** has evolved considerably since its cr...
+
+  'rulership' appears 1 time(s):
+    Line 492: **Prince** — A vampire (male or female) who has established a claim of rulers...
+      -> Suggestions: ridership
+
+  'ruleth' appears 1 time(s):
+    Line 329: Honor one another's domain. When thou comest to a foreign city, thou shalt pr...
+      -> Suggestions: ralegh, rulers, runlets
+
+  'Salle' appears 1 time(s):
+    Line 2261: **Example:** Romero de la Salle, Lasombra antitribu scourge, wants to augment...
+      -> Suggestions: sallie, sally, sallet
+
+  'Schlagenhanz' appears 1 time(s):
+    Line 1547: **Example:** *Marcus von Schlagenhanz is an experienced Brujah fighter, but h...
+
+  'sequiturs' appears 1 time(s):
+    Line 3243: You must gain your target's total attention for a full turn; many Malkavians ...
+      -> Suggestions: requiters
+
+  'shouldn' appears 5 time(s):
+    Line 657: A concept shouldn't be an exercise in pulling teeth, or another frustrating b...
+      -> Suggestions: should
+    Line 960: - Secrets Secrets are one of the major commodities of Cainite society. Do you...
+      -> Suggestions: should
+    Line 5580: You can help yourself pace stories more successfully by learning to narrate s...
+      -> Suggestions: should
+    Line 5684: Take some time to think about what the setting must be like from your charact...
+      -> Suggestions: should
+    Line 5717: You don't need to spend a fortune on props. You'll find many excellent pieces...
+      -> Suggestions: should
+
+  'sirenlike' appears 1 time(s):
+    Line 3371: With this Discipline, the very voice of a Cainite is a powerful tool. Inspiri...
+      -> Suggestions: ironlike
+
+  'specializa' appears 1 time(s):
+    Line 1547: **Example:** *Marcus von Schlagenhanz is an experienced Brujah fighter, but h...
+      -> Suggestions: specialize
+
+  'stealers' appears 1 time(s):
+    Line 737: • Salubri — (Independent) Reviled as soul-stealers and diablerists, the Cyclo...
+      -> Suggestions: steamers, stealer, sealers
+
+  'Submachine' appears 2 time(s):
+    Line 4888: **Submachine Gun** — These weapons are very powerful, and they fire a large n...
+      -> Suggestions: submarine
+    Line 4894: Special Ability: *Spray*: A submachine gun may affect up to five targets if t...
+      -> Suggestions: submarine
+
+  'Tinney' appears 1 time(s):
+    Line 135: **Mind's Eye Theatre Design:** Mark Rein•Hagen, Ian Lemke and Mike Tinney
+      -> Suggestions: tinner, kinney, tinned
+
+  'tion' appears 2 time(s):
+    Line 4126: tion superior to your natural one. You need only murmur for a moment, and you...
+      -> Suggestions: dion, pion, ion
+    Line 4878: tion. Note that the character must specifically acquire such ammunition to ga...
+      -> Suggestions: dion, pion, ion
+
+  'Tourette' appears 1 time(s):
+    Line 2573: A stammer, Tourette's Syndrome or other speech deficiency makes communication...
+      -> Suggestions: soubrette, burette, courgette
+
+  'Traints' appears 1 time(s):
+    Line 930: ## Free Traints
+      -> Suggestions: trains, traits, train's
+
+  'trancelike' appears 1 time(s):
+    Line 5093: Characters suffering this affliction react to stress by adopting a specific s...
+      -> Suggestions: branchlike
+
+  'transmutive' appears 1 time(s):
+    Line 3920: Ancient tales of vampires tell that they assume the forms of wolves and bats....
+      -> Suggestions: transitive, transmuting, transmute
+
+  'Trenchcoat' appears 2 time(s):
+    Line 4826: Bonus Traits: Club: 2, Ax: 3 Negative Traits: Clumsy Concealability: Trenchcoat
+    Line 4836: Negative Traits: Fragile Concealability: Trenchcoat Damage: One health level
+
+  'Tullis' appears 1 time(s):
+    Line 137: **Playtesters:**Kathryn Abromovich, Chris Arnold, David Blackwell, Michael Bl...
+      -> Suggestions: tull's, tallis, cullis
+
+  'unconcealable' appears 1 time(s):
+    Line 2443: You exude the unconcealable stench of wet earth, which puts you one Trait dow...
+      -> Suggestions: concealable, unconceivable
+
+  'unthreatened' appears 1 time(s):
+    Line 3279: To uncover, alter or erase memories, you must make a Mental Challenge against...
+      -> Suggestions: threatened
+
+  'untrusted' appears 1 time(s):
+    Line 721: • Tremere — (Camarilla) Ruthless and insular, the Warlocks and their potent b...
+      -> Suggestions: intrusted, entrusted
+
+  'vampiric' appears 36 time(s):
+    Line 217: **Chapter Five: Rules, Systems and Drama** — The chapter starts with the basi...
+      -> Suggestions: vampires, vampire, vampirism
+    Line 282: To Embrace a new vampire, the sire drains her chosen victim of blood, similar...
+      -> Suggestions: vampires, vampire, vampirism
+    Line 309: The Traditions are considered the inviolate rules of Kindred existence, and t...
+      -> Suggestions: vampires, vampire, vampirism
+    Line 374: Ghouls receive a number of benefits from their servitude — they often develop...
+      -> Suggestions: vampires, vampire, vampirism
+    Line 380: It might be supposed from all this talk that the Kindred are powerful enough ...
+      -> Suggestions: vampires, vampire, vampirism
+    ... and 31 more occurrence(s)
+
+  've' appears 18 time(s):
+    Line 16: Peter smiled and sat down on a projecting ledge. The concrete was surprisingl...
+      -> Suggestions: de, xe, vex
+    Line 48: Kevin snarled. "And you get nothing out of it? Bullshit. You don't want your ...
+      -> Suggestions: de, xe, vex
+    Line 71: "All right, little anarch, you've had your fun. What the hell was that about?...
+      -> Suggestions: de, xe, vex
+    Line 266: Vampires have been fixtures in myth and legend since time immemorial. Sometim...
+      -> Suggestions: de, xe, vex
+    Line 792: Once you've decided on your character's inherent strengths, you should descri...
+      -> Suggestions: de, xe, vex
+    ... and 13 more occurrence(s)
+
+  'versa' appears 1 time(s):
+    Line 5578: You can mitigate, if not avoid, these eventualities by giving due thought to ...
+      -> Suggestions: verse, verna, verst
+
+  'von' appears 1 time(s):
+    Line 1547: **Example:** *Marcus von Schlagenhanz is an experienced Brujah fighter, but h...
+      -> Suggestions: on, son, ion
+
+  'Warburton' appears 10 time(s):
+    Line 85: "Warburton. It was Warburton. He's moving up, so he wanted to find out who wa...
+    Line 87: "Well, Mr. Warburton is going to have to do without your services, Kevin. I'm...
+    Line 93: "If you kill this piece of trash, we'll only look guilty in Warburton's eyes....
+    Line 103: First, he thought, he would go to Warburton and bear false witness against tw...
+    Line 540: Elysium had closed without difficulty — a few words played into the right ear...
+    ... and 5 more occurrence(s)
+
+  'wasn' appears 6 time(s):
+    Line 28: Kevin skulked up the storm drain tunnel, his boots making only the slightest ...
+      -> Suggestions: wasp, wan, wash
+    Line 73: "It wasn't nothing, man! I just wanted a look at your faces! I wanted to know...
+      -> Suggestions: wasp, wan, wash
+    Line 4475: Donata had some time to herself, once Peter and Kevin had both left. She took...
+      -> Suggestions: wasp, wan, wash
+    Line 5450: Feeling uncharacteristically morose, Kevin made his way along the flagstones,...
+      -> Suggestions: wasp, wan, wash
+    Line 5452: Atop the mausoleum, Kevin reached into a large nook behind a loose stone in t...
+      -> Suggestions: wasp, wan, wash
+    ... and 1 more occurrence(s)
+
+  'weren' appears 2 time(s):
+    Line 5819: You can't be everywhere during a game session. Sooner or later you will reali...
+      -> Suggestions: ween, were, wezen
+    Line 5906: Sooner or later you'll tell a story that doesn't work right. Maybe the player...
+      -> Suggestions: ween, were, wezen
+
+  'whiplike' appears 1 time(s):
+    Line 4013: You need only spend a Blood Trait and a Willpower Trait to invoke this power....
+
+  'Willdower' appears 1 time(s):
+    Line 2270: ## Willdower
+      -> Suggestions: willpower
+
+  'Woodworth' appears 2 time(s):
+    Line 117: **Written by:**Jason Carl, Jess Heinig, Peter Woodworth
+      -> Suggestions: woolworth
+    Line 137: **Playtesters:**Kathryn Abromovich, Chris Arnold, David Blackwell, Michael Bl...
+      -> Suggestions: woolworth
+
+  'wouldn' appears 3 time(s):
+    Line 16: Peter smiled and sat down on a projecting ledge. The concrete was surprisingl...
+      -> Suggestions: woulds, would
+    Line 5018: terrors, many Kindred also have Rötschreck triggers related to important pers...
+      -> Suggestions: woulds, would
+    Line 5461: Relieved of the burden of an unnatural love for Donata, Kevin clashed out a h...
+      -> Suggestions: woulds, would
+
+  'x3' appears 1 time(s):
+    Line 1838: Influence comes in many different areas. You must allocate Traits separately ...
+      -> Suggestions: xi, xu, xe
+
+  'Yakuza' appears 1 time(s):
+    Line 2148: The world of crime offers lucrative possibilities to strong-willed or subtle ...
+      -> Suggestions: yakka, yakut, yakima
+
+  'Zanatosas' appears 1 time(s):
+    Line 5974: although such mortals are seldom allowed to enjoy their ghouldom longer than ...
+
+Checking: wod_vocabulary.md
+OK: No spelling errors found!
+
+================================================================================
+Summary:
+================================================================================
+  LotNR-Headers.md: 478 potential error(s)
+  wod_vocabulary.md: 0 potential error(s)
+
+Total: 478 potential spelling error(s)
